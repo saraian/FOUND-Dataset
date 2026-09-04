@@ -1,0 +1,608 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0005",
+      "placement_id": "desk_26::desk_26_surface_01",
+      "position": [
+        -5.388742446899414,
+        0.8413508331775665,
+        1.9373106956481934
+      ],
+      "capture_eye": [
+        -4.588742256164551,
+        0.9913508296012878,
+        1.9373106956481934
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        -5.388742446899414,
+        0.7613208293914795,
+        1.9373106956481934
+      ],
+      "target_surface_group": "rendered:76:10",
+      "visual_surface_validated": true,
+      "name": "saffron_sauce_cauldron",
+      "template": "002_master_chef_can"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0093",
+      "placement_id": "table_55::table_55_surface_02",
+      "position": [
+        2.8030831813812256,
+        0.6241639202833176,
+        1.9672269821166992
+      ],
+      "capture_eye": [
+        3.6030831336975098,
+        0.7741639018058777,
+        1.9672269821166992
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        2.8030831813812256,
+        0.5184689164161682,
+        1.9672269821166992
+      ],
+      "target_surface_group": "rendered:206:7",
+      "visual_surface_validated": true,
+      "name": "golden_tap_kicker",
+      "template": "006_mustard_bottle"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0033",
+      "placement_id": "table_63::table_63_surface_02",
+      "position": [
+        -4.33302640914917,
+        0.790932143330574,
+        5.38284158706665
+      ],
+      "capture_eye": [
+        -5.133026599884033,
+        0.9409320950508118,
+        5.38284158706665
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -4.33302640914917,
+        0.7452481389045715,
+        5.38284158706665
+      ],
+      "target_surface_group": "rendered:97:9",
+      "visual_surface_validated": true,
+      "name": "sunburst_peel_squirt",
+      "template": "017_orange"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0285",
+      "placement_id": "table_54::table_54_surface_01",
+      "position": [
+        5.449972629547119,
+        0.5711097440123558,
+        1.822930097579956
+      ],
+      "capture_eye": [
+        6.249972820281982,
+        0.7211097478866577,
+        1.822930097579956
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        5.449972629547119,
+        0.5336267352104187,
+        1.822930097579956
+      ],
+      "target_surface_group": "rendered:133:7",
+      "visual_surface_validated": true,
+      "name": "harvest_hollow_basin",
+      "template": "024_bowl"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0054",
+      "placement_id": "couch_20::couch_20_surface_03",
+      "position": [
+        1.9403095245361328,
+        1.0251154045015574,
+        3.482414960861206
+      ],
+      "capture_eye": [
+        1.1403095722198486,
+        1.1751153469085693,
+        3.482414960861206
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        1.9403095245361328,
+        1.0017263889312744,
+        3.482414960861206
+      ],
+      "target_surface_group": "rendered:204:13",
+      "visual_surface_validated": true,
+      "name": "crimson_dish_rim",
+      "template": "029_plate"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0006",
+      "placement_id": "chest_of_drawers_17::chest_of_drawers_17_surface_01",
+      "position": [
+        -2.618569850921631,
+        0.8159534057974815,
+        1.1972548961639404
+      ],
+      "capture_eye": [
+        -3.418569803237915,
+        0.9659534096717834,
+        1.1972548961639404
+      ],
+      "target_category": "chest of drawers",
+      "target_surface_point": [
+        -2.618569850921631,
+        0.7772648930549622,
+        1.1972548961639404
+      ],
+      "target_surface_group": "rendered:66:10",
+      "visual_surface_validated": true,
+      "name": "spice_rivet_drill",
+      "template": "035_power_drill"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0018",
+      "placement_id": "kitchen_counter_41::kitchen_counter_41_surface_04",
+      "position": [
+        0.517997145652771,
+        1.0373696072399616,
+        5.315958023071289
+      ],
+      "capture_eye": [
+        -0.37714195251464844,
+        1.1873695850372314,
+        5.315958023071289
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.517997145652771,
+        1.0095396041870117,
+        5.315958023071289
+      ],
+      "target_surface_group": "rendered:343:13",
+      "visual_surface_validated": true,
+      "name": "spice_tapper",
+      "template": "043_phillips_screwdriver"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0226",
+      "placement_id": "couch_21::couch_21_surface_01",
+      "position": [
+        2.5252161026000977,
+        0.38540724873542787,
+        10.717185020446777
+      ],
+      "capture_eye": [
+        3.329733371734619,
+        0.5354072451591492,
+        10.513914108276367
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        2.5252161026000977,
+        0.3127007484436035,
+        10.717185020446777
+      ],
+      "target_surface_group": "rendered:22:4",
+      "visual_surface_validated": true,
+      "name": "cinnamon_roller",
+      "template": "053_mini_soccer_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0150",
+      "placement_id": "table_60::table_60_surface_01",
+      "position": [
+        3.429306983947754,
+        0.9401018714904785,
+        4.372570991516113
+      ],
+      "capture_eye": [
+        2.6293070316314697,
+        1.0901018381118774,
+        4.372570991516113
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.429306983947754,
+        0.8931713700294495,
+        4.372570991516113
+      ],
+      "target_surface_group": "rendered:346:11",
+      "visual_surface_validated": true,
+      "name": "saffron_scoop_cups",
+      "template": "065-g_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0083",
+      "placement_id": "couch_20::couch_20_surface_07",
+      "position": [
+        3.4006123542785645,
+        0.7380526664108038,
+        2.705418348312378
+      ],
+      "capture_eye": [
+        4.169661045074463,
+        0.8880526423454285,
+        2.7063026428222656
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        3.4006123542785645,
+        0.6990751624107361,
+        2.705418348312378
+      ],
+      "target_surface_group": "rendered:204:9",
+      "visual_surface_validated": true,
+      "name": "flavor_mixer_cube",
+      "template": "077_rubiks_cube"
+    },
+    {
+      "action": "wait",
+      "seconds": 5.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0170",
+      "placement_id": "kitchen_counter_40::kitchen_counter_40_surface_01",
+      "position": [
+        -1.626637578010559,
+        0.945976654291153,
+        7.037112236022949
+      ],
+      "capture_eye": [
+        -0.8266375660896301,
+        1.095976710319519,
+        7.037112236022949
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        -1.626637578010559,
+        0.8659466505050659,
+        7.037112236022949
+      ],
+      "target_surface_group": "rendered:293:11",
+      "visual_surface_validated": true,
+      "object": "saffron_sauce_cauldron"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0190",
+      "placement_id": "kitchen_counter_41::kitchen_counter_41_surface_02",
+      "position": [
+        0.406050443649292,
+        1.0018134659528732,
+        5.957368850708008
+      ],
+      "capture_eye": [
+        1.23085618019104,
+        1.1518133878707886,
+        6.255038261413574
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.406050443649292,
+        0.8961184620857239,
+        5.957368850708008
+      ],
+      "target_surface_group": "rendered:343:11",
+      "visual_surface_validated": true,
+      "object": "golden_tap_kicker"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0180",
+      "placement_id": "table_62::table_62_surface_03",
+      "position": [
+        2.6734817028045654,
+        0.4784559255838394,
+        7.156210422515869
+      ],
+      "capture_eye": [
+        2.6734817028045654,
+        0.6284559369087219,
+        6.356210231781006
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        2.6734817028045654,
+        0.4327719211578369,
+        7.156210422515869
+      ],
+      "target_surface_group": "rendered:363:6",
+      "visual_surface_validated": true,
+      "object": "sunburst_peel_squirt"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0119",
+      "placement_id": "couch_20::couch_20_surface_05",
+      "position": [
+        3.089655637741089,
+        0.5571824035048485,
+        2.6565520763397217
+      ],
+      "capture_eye": [
+        3.889655590057373,
+        0.9071824550628662,
+        2.6565520763397217
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        3.089655637741089,
+        0.5196993947029114,
+        2.6565520763397217
+      ],
+      "target_surface_group": "rendered:204:7",
+      "visual_surface_validated": true,
+      "object": "harvest_hollow_basin"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0117",
+      "placement_id": "couch_19::couch_19_surface_05",
+      "position": [
+        2.736241102218628,
+        0.5307481626421213,
+        0.7627705931663513
+      ],
+      "capture_eye": [
+        3.5857343673706055,
+        0.6807481646537781,
+        1.109222650527954
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        2.736241102218628,
+        0.5073591470718384,
+        0.7627705931663513
+      ],
+      "target_surface_group": "rendered:203:6",
+      "visual_surface_validated": true,
+      "object": "crimson_dish_rim"
+    },
+    {
+      "action": "wait",
+      "seconds": 5.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0248",
+      "placement_id": "bed_05::bed_05_surface_02",
+      "position": [
+        8.208885192871094,
+        0.9053259214758873,
+        0.6242957711219788
+      ],
+      "capture_eye": [
+        8.994926452636719,
+        1.055325984954834,
+        0.2753222584724426
+      ],
+      "target_category": "bed",
+      "target_surface_point": [
+        8.208885192871094,
+        0.8666374087333679,
+        0.6242957711219788
+      ],
+      "target_surface_group": "rendered:113:11",
+      "visual_surface_validated": true,
+      "object": "spice_rivet_drill"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0196",
+      "placement_id": "kitchen_counter_41::kitchen_counter_41_surface_03",
+      "position": [
+        0.08276676386594772,
+        1.0219059570133686,
+        5.319157123565674
+      ],
+      "capture_eye": [
+        -0.7172332406044006,
+        1.1719058752059937,
+        5.319157123565674
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.08276676386594772,
+        0.9940759539604187,
+        5.319157123565674
+      ],
+      "target_surface_group": "rendered:343:12",
+      "visual_surface_validated": true,
+      "object": "spice_tapper"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0039",
+      "placement_id": "table_63::table_63_surface_01",
+      "position": [
+        -4.362093925476074,
+        0.6828224456310272,
+        5.662936210632324
+      ],
+      "capture_eye": [
+        -5.612093925476074,
+        0.8328224420547485,
+        5.662936210632324
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -4.362093925476074,
+        0.6101159453392029,
+        5.662936210632324
+      ],
+      "target_surface_group": "rendered:97:8",
+      "visual_surface_validated": true,
+      "object": "cinnamon_roller"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0156",
+      "placement_id": "couch_20::couch_20_surface_02",
+      "position": [
+        1.8782484531402588,
+        1.0277832245826721,
+        3.5606846809387207
+      ],
+      "capture_eye": [
+        2.6623427867889404,
+        1.1777832508087158,
+        3.8390328884124756
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        1.8782484531402588,
+        0.9808527231216431,
+        3.5606846809387207
+      ],
+      "target_surface_group": "rendered:204:12",
+      "visual_surface_validated": true,
+      "object": "saffron_scoop_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0109",
+      "placement_id": "couch_19::couch_19_surface_08",
+      "position": [
+        1.7510004043579102,
+        0.721961617693305,
+        0.7726890444755554
+      ],
+      "capture_eye": [
+        2.538754463195801,
+        0.8719615936279297,
+        1.078840732574463
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        1.7510004043579102,
+        0.6829841136932373,
+        0.7726890444755554
+      ],
+      "target_surface_group": "rendered:203:9",
+      "visual_surface_validated": true,
+      "object": "flavor_mixer_cube"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Create 10 specific objects with unique logical names, wait 5 seconds, move 5 objects to new destinations, wait 5 seconds, then move the remaining 5 objects to\u5168\u65b0",
+  "target_duration_seconds": 150.0,
+  "estimated_duration_seconds": 150.0,
+  "duration_model": {
+    "action_count": 20,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 10.0,
+    "settle_wait_count": 17,
+    "settle_seconds": 3.529,
+    "padding_wait_count": 0
+  },
+  "scene_id": "827",
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00827-BAbdmeyTvMZ/BAbdmeyTvMZ.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00827-BAbdmeyTvMZ/BAbdmeyTvMZ.basis.navmesh",
+  "scenario": "two_phase",
+  "generation_prompt_title": "Habitat-Sim Experiment Request: 827",
+  "generation_prompt": "Create exactly 10 different objects: a '002_master_chef_can' named 'saffron_sauce_cauldron', a '006_mustard_bottle' named 'golden_tap_kicker', a '017_orange' named 'sunburst_peel_squirt', a '024_bowl' named 'harvest_hollow_basin', a '029_plate' named 'crimson_dish_rim', a '035_power_drill' named 'spice_rivet_drill', a '043_phillips_screwdriver' named 'spice_tapper', a '053_mini_soccer_ball' named 'cinnamon_roller', a '065-g_cups' named 'saffron_scoop_cups', and a '077_rubiks_cube' named 'flavor_mixer_cube'. Then wait exactly 5 seconds; move 5 objects exactly once: the 'saffron_sauce_cauldron', the 'golden_tap_kicker', the 'sunburst_peel_squirt', the 'harvest_hollow_basin', and the 'crimson_dish_rim' to entirely new destinations; wait exactly 5 seconds; then move every remaining object exactly once\u2014'spice_rivet_drill', 'spice_tapper', 'cinnamon_roller', 'saffron_scoop_cups', and 'flavor_mixer_cube'\u2014to entirely new destinations. Do not remove anything. Every move must use a new destination. Do not remove anything.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Vary the object selection and manipulation story.",
+  "compile_attempts": 1,
+  "excluded_templates": []
+}

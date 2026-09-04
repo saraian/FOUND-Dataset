@@ -1,0 +1,607 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0130",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9403160214424133,
+        0.9598826190829277,
+        4.543651103973389
+      ],
+      "capture_eye": [
+        0.14031600952148438,
+        1.1098825931549072,
+        4.543651103973389
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9403160214424133,
+        0.9233831167221069,
+        4.543651103973389
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "juicy_remedios_lemon",
+      "template": "014_lemon"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0138",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        1.014572024345398,
+        1.0220915919542313,
+        4.1649580001831055
+      ],
+      "capture_eye": [
+        2.096129894256592,
+        1.1720916032791138,
+        4.1368021965026855
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.014572024345398,
+        0.9239845871925354,
+        4.1649580001831055
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "baker_b@gmail_sugar",
+      "template": "004_sugar_box"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0135",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9297105073928833,
+        0.960087808072567,
+        3.769064426422119
+      ],
+      "capture_eye": [
+        1.9330368041992188,
+        1.1100878715515137,
+        3.5058670043945312
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9297105073928833,
+        0.9226047992706299,
+        3.769064426422119
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "citrus_whirl_bowl",
+      "template": "024_bowl"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0136",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.8008164763450623,
+        0.9446460681408644,
+        5.244472503662109
+      ],
+      "capture_eye": [
+        -0.003469705581665039,
+        1.0946460962295532,
+        5.0730299949646
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.8008164763450623,
+        0.9241510629653931,
+        5.244472503662109
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "stainless_whisk_spoon",
+      "template": "031_spoon"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0148",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.858335256576538,
+        0.8259972336143255,
+        3.2649154663085938
+      ],
+      "capture_eye": [
+        4.658335208892822,
+        1.175997257232666,
+        3.2649154663085938
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.858335256576538,
+        0.7870197296142578,
+        3.2649154663085938
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "flavored_puzzle_cube",
+      "template": "077_rubiks_cube"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0032",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.253735542297363,
+        0.8975081185251474,
+        4.422927379608154
+      ],
+      "capture_eye": [
+        -11.4537353515625,
+        1.0475081205368042,
+        4.422927379608154
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.253735542297363,
+        0.8678556084632874,
+        4.422927379608154
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "name": "zest_tightener",
+      "template": "051_large_clamp"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0029",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.251594543457031,
+        0.9805370217561722,
+        4.131131649017334
+      ],
+      "capture_eye": [
+        -11.451594352722168,
+        1.1305370330810547,
+        4.131131649017334
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.251594543457031,
+        0.8675835132598877,
+        4.131131649017334
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "name": "apple_pie_board",
+      "template": "036_wood_block"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0017",
+      "placement_id": "shelving_43::shelving_43_surface_01",
+      "position": [
+        -7.373917579650879,
+        3.884053869396448,
+        3.353572130203247
+      ],
+      "capture_eye": [
+        -8.173917770385742,
+        4.034053802490234,
+        3.353572130203247
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.373917579650879,
+        3.859027862548828,
+        3.353572130203247
+      ],
+      "target_surface_group": "rendered:131:48",
+      "visual_surface_validated": true,
+      "name": "tart_setting_pack",
+      "template": "009_gelatin_box"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0110",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        5.498267650604248,
+        0.43556900158524514,
+        0.7505189776420593
+      ],
+      "capture_eye": [
+        6.298267841339111,
+        0.5855689644813538,
+        0.7505189776420593
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        5.498267650604248,
+        0.41628849506378174,
+        0.7505189776420593
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "name": "dough_spotter",
+      "template": "026_sponge"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0155",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.2889678478240967,
+        0.8092034871131182,
+        3.2768285274505615
+      ],
+      "capture_eye": [
+        4.133037567138672,
+        0.9592034816741943,
+        3.0558671951293945
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.2889678478240967,
+        0.7827714681625366,
+        3.2768285274505615
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "lemon_pounder",
+      "template": "048_hammer"
+    },
+    {
+      "action": "wait",
+      "seconds": 10.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0015",
+      "placement_id": "shelving_44::shelving_44_surface_01",
+      "position": [
+        -7.418719291687012,
+        3.895689727962017,
+        1.484033226966858
+      ],
+      "capture_eye": [
+        -8.218719482421875,
+        4.045689582824707,
+        1.484033226966858
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.418719291687012,
+        3.8591902256011963,
+        1.484033226966858
+      ],
+      "target_surface_group": "rendered:132:48",
+      "visual_surface_validated": true,
+      "object": "juicy_remedios_lemon"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0023",
+      "placement_id": "shelving_50::shelving_50_surface_01",
+      "position": [
+        -9.275323867797852,
+        3.9746257311105726,
+        3.0939135551452637
+      ],
+      "capture_eye": [
+        -8.475323677062988,
+        4.1246256828308105,
+        3.0939135551452637
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -9.275323867797852,
+        3.876518726348877,
+        3.0939135551452637
+      ],
+      "target_surface_group": "rendered:143:48",
+      "visual_surface_validated": true,
+      "object": "baker_b@gmail_sugar"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0114",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        4.928483963012695,
+        0.45485440105199815,
+        0.6982536315917969
+      ],
+      "capture_eye": [
+        5.715199947357178,
+        0.6048544049263,
+        1.0436426401138306
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        4.928483963012695,
+        0.41737139225006104,
+        0.6982536315917969
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "object": "citrus_whirl_bowl"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0009",
+      "placement_id": "chest_of_drawers_24::chest_of_drawers_24_surface_01",
+      "position": [
+        -8.738055229187012,
+        0.8228353338688612,
+        1.5778892040252686
+      ],
+      "capture_eye": [
+        -9.538055419921875,
+        0.9728353023529053,
+        1.5778892040252686
+      ],
+      "target_category": "chest of drawers",
+      "target_surface_point": [
+        -8.738055229187012,
+        0.8023403286933899,
+        1.5778892040252686
+      ],
+      "target_surface_group": "rendered:438:10",
+      "visual_surface_validated": true,
+      "object": "stainless_whisk_spoon"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0130",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9403160214424133,
+        0.9623606207221747,
+        4.543651103973389
+      ],
+      "capture_eye": [
+        0.14031600952148438,
+        1.1123605966567993,
+        4.543651103973389
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9403160214424133,
+        0.9233831167221069,
+        4.543651103973389
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "flavored_puzzle_cube"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0138",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        1.014572024345398,
+        0.9536370972543955,
+        4.1649580001831055
+      ],
+      "capture_eye": [
+        2.096129894256592,
+        1.1036370992660522,
+        4.1368021965026855
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.014572024345398,
+        0.9239845871925354,
+        4.1649580001831055
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "zest_tightener"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0136",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.8008164763450623,
+        1.0371045714616776,
+        5.244472503662109
+      ],
+      "capture_eye": [
+        -0.003469705581665039,
+        1.18710458278656,
+        5.0730299949646
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.8008164763450623,
+        0.9241510629653931,
+        5.244472503662109
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "apple_pie_board"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0135",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9297105073928833,
+        0.9476308061182499,
+        3.769064426422119
+      ],
+      "capture_eye": [
+        1.9330368041992188,
+        1.0976308584213257,
+        3.5058670043945312
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9297105073928833,
+        0.9226047992706299,
+        3.769064426422119
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "tart_setting_pack"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0148",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.858335256576538,
+        0.8063002361357212,
+        3.2649154663085938
+      ],
+      "capture_eye": [
+        4.658335208892822,
+        1.6063002347946167,
+        3.2649154663085938
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.858335256576538,
+        0.7870197296142578,
+        3.2649154663085938
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "dough_spotter"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0032",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.253735542297363,
+        0.8942876274138689,
+        4.422927379608154
+      ],
+      "capture_eye": [
+        -11.4537353515625,
+        1.0442876815795898,
+        4.422927379608154
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.253735542297363,
+        0.8678556084632874,
+        4.422927379608154
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "object": "lemon_pounder"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Create 10 objects and move them after 10 seconds",
+  "target_duration_seconds": 150.0,
+  "estimated_duration_seconds": 150.0,
+  "duration_model": {
+    "action_count": 20,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 10.0,
+    "settle_wait_count": 18,
+    "settle_seconds": 3.333,
+    "padding_wait_count": 0
+  },
+  "scene_id": "808",
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00808-y9hTuugGdiq/y9hTuugGdiq.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00808-y9hTuugGdiq/y9hTuugGdiq.basis.navmesh",
+  "scenario": "relocate_all",
+  "generation_prompt_title": "Prepping for a Lemon-Flavored Dessert",
+  "generation_prompt": "Create exactly 10 different objects: a '014_lemon' named 'juicy_remedios_lemon', a '004_sugar_box' named 'baker_b@gmail_sugar', a '024_bowl' named 'citrus_whirl_bowl', a '031_spoon' named 'stainless_whisk_spoon', a '077_rubiks_cube' named 'flavored_puzzle_cube', a '051_large_clamp' named 'zest_tightener', a '036_wood_block' named 'apple_pie_board', a '009_gelatin_box' named 'tart_setting_pack', a '026_sponge' named 'dough_spotter', and a '048_hammer' named 'lemon_pounder'. Then wait exactly 10 seconds before moving every object exactly once to a new destination. Do not remove anything.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Each object in the selection has to be different, and the manipulation story has to be different too."
+}

@@ -1,0 +1,625 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0050",
+      "placement_id": "bench_07::bench_07_surface_02",
+      "position": [
+        -1.1664505004882812,
+        0.5547097606956959,
+        -0.9004442095756531
+      ],
+      "capture_eye": [
+        -0.31632480025291443,
+        0.7047097086906433,
+        -0.9054567813873291
+      ],
+      "target_category": "bench",
+      "target_surface_point": [
+        -1.1664505004882812,
+        0.526333749294281,
+        -0.9004442095756531
+      ],
+      "target_surface_group": "rendered:218:7",
+      "visual_surface_validated": true,
+      "name": "golden_twitch_banana",
+      "template": "011_banana"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0085",
+      "placement_id": "kitchen_lower_cabinet_48::kitchen_lower_cabinet_48_surface_02",
+      "position": [
+        2.5396082401275635,
+        1.0317632204294205,
+        -2.628000020980835
+      ],
+      "capture_eye": [
+        1.7396082878112793,
+        1.1817631721496582,
+        -2.628000020980835
+      ],
+      "target_category": "kitchen lower cabinet",
+      "target_surface_point": [
+        2.5396082401275635,
+        0.9336562156677246,
+        -2.628000020980835
+      ],
+      "target_surface_group": "rendered:184:12",
+      "visual_surface_validated": true,
+      "name": "baker_b@gmail_sugar",
+      "template": "004_sugar_box"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0098",
+      "placement_id": "table_80::table_80_surface_01",
+      "position": [
+        0.22137510776519775,
+        0.8451125344634056,
+        2.4422671794891357
+      ],
+      "capture_eye": [
+        1.0213751792907715,
+        0.9951125383377075,
+        2.4422671794891357
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        0.22137510776519775,
+        0.8076295256614685,
+        2.4422671794891357
+      ],
+      "target_surface_group": "rendered:172:10",
+      "visual_surface_validated": true,
+      "name": "citrus_whirl_bowl",
+      "template": "024_bowl"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0269",
+      "placement_id": "desk_24::desk_24_surface_01",
+      "position": [
+        8.020949363708496,
+        0.7972675638645887,
+        6.046323776245117
+      ],
+      "capture_eye": [
+        8.82094955444336,
+        0.9472675323486328,
+        6.046323776245117
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        8.020949363708496,
+        0.7767725586891174,
+        6.046323776245117
+      ],
+      "target_surface_group": "rendered:135:10",
+      "visual_surface_validated": true,
+      "name": "stainless_whisk_spoon",
+      "template": "031_spoon"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0081",
+      "placement_id": "kitchen_lower_cabinet_48::kitchen_lower_cabinet_48_surface_02",
+      "position": [
+        2.9380078315734863,
+        0.9716249110549688,
+        -2.595606803894043
+      ],
+      "capture_eye": [
+        3.731451988220215,
+        1.1216249465942383,
+        -2.267822265625
+      ],
+      "target_category": "kitchen lower cabinet",
+      "target_surface_point": [
+        2.9380078315734863,
+        0.9326474070549011,
+        -2.595606803894043
+      ],
+      "target_surface_group": "rendered:184:12",
+      "visual_surface_validated": true,
+      "name": "flavored_puzzle_cube",
+      "template": "077_rubiks_cube"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0086",
+      "placement_id": "kitchen_lower_cabinet_48::kitchen_lower_cabinet_48_surface_02",
+      "position": [
+        2.2615818977355957,
+        0.9613471964746714,
+        -2.593477725982666
+      ],
+      "capture_eye": [
+        3.0553393363952637,
+        1.1113471984863281,
+        -2.281344413757324
+      ],
+      "target_category": "kitchen lower cabinet",
+      "target_surface_point": [
+        2.2615818977355957,
+        0.9316946864128113,
+        -2.593477725982666
+      ],
+      "target_surface_group": "rendered:184:12",
+      "visual_surface_validated": true,
+      "name": "zest_tightener",
+      "template": "051_large_clamp"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0069",
+      "placement_id": "kitchen_counter_47::kitchen_counter_47_surface_02",
+      "position": [
+        1.767128825187683,
+        1.2095812207460404,
+        0.022437095642089844
+      ],
+      "capture_eye": [
+        2.567128896713257,
+        1.3595812320709229,
+        0.3548431396484375
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.767128825187683,
+        1.0966277122497559,
+        0.022437095642089844
+      ],
+      "target_surface_group": "rendered:187:14",
+      "visual_surface_validated": true,
+      "name": "apple_pie_board",
+      "template": "036_wood_block"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0088",
+      "placement_id": "kitchen_lower_cabinet_51::kitchen_lower_cabinet_51_surface_01",
+      "position": [
+        0.9386780261993408,
+        0.9542516900599003,
+        -2.7845523357391357
+      ],
+      "capture_eye": [
+        1.738677978515625,
+        1.104251742362976,
+        -2.7845523357391357
+      ],
+      "target_category": "kitchen lower cabinet",
+      "target_surface_point": [
+        0.9386780261993408,
+        0.9292256832122803,
+        -2.7845523357391357
+      ],
+      "target_surface_group": "rendered:197:12",
+      "visual_surface_validated": true,
+      "name": "tart_setting_pack",
+      "template": "009_gelatin_box"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0053",
+      "placement_id": "bench_07::bench_07_surface_02",
+      "position": [
+        -0.6248130202293396,
+        0.5345305337011814,
+        -0.8301875591278076
+      ],
+      "capture_eye": [
+        0.17518699169158936,
+        0.68453049659729,
+        -0.8301875591278076
+      ],
+      "target_category": "bench",
+      "target_surface_point": [
+        -0.6248130202293396,
+        0.515250027179718,
+        -0.8301875591278076
+      ],
+      "target_surface_group": "rendered:218:7",
+      "visual_surface_validated": true,
+      "name": "dough_spotter",
+      "template": "026_sponge"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0023",
+      "placement_id": "bed_06::bed_06_surface_01",
+      "position": [
+        -3.175307035446167,
+        0.6689790303260088,
+        5.905008316040039
+      ],
+      "capture_eye": [
+        -2.375307083129883,
+        0.818979024887085,
+        5.905008316040039
+      ],
+      "target_category": "bed",
+      "target_surface_point": [
+        -3.175307035446167,
+        0.6425470113754272,
+        5.905008316040039
+      ],
+      "target_surface_group": "rendered:335:8",
+      "visual_surface_validated": true,
+      "name": "lemon_pounder",
+      "template": "048_hammer"
+    },
+    {
+      "action": "wait",
+      "seconds": 10.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0070",
+      "placement_id": "kitchen_counter_47::kitchen_counter_47_surface_02",
+      "position": [
+        2.5343825817108154,
+        1.1212197823822498,
+        0.09523386508226395
+      ],
+      "capture_eye": [
+        3.464704990386963,
+        1.471219778060913,
+        0.3048429489135742
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        2.5343825817108154,
+        1.092843770980835,
+        0.09523386508226395
+      ],
+      "target_surface_group": "rendered:187:14",
+      "visual_surface_validated": true,
+      "object": "golden_twitch_banana"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0050",
+      "placement_id": "bench_07::bench_07_surface_02",
+      "position": [
+        -1.1664505004882812,
+        0.6244407540559769,
+        -0.9004442095756531
+      ],
+      "capture_eye": [
+        -0.31632480025291443,
+        0.7744407057762146,
+        -0.9054567813873291
+      ],
+      "target_category": "bench",
+      "target_surface_point": [
+        -1.1664505004882812,
+        0.526333749294281,
+        -0.9004442095756531
+      ],
+      "target_surface_group": "rendered:218:7",
+      "visual_surface_validated": true,
+      "object": "baker_b@gmail_sugar"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0085",
+      "placement_id": "kitchen_lower_cabinet_48::kitchen_lower_cabinet_48_surface_02",
+      "position": [
+        2.5396082401275635,
+        0.9711392244696617,
+        -2.628000020980835
+      ],
+      "capture_eye": [
+        1.7396082878112793,
+        1.1211392879486084,
+        -2.628000020980835
+      ],
+      "target_category": "kitchen lower cabinet",
+      "target_surface_point": [
+        2.5396082401275635,
+        0.9336562156677246,
+        -2.628000020980835
+      ],
+      "target_surface_group": "rendered:184:12",
+      "visual_surface_validated": true,
+      "object": "citrus_whirl_bowl"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0098",
+      "placement_id": "table_80::table_80_surface_01",
+      "position": [
+        0.22137510776519775,
+        0.8281245308369398,
+        2.4422671794891357
+      ],
+      "capture_eye": [
+        1.0213751792907715,
+        0.9781244993209839,
+        2.4422671794891357
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        0.22137510776519775,
+        0.8076295256614685,
+        2.4422671794891357
+      ],
+      "target_surface_group": "rendered:172:10",
+      "visual_surface_validated": true,
+      "object": "stainless_whisk_spoon"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0269",
+      "placement_id": "desk_24::desk_24_surface_01",
+      "position": [
+        8.020949363708496,
+        0.8157500626891852,
+        6.046323776245117
+      ],
+      "capture_eye": [
+        8.82094955444336,
+        0.9657500386238098,
+        6.046323776245117
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        8.020949363708496,
+        0.7767725586891174,
+        6.046323776245117
+      ],
+      "target_surface_group": "rendered:135:10",
+      "visual_surface_validated": true,
+      "object": "flavored_puzzle_cube"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0095",
+      "placement_id": "table_80::table_80_surface_01",
+      "position": [
+        0.3408309817314148,
+        0.8139446119219065,
+        2.1532654762268066
+      ],
+      "capture_eye": [
+        1.1408309936523438,
+        0.9639446139335632,
+        2.1532654762268066
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        0.3408309817314148,
+        0.7842921018600464,
+        2.1532654762268066
+      ],
+      "target_surface_group": "rendered:172:10",
+      "visual_surface_validated": true,
+      "object": "zest_tightener"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0081",
+      "placement_id": "kitchen_lower_cabinet_48::kitchen_lower_cabinet_48_surface_02",
+      "position": [
+        2.9380078315734863,
+        1.0456009155511856,
+        -2.595606803894043
+      ],
+      "capture_eye": [
+        3.731451988220215,
+        1.1956008672714233,
+        -2.267822265625
+      ],
+      "target_category": "kitchen lower cabinet",
+      "target_surface_point": [
+        2.9380078315734863,
+        0.9326474070549011,
+        -2.595606803894043
+      ],
+      "target_surface_group": "rendered:184:12",
+      "visual_surface_validated": true,
+      "object": "apple_pie_board"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0069",
+      "placement_id": "kitchen_counter_47::kitchen_counter_47_surface_02",
+      "position": [
+        1.767128825187683,
+        1.1216537190973759,
+        0.022437095642089844
+      ],
+      "capture_eye": [
+        2.567128896713257,
+        1.271653652191162,
+        0.3548431396484375
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.767128825187683,
+        1.0966277122497559,
+        0.022437095642089844
+      ],
+      "target_surface_group": "rendered:187:14",
+      "visual_surface_validated": true,
+      "object": "tart_setting_pack"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0086",
+      "placement_id": "kitchen_lower_cabinet_48::kitchen_lower_cabinet_48_surface_02",
+      "position": [
+        2.2615818977355957,
+        0.9509751929342747,
+        -2.593477725982666
+      ],
+      "capture_eye": [
+        3.0553393363952637,
+        1.1009751558303833,
+        -2.281344413757324
+      ],
+      "target_category": "kitchen lower cabinet",
+      "target_surface_point": [
+        2.2615818977355957,
+        0.9316946864128113,
+        -2.593477725982666
+      ],
+      "target_surface_group": "rendered:184:12",
+      "visual_surface_validated": true,
+      "object": "dough_spotter"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0230",
+      "placement_id": "chair_15::chair_15_surface_04",
+      "position": [
+        5.842512130737305,
+        0.572083275988698,
+        6.1946797370910645
+      ],
+      "capture_eye": [
+        6.642512321472168,
+        0.7220832705497742,
+        6.1946797370910645
+      ],
+      "target_category": "chair",
+      "target_surface_point": [
+        5.842512130737305,
+        0.5456512570381165,
+        6.1946797370910645
+      ],
+      "target_surface_group": "rendered:133:7",
+      "visual_surface_validated": true,
+      "object": "lemon_pounder"
+    },
+    {
+      "action": "wait",
+      "seconds": 5.0
+    },
+    {
+      "action": "remove",
+      "object": "golden_twitch_banana"
+    },
+    {
+      "action": "remove",
+      "object": "baker_b@gmail_sugar"
+    },
+    {
+      "action": "remove",
+      "object": "citrus_whirl_bowl"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Create 10 specific objects with unique logical names, wait 10 seconds, move each once to a new destination, wait 5 seconds, then remove 3 of the moved objects.",
+  "target_duration_seconds": 150.0,
+  "estimated_duration_seconds": 150.0,
+  "duration_model": {
+    "action_count": 23,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 15.0,
+    "settle_wait_count": 18,
+    "settle_seconds": 2.389,
+    "padding_wait_count": 0
+  },
+  "scene_id": "824",
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00824-Dd4bFSTQ8gi/Dd4bFSTQ8gi.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00824-Dd4bFSTQ8gi/Dd4bFSTQ8gi.basis.navmesh",
+  "scenario": "relocate_remove",
+  "generation_prompt_title": "Habitat-Sim Experiment Request",
+  "generation_prompt": "Create exactly 10 different objects: a '011_banana' named 'golden_twitch_banana', a '004_sugar_box' named 'baker_b@gmail_sugar', a '024_bowl' named 'citrus_whirl_bowl', a '031_spoon' named 'stainless_whisk_spoon', a '077_rubiks_cube' named 'flavored_puzzle_cube', a '051_large_clamp' named 'zest_tightener', a '036_wood_block' named 'apple_pie_board', a '009_gelatin_box' named 'tart_setting_pack', a '026_sponge' named 'dough_spotter', and a '048_hammer' named 'lemon_pounder'. Then wait exactly 10 seconds before moving every object exactly once to a new destination. Wait exactly 5 seconds; then remove exactly 3 of the moved objects.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Vary the object selection and manipulation story.",
+  "compile_attempts": 1,
+  "excluded_templates": []
+}

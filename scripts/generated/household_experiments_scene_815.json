@@ -1,0 +1,623 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0038",
+      "placement_id": "tv_stand_63::tv_stand_63_surface_01",
+      "position": [
+        -4.397477149963379,
+        0.9576836510002613,
+        -4.176862716674805
+      ],
+      "capture_eye": [
+        -3.5974771976470947,
+        1.1076836585998535,
+        -4.176862716674805
+      ],
+      "target_category": "tv stand",
+      "target_surface_point": [
+        -4.397477149963379,
+        0.8967361450195312,
+        -4.176862716674805
+      ],
+      "target_surface_group": "rendered:139:11",
+      "visual_surface_validated": true,
+      "name": "rich_garden_brew",
+      "template": "005_tomato_soup_can"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0165",
+      "placement_id": "dining_table_28::dining_table_28_surface_01",
+      "position": [
+        11.669099807739258,
+        0.7790256610512734,
+        -1.7833894491195679
+      ],
+      "capture_eye": [
+        12.469099998474121,
+        0.9290256500244141,
+        -1.7833894491195679
+      ],
+      "target_category": "dining table",
+      "target_surface_point": [
+        11.669099807739258,
+        0.7330721616744995,
+        -1.7833894491195679
+      ],
+      "target_surface_group": "rendered:286:9",
+      "visual_surface_validated": true,
+      "name": "firm_composting_apple",
+      "template": "013_apple"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0118",
+      "placement_id": "nightstand_43::nightstand_43_surface_01",
+      "position": [
+        8.633955955505371,
+        3.4154444078356025,
+        -8.90655517578125
+      ],
+      "capture_eye": [
+        9.433956146240234,
+        3.5654444694519043,
+        -8.90655517578125
+      ],
+      "target_category": "nightstand",
+      "target_surface_point": [
+        8.633955955505371,
+        3.3761239051818848,
+        -8.90655517578125
+      ],
+      "target_surface_group": "rendered:611:42",
+      "visual_surface_validated": true,
+      "name": "soft_soil_peach",
+      "template": "015_peach"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0163",
+      "placement_id": "dining_table_28::dining_table_28_surface_01",
+      "position": [
+        10.637008666992188,
+        0.7907512208819389,
+        -1.8822921514511108
+      ],
+      "capture_eye": [
+        9.837008476257324,
+        0.9407511949539185,
+        -1.8822921514511108
+      ],
+      "target_category": "dining table",
+      "target_surface_point": [
+        10.637008666992188,
+        0.7427507042884827,
+        -1.8822921514511108
+      ],
+      "target_surface_group": "rendered:286:9",
+      "visual_surface_validated": true,
+      "name": "terra_cotta_dust_cap",
+      "template": "028_skillet_lid"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0056",
+      "placement_id": "couch_18::couch_18_surface_01",
+      "position": [
+        -2.219811201095581,
+        0.49176034912467004,
+        -4.718859672546387
+      ],
+      "capture_eye": [
+        -3.0198111534118652,
+        0.6417603492736816,
+        -4.718859672546387
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        -2.219811201095581,
+        0.4739758372306824,
+        -4.718859672546387
+      ],
+      "target_surface_group": "rendered:154:6",
+      "visual_surface_validated": true,
+      "name": "pruning_shears",
+      "template": "037_scissors"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0157",
+      "placement_id": "dining_table_28::dining_table_28_surface_01",
+      "position": [
+        11.667899131774902,
+        0.7598926110565662,
+        -1.1376150846481323
+      ],
+      "capture_eye": [
+        12.467899322509766,
+        0.9098925590515137,
+        -1.1376150846481323
+      ],
+      "target_category": "dining table",
+      "target_surface_point": [
+        11.667899131774902,
+        0.732369601726532,
+        -1.1376150846481323
+      ],
+      "target_surface_group": "rendered:286:9",
+      "visual_surface_validated": true,
+      "name": "root_probe_tool",
+      "template": "044_flat_screwdriver"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0162",
+      "placement_id": "dining_table_28::dining_table_28_surface_01",
+      "position": [
+        10.438556671142578,
+        0.8166351115703583,
+        -1.1960704326629639
+      ],
+      "capture_eye": [
+        9.638556480407715,
+        0.9666351079940796,
+        -1.1960704326629639
+      ],
+      "target_category": "dining table",
+      "target_surface_point": [
+        10.438556671142578,
+        0.7439286112785339,
+        -1.1960704326629639
+      ],
+      "target_surface_group": "rendered:286:9",
+      "visual_surface_validated": true,
+      "name": "meadow_roller",
+      "template": "053_mini_soccer_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0082",
+      "placement_id": "bench_10::bench_10_surface_02",
+      "position": [
+        0.14497055113315582,
+        0.4526363743841648,
+        0.45339956879615784
+      ],
+      "capture_eye": [
+        1.1538996696472168,
+        0.6026363372802734,
+        0.3698280155658722
+      ],
+      "target_category": "bench",
+      "target_surface_point": [
+        0.14497055113315582,
+        0.40707486867904663,
+        0.45339956879615784
+      ],
+      "target_surface_group": "rendered:22:5",
+      "visual_surface_validated": true,
+      "name": "drain_checker",
+      "template": "063-a_marbles"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0175",
+      "placement_id": "desk_21::desk_21_surface_01",
+      "position": [
+        13.071475982666016,
+        0.7531892491877079,
+        -0.49736568331718445
+      ],
+      "capture_eye": [
+        12.271475791931152,
+        0.9031892418861389,
+        -0.49736568331718445
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        13.071475982666016,
+        0.7054437398910522,
+        -0.49736568331718445
+      ],
+      "target_surface_group": "rendered:268:9",
+      "visual_surface_validated": true,
+      "name": "irrigation_property_measurer",
+      "template": "065-i_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0130",
+      "placement_id": "couch_19::couch_19_surface_01",
+      "position": [
+        9.510177612304688,
+        3.1272180548310278,
+        -0.6150203943252563
+      ],
+      "capture_eye": [
+        10.304622650146484,
+        3.2772181034088135,
+        -0.9316587448120117
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        9.510177612304688,
+        3.0257320404052734,
+        -0.6150203943252563
+      ],
+      "target_surface_group": "rendered:372:38",
+      "visual_surface_validated": true,
+      "name": "aeration_pilot_model",
+      "template": "072-a_toy_airplane"
+    },
+    {
+      "action": "wait",
+      "seconds": 10.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0073",
+      "placement_id": "cabinet_15::cabinet_15_surface_02",
+      "position": [
+        -2.923712730407715,
+        0.7821520252525807,
+        -2.1113052368164062
+      ],
+      "capture_eye": [
+        -3.730584144592285,
+        0.9321519732475281,
+        -2.3037075996398926
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -2.923712730407715,
+        0.7212045192718506,
+        -2.1113052368164062
+      ],
+      "target_surface_group": "rendered:146:9",
+      "visual_surface_validated": true,
+      "object": "rich_garden_brew"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0038",
+      "placement_id": "tv_stand_63::tv_stand_63_surface_01",
+      "position": [
+        -4.397477149963379,
+        0.9426896443963051,
+        -4.176862716674805
+      ],
+      "capture_eye": [
+        -3.5974771976470947,
+        1.0926896333694458,
+        -4.176862716674805
+      ],
+      "target_category": "tv stand",
+      "target_surface_point": [
+        -4.397477149963379,
+        0.8967361450195312,
+        -4.176862716674805
+      ],
+      "target_surface_group": "rendered:139:11",
+      "visual_surface_validated": true,
+      "object": "firm_composting_apple"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0165",
+      "placement_id": "dining_table_28::dining_table_28_surface_01",
+      "position": [
+        11.669099807739258,
+        0.7723926643282175,
+        -1.7833894491195679
+      ],
+      "capture_eye": [
+        12.469099998474121,
+        0.9223926663398743,
+        -1.7833894491195679
+      ],
+      "target_category": "dining table",
+      "target_surface_point": [
+        11.669099807739258,
+        0.7330721616744995,
+        -1.7833894491195679
+      ],
+      "target_surface_group": "rendered:286:9",
+      "visual_surface_validated": true,
+      "object": "soft_soil_peach"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0118",
+      "placement_id": "nightstand_43::nightstand_43_surface_01",
+      "position": [
+        8.633955955505371,
+        3.424124421775341,
+        -8.90655517578125
+      ],
+      "capture_eye": [
+        9.433956146240234,
+        3.574124574661255,
+        -8.90655517578125
+      ],
+      "target_category": "nightstand",
+      "target_surface_point": [
+        8.633955955505371,
+        3.3761239051818848,
+        -8.90655517578125
+      ],
+      "target_surface_group": "rendered:611:42",
+      "visual_surface_validated": true,
+      "object": "terra_cotta_dust_cap"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0158",
+      "placement_id": "dining_table_28::dining_table_28_surface_01",
+      "position": [
+        10.440008163452148,
+        0.7622223256528378,
+        -1.7126702070236206
+      ],
+      "capture_eye": [
+        9.640007972717285,
+        1.1122223138809204,
+        -1.7126702070236206
+      ],
+      "target_category": "dining table",
+      "target_surface_point": [
+        10.440008163452148,
+        0.7444378137588501,
+        -1.7126702070236206
+      ],
+      "target_surface_group": "rendered:286:9",
+      "visual_surface_validated": true,
+      "object": "pruning_shears"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0056",
+      "placement_id": "couch_18::couch_18_surface_01",
+      "position": [
+        -2.219811201095581,
+        0.5014988465607166,
+        -4.718859672546387
+      ],
+      "capture_eye": [
+        -3.0198111534118652,
+        0.6514987945556641,
+        -4.718859672546387
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        -2.219811201095581,
+        0.4739758372306824,
+        -4.718859672546387
+      ],
+      "target_surface_group": "rendered:154:6",
+      "visual_surface_validated": true,
+      "object": "root_probe_tool"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0088",
+      "placement_id": "cabinet_14::cabinet_14_surface_02",
+      "position": [
+        -0.27548736333847046,
+        0.7775118148326874,
+        -0.90513676404953
+      ],
+      "capture_eye": [
+        0.5245126485824585,
+        0.9275118112564087,
+        -0.90513676404953
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -0.27548736333847046,
+        0.704805314540863,
+        -0.90513676404953
+      ],
+      "target_surface_group": "rendered:11:9",
+      "visual_surface_validated": true,
+      "object": "meadow_roller"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0157",
+      "placement_id": "dining_table_28::dining_table_28_surface_01",
+      "position": [
+        11.667899131774902,
+        0.7779311074316502,
+        -1.1376150846481323
+      ],
+      "capture_eye": [
+        12.467899322509766,
+        0.9279310703277588,
+        -1.1376150846481323
+      ],
+      "target_category": "dining table",
+      "target_surface_point": [
+        11.667899131774902,
+        0.732369601726532,
+        -1.1376150846481323
+      ],
+      "target_surface_group": "rendered:286:9",
+      "visual_surface_validated": true,
+      "object": "drain_checker"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0162",
+      "placement_id": "dining_table_28::dining_table_28_surface_01",
+      "position": [
+        10.438556671142578,
+        0.7916741205751896,
+        -1.1960704326629639
+      ],
+      "capture_eye": [
+        9.638556480407715,
+        0.9416741132736206,
+        -1.1960704326629639
+      ],
+      "target_category": "dining table",
+      "target_surface_point": [
+        10.438556671142578,
+        0.7439286112785339,
+        -1.1960704326629639
+      ],
+      "target_surface_group": "rendered:286:9",
+      "visual_surface_validated": true,
+      "object": "irrigation_property_measurer"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0120",
+      "placement_id": "shelf_52::shelf_52_surface_01",
+      "position": [
+        7.007762432098389,
+        3.4809706678986547,
+        -3.3110477924346924
+      ],
+      "capture_eye": [
+        7.007762432098389,
+        3.6309707164764404,
+        -2.511047840118408
+      ],
+      "target_category": "shelf",
+      "target_surface_point": [
+        7.007762432098389,
+        3.3794846534729004,
+        -3.3110477924346924
+      ],
+      "target_surface_group": "rendered:358:42",
+      "visual_surface_validated": true,
+      "object": "aeration_pilot_model"
+    },
+    {
+      "action": "wait",
+      "seconds": 5.0
+    },
+    {
+      "action": "remove",
+      "object": "rich_garden_brew"
+    },
+    {
+      "action": "remove",
+      "object": "firm_composting_apple"
+    },
+    {
+      "action": "remove",
+      "object": "soft_soil_peach"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Create 10 objects, wait 10 seconds, move all, wait 5 seconds, then remove 3 objects",
+  "target_duration_seconds": 150.0,
+  "estimated_duration_seconds": 150.0,
+  "duration_model": {
+    "action_count": 23,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 15.0,
+    "settle_wait_count": 18,
+    "settle_seconds": 2.389,
+    "padding_wait_count": 0
+  },
+  "scene_id": "815",
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00815-h1zeeAwLh9Z/h1zeeAwLh9Z.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00815-h1zeeAwLh9Z/h1zeeAwLh9Z.basis.navmesh",
+  "scenario": "relocate_remove",
+  "generation_prompt_title": "A Gardener's Precision Repotting Routine",
+  "generation_prompt": "Create exactly 10 different objects: a '005_tomato_soup_can' named 'rich_garden_brew', a '013_apple' named 'firm_composting_apple', a '015_peach' named 'soft_soil_peach', a '028_skillet_lid' named 'terra_cotta_dust_cap', a '037_scissors' named 'pruning_shears', a '044_flat_screwdriver' named 'root_probe_tool', a '053_mini_soccer_ball' named 'meadow_roller', a '063-a_marbles' named 'drain_checker', a '065-i_cups' named 'irrigation_property_measurer', and a '072-a_toy_airplane' named 'aeration_pilot_model'. Then wait exactly 10 seconds; move every object exactly once to a new destination; wait exactly 5 seconds; then remove exactly 3 of the moved objects.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Each object in the selection has to be different, and the manipulation story has to be different too."
+}

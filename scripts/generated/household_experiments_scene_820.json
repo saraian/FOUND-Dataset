@@ -1,0 +1,610 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0055",
+      "placement_id": "cabinet_09::cabinet_09_surface_04",
+      "position": [
+        -0.5791078805923462,
+        3.655395703613758,
+        -0.08128142356872559
+      ],
+      "capture_eye": [
+        0.3101341724395752,
+        3.8053958415985107,
+        -0.08128143101930618
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -0.5791078805923462,
+        3.524251699447632,
+        -0.08128142356872559
+      ],
+      "target_surface_group": "rendered:14:44",
+      "visual_surface_validated": true,
+      "name": "dew_siphon_vessel",
+      "template": "019_pitcher_base"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0060",
+      "placement_id": "cabinet_09::cabinet_09_surface_04",
+      "position": [
+        0.05042380467057228,
+        3.570522012412548,
+        -0.07169981300830841
+      ],
+      "capture_eye": [
+        0.8504238128662109,
+        3.720522165298462,
+        -0.07169981300830841
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        0.05042380467057228,
+        3.5198450088500977,
+        -0.07169981300830841
+      ],
+      "target_surface_group": "rendered:14:44",
+      "visual_surface_validated": true,
+      "name": "morning_harvest_cup",
+      "template": "025_mug"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0120",
+      "placement_id": "bed_table_06::bed_table_06_surface_03",
+      "position": [
+        5.899658679962158,
+        3.392944658398628,
+        -2.0038225650787354
+      ],
+      "capture_eye": [
+        5.048974514007568,
+        3.5429446697235107,
+        -2.0714008808135986
+      ],
+      "target_category": "bed table",
+      "target_surface_point": [
+        5.899658679962158,
+        3.2799911499023438,
+        -2.0038225650787354
+      ],
+      "target_surface_group": "rendered:90:41",
+      "visual_surface_validated": true,
+      "name": "root_stabilizer_plank",
+      "template": "036_wood_block"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0119",
+      "placement_id": "bed_table_06::bed_table_06_surface_03",
+      "position": [
+        5.661981582641602,
+        3.315621676146984,
+        -1.8950762748718262
+      ],
+      "capture_eye": [
+        5.010134220123291,
+        3.4656217098236084,
+        -2.0422704219818115
+      ],
+      "target_category": "bed table",
+      "target_surface_point": [
+        5.661981582641602,
+        3.2736706733703613,
+        -1.8950762748718262
+      ],
+      "target_surface_group": "rendered:90:41",
+      "visual_surface_validated": true,
+      "name": "seedling_pocket_cups",
+      "template": "065-b_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0057",
+      "placement_id": "cabinet_09::cabinet_09_surface_04",
+      "position": [
+        -1.3006821870803833,
+        3.543169766888022,
+        -0.09016895294189453
+      ],
+      "capture_eye": [
+        -0.5006821751594543,
+        3.6931698322296143,
+        0.20772957801818848
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -1.3006821870803833,
+        3.520261764526367,
+        -0.09016895294189453
+      ],
+      "target_surface_group": "rendered:14:44",
+      "visual_surface_validated": true,
+      "name": "bloom_layering_pieces",
+      "template": "070-b_colored_wood_blocks"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0126",
+      "placement_id": "bed_table_05::bed_table_05_surface_02",
+      "position": [
+        8.114449501037598,
+        3.31171450600028,
+        -1.985234022140503
+      ],
+      "capture_eye": [
+        8.114449501037598,
+        3.461714506149292,
+        -1.1852340698242188
+      ],
+      "target_category": "bed table",
+      "target_surface_point": [
+        8.114449501037598,
+        3.2852694988250732,
+        -1.985234022140503
+      ],
+      "target_surface_group": "rendered:88:41",
+      "visual_surface_validated": true,
+      "name": "soil_raker_spatula",
+      "template": "033_spatula"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0111",
+      "placement_id": "cabinet_11::cabinet_11_surface_03",
+      "position": [
+        5.218321800231934,
+        3.7375303620845077,
+        0.8240174055099487
+      ],
+      "capture_eye": [
+        6.018321990966797,
+        3.887530565261841,
+        0.8240174055099487
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        5.218321800231934,
+        3.7180633544921875,
+        0.8240174055099487
+      ],
+      "target_surface_group": "rendered:85:47",
+      "visual_surface_validated": true,
+      "name": "garden_guidance_chalk",
+      "template": "040_large_marker"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0101",
+      "placement_id": "cabinet_10::cabinet_10_surface_01",
+      "position": [
+        3.783607006072998,
+        3.512683226019144,
+        -0.13778261840343475
+      ],
+      "capture_eye": [
+        4.460134029388428,
+        3.6626832485198975,
+        -0.13778263330459595
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        3.783607006072998,
+        3.4934027194976807,
+        -0.13778261840343475
+      ],
+      "target_surface_group": "rendered:49:44",
+      "visual_surface_validated": true,
+      "name": "moisture_well_sponge",
+      "template": "026_sponge"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0059",
+      "placement_id": "cabinet_09::cabinet_09_surface_04",
+      "position": [
+        -0.32596293091773987,
+        3.5491673576086757,
+        0.026720304042100906
+      ],
+      "capture_eye": [
+        0.4740370810031891,
+        3.699167490005493,
+        0.026720304042100906
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -0.32596293091773987,
+        3.5278613567352295,
+        0.026720304042100906
+      ],
+      "target_surface_group": "rendered:14:44",
+      "visual_surface_validated": true,
+      "name": "pruning_moment_knife",
+      "template": "032_knife"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0108",
+      "placement_id": "cabinet_11::cabinet_11_surface_03",
+      "position": [
+        5.241345405578613,
+        3.7543108484148977,
+        1.0821506977081299
+      ],
+      "capture_eye": [
+        6.041345596313477,
+        3.904310941696167,
+        1.0821506977081299
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        5.241345405578613,
+        3.717811346054077,
+        1.0821506977081299
+      ],
+      "target_surface_group": "rendered:85:47",
+      "visual_surface_validated": true,
+      "name": "sunburst_sour_gem",
+      "template": "014_lemon"
+    },
+    {
+      "action": "wait",
+      "seconds": 5.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0092",
+      "placement_id": "bed_04::bed_04_surface_02",
+      "position": [
+        7.103931903839111,
+        3.592642264664173,
+        -0.2555100917816162
+      ],
+      "capture_eye": [
+        7.9178643226623535,
+        3.742642402648926,
+        -0.2551004886627197
+      ],
+      "target_category": "bed",
+      "target_surface_point": [
+        7.103931903839111,
+        3.461498260498047,
+        -0.2555100917816162
+      ],
+      "target_surface_group": "rendered:78:43",
+      "visual_surface_validated": true,
+      "object": "dew_siphon_vessel"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0079",
+      "placement_id": "cabinet_09::cabinet_09_surface_01",
+      "position": [
+        -0.35137036442756653,
+        3.187034072577953,
+        -0.04322648048400879
+      ],
+      "capture_eye": [
+        -0.35137036442756653,
+        3.337034225463867,
+        0.7567735314369202
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -0.35137036442756653,
+        3.136357069015503,
+        -0.04322648048400879
+      ],
+      "target_surface_group": "rendered:14:39",
+      "visual_surface_validated": true,
+      "object": "morning_harvest_cup"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0055",
+      "placement_id": "cabinet_09::cabinet_09_surface_04",
+      "position": [
+        -0.5791078805923462,
+        3.637205207943916,
+        -0.08128142356872559
+      ],
+      "capture_eye": [
+        0.3101341724395752,
+        3.787205219268799,
+        -0.08128143101930618
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -0.5791078805923462,
+        3.524251699447632,
+        -0.08128142356872559
+      ],
+      "target_surface_group": "rendered:14:44",
+      "visual_surface_validated": true,
+      "object": "root_stabilizer_plank"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0060",
+      "placement_id": "cabinet_09::cabinet_09_surface_04",
+      "position": [
+        0.05042380467057228,
+        3.56179601162672,
+        -0.07169981300830841
+      ],
+      "capture_eye": [
+        0.8504238128662109,
+        3.7117960453033447,
+        -0.07169981300830841
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        0.05042380467057228,
+        3.5198450088500977,
+        -0.07169981300830841
+      ],
+      "target_surface_group": "rendered:14:44",
+      "visual_surface_validated": true,
+      "object": "seedling_pocket_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0087",
+      "placement_id": "bed_04::bed_04_surface_02",
+      "position": [
+        6.623480319976807,
+        3.4821892736852167,
+        -0.2429109811782837
+      ],
+      "capture_eye": [
+        7.439340114593506,
+        3.6321892738342285,
+        0.03463207185268402
+      ],
+      "target_category": "bed",
+      "target_surface_point": [
+        6.623480319976807,
+        3.4557442665100098,
+        -0.2429109811782837
+      ],
+      "target_surface_group": "rendered:78:43",
+      "visual_surface_validated": true,
+      "object": "soil_raker_spatula"
+    },
+    {
+      "action": "wait",
+      "seconds": 5.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0120",
+      "placement_id": "bed_table_06::bed_table_06_surface_03",
+      "position": [
+        5.899658679962158,
+        3.3028991522639988,
+        -2.0038225650787354
+      ],
+      "capture_eye": [
+        5.048974514007568,
+        3.452899217605591,
+        -2.0714008808135986
+      ],
+      "target_category": "bed table",
+      "target_surface_point": [
+        5.899658679962158,
+        3.2799911499023438,
+        -2.0038225650787354
+      ],
+      "target_surface_group": "rendered:90:41",
+      "visual_surface_validated": true,
+      "object": "bloom_layering_pieces"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0057",
+      "placement_id": "cabinet_09::cabinet_09_surface_04",
+      "position": [
+        -1.3006821870803833,
+        3.5397287721186874,
+        -0.09016895294189453
+      ],
+      "capture_eye": [
+        -0.5006821751594543,
+        3.6897289752960205,
+        0.20772957801818848
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -1.3006821870803833,
+        3.520261764526367,
+        -0.09016895294189453
+      ],
+      "target_surface_group": "rendered:14:44",
+      "visual_surface_validated": true,
+      "object": "garden_guidance_chalk"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0111",
+      "placement_id": "cabinet_11::cabinet_11_surface_03",
+      "position": [
+        5.218321800231934,
+        3.7373438610136507,
+        0.8240174055099487
+      ],
+      "capture_eye": [
+        6.018321990966797,
+        3.8873438835144043,
+        0.8240174055099487
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        5.218321800231934,
+        3.7180633544921875,
+        0.8240174055099487
+      ],
+      "target_surface_group": "rendered:85:47",
+      "visual_surface_validated": true,
+      "object": "moisture_well_sponge"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0126",
+      "placement_id": "bed_table_05::bed_table_05_surface_02",
+      "position": [
+        8.114449501037598,
+        3.3065754996985195,
+        -1.985234022140503
+      ],
+      "capture_eye": [
+        8.114449501037598,
+        3.456575632095337,
+        -1.1852340698242188
+      ],
+      "target_category": "bed table",
+      "target_surface_point": [
+        8.114449501037598,
+        3.2852694988250732,
+        -1.985234022140503
+      ],
+      "target_surface_group": "rendered:88:41",
+      "visual_surface_validated": true,
+      "object": "pruning_moment_knife"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.529,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0119",
+      "placement_id": "bed_table_06::bed_table_06_surface_03",
+      "position": [
+        5.661981582641602,
+        3.310170175731182,
+        -1.8950762748718262
+      ],
+      "capture_eye": [
+        5.010134220123291,
+        3.460170269012451,
+        -2.0422704219818115
+      ],
+      "target_category": "bed table",
+      "target_surface_point": [
+        5.661981582641602,
+        3.2736706733703613,
+        -1.8950762748718262
+      ],
+      "target_surface_group": "rendered:90:41",
+      "visual_surface_validated": true,
+      "object": "sunburst_sour_gem"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Create 10 specific objects with unique logical names, wait 5 seconds, move 5 of them to new destinations, wait 5 seconds, then move the remaining 5 to new destn",
+  "target_duration_seconds": 150.0,
+  "estimated_duration_seconds": 150.0,
+  "duration_model": {
+    "action_count": 20,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 10.0,
+    "settle_wait_count": 17,
+    "settle_seconds": 3.529,
+    "padding_wait_count": 0
+  },
+  "scene_id": "820",
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00820-mL8ThkuaVTM/mL8ThkuaVTM.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00820-mL8ThkuaVTM/mL8ThkuaVTM.basis.navmesh",
+  "scenario": "two_phase",
+  "generation_prompt_title": "The Forgotten Garden Ritual",
+  "generation_prompt": "Create exactly 10 different objects: a '019_pitcher_base' named 'dew_siphon_vessel', a '025_mug' named 'morning_harvest_cup', a '036_wood_block' named 'root_stabilizer_plank', a '065-b_cups' named 'seedling_pocket_cups', a '070-b_colored_wood_blocks' named 'bloom_layering_pieces', a '033_spatula' named 'soil_raker_spatula', a '040_large_marker' named 'garden_guidance_chalk', a '026_sponge' named 'moisture_well_sponge', a '032_knife' named 'pruning_moment_knife', and a '014_lemon' named 'sunburst_sour_gem'. Then wait exactly 5 seconds; move 5 objects exactly once to entirely new destinations: the 'dew_siphon_vessel', the 'morning_harvest_cup', the 'root_stabilizer_plank', the 'seedling_pocket_cups', and the 'soil_raker_spatula'; wait exactly 5 seconds; then move every remaining object exactly once to entirely new destinations. Do not remove anything.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Vary the object selection and manipulation story.",
+  "compile_attempts": 2,
+  "excluded_templates": [
+    "059_chain"
+  ]
+}

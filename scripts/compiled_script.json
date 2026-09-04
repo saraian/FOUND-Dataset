@@ -1,0 +1,472 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0130",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9403160214424133,
+        1.003413120508194,
+        4.543651103973389
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9403160214424133,
+        0.9233831167221069,
+        4.543651103973389
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "can_1",
+      "template": "002_master_chef_can"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0138",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        1.014572024345398,
+        1.0406950956583023,
+        4.1649580001831055
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.014572024345398,
+        0.9239845871925354,
+        4.1649580001831055
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "box_1",
+      "template": "003_cracker_box"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0136",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.8008164763450623,
+        1.022258067727089,
+        5.244472503662109
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.8008164763450623,
+        0.9241510629653931,
+        5.244472503662109
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "box_2",
+      "template": "004_sugar_box"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0135",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9297105073928833,
+        0.98355230525136,
+        3.769064426422119
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9297105073928833,
+        0.9226047992706299,
+        3.769064426422119
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "can_2",
+      "template": "005_tomato_soup_can"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0148",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.858335256576538,
+        0.8927147334814072,
+        3.2649154663085938
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.858335256576538,
+        0.7870197296142578,
+        3.2649154663085938
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "bottle_1",
+      "template": "006_mustard_bottle"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0032",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.253735542297363,
+        0.8962316198647022,
+        4.422927379608154
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.253735542297363,
+        0.8678556084632874,
+        4.422927379608154
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "name": "banana_1",
+      "template": "011_banana"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0029",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.251594543457031,
+        0.9135370126366615,
+        4.131131649017334
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.251594543457031,
+        0.8675835132598877,
+        4.131131649017334
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "name": "apple_1",
+      "template": "013_apple"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0017",
+      "placement_id": "shelving_43::shelving_43_surface_01",
+      "position": [
+        -7.373917579650879,
+        3.896510871350765,
+        3.353572130203247
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.373917579650879,
+        3.859027862548828,
+        3.353572130203247
+      ],
+      "target_surface_group": "rendered:131:48",
+      "visual_surface_validated": true,
+      "name": "bowl_1",
+      "template": "024_bowl"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0110",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        5.498267650604248,
+        0.46696549862623216,
+        0.7505189776420593
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        5.498267650604248,
+        0.41628849506378174,
+        0.7505189776420593
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "name": "mug_1",
+      "template": "025_mug"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0015",
+      "placement_id": "shelving_44::shelving_44_surface_01",
+      "position": [
+        -7.418719291687012,
+        3.898167729601264,
+        1.484033226966858
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.418719291687012,
+        3.8591902256011963,
+        1.484033226966858
+      ],
+      "target_surface_group": "rendered:132:48",
+      "visual_surface_validated": true,
+      "name": "cube_1",
+      "template": "077_rubiks_cube"
+    },
+    {
+      "action": "wait",
+      "seconds": 30.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0155",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.2889678478240967,
+        0.8628014719486237,
+        3.2768285274505615
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.2889678478240967,
+        0.7827714681625366,
+        3.2768285274505615
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "can_1"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0023",
+      "placement_id": "shelving_50::shelving_50_surface_01",
+      "position": [
+        -9.275323867797852,
+        3.9932292348146436,
+        3.0939135551452637
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -9.275323867797852,
+        3.876518726348877,
+        3.0939135551452637
+      ],
+      "target_surface_group": "rendered:143:48",
+      "visual_surface_validated": true,
+      "object": "box_1"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0114",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        4.928483963012695,
+        0.5154783970117569,
+        0.6982536315917969
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        4.928483963012695,
+        0.41737139225006104,
+        0.6982536315917969
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "object": "box_2"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0140",
+      "placement_id": "whine_shelf_69::whine_shelf_69_surface_01",
+      "position": [
+        1.4329520463943481,
+        0.9863880558311939,
+        1.5395883321762085
+      ],
+      "target_category": "whine shelf",
+      "target_surface_point": [
+        1.4329520463943481,
+        0.9254405498504639,
+        1.5395883321762085
+      ],
+      "target_surface_group": "rendered:219:12",
+      "visual_surface_validated": true,
+      "object": "can_2"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0130",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9403160214424133,
+        1.0290781205892563,
+        4.543651103973389
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9403160214424133,
+        0.9233831167221069,
+        4.543651103973389
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "bottle_1"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0138",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        1.014572024345398,
+        0.9523605985939503,
+        4.1649580001831055
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.014572024345398,
+        0.9239845871925354,
+        4.1649580001831055
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "banana_1"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0136",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.8008164763450623,
+        0.9701045623421669,
+        5.244472503662109
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.8008164763450623,
+        0.9241510629653931,
+        5.244472503662109
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "apple_1"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0135",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9297105073928833,
+        0.960087808072567,
+        3.769064426422119
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9297105073928833,
+        0.9226047992706299,
+        3.769064426422119
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "bowl_1"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0148",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.858335256576538,
+        0.8376967331767082,
+        3.2649154663085938
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.858335256576538,
+        0.7870197296142578,
+        3.2649154663085938
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "mug_1"
+    },
+    {
+      "action": "wait",
+      "seconds": 20.5
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0032",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.253735542297363,
+        0.9068331124633551,
+        4.422927379608154
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.253735542297363,
+        0.8678556084632874,
+        4.422927379608154
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "object": "cube_1"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Create 10 objects and move them after 30 seconds"
+}

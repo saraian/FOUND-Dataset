@@ -1,0 +1,609 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0152",
+      "placement_id": "desk_20::desk_20_surface_03",
+      "position": [
+        2.7694942951202393,
+        0.8617397195100784,
+        0.2749878466129303
+      ],
+      "capture_eye": [
+        3.5694942474365234,
+        1.011739730834961,
+        0.2749878466129303
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        2.7694942951202393,
+        0.7450292110443115,
+        0.2749878466129303
+      ],
+      "target_surface_group": "rendered:36:9",
+      "visual_surface_validated": true,
+      "name": "salty_crisp_container",
+      "template": "003_cracker_box"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0072",
+      "placement_id": "table_33::table_33_surface_01",
+      "position": [
+        -0.9035046100616455,
+        0.8370976766943932,
+        1.6391783952713013
+      ],
+      "capture_eye": [
+        -1.7035045623779297,
+        0.9870976805686951,
+        1.6391783952713013
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -0.9035046100616455,
+        0.785327672958374,
+        1.6391783952713013
+      ],
+      "target_surface_group": "rendered:175:10",
+      "visual_surface_validated": true,
+      "name": "tinned_trust_can",
+      "template": "010_potted_meat_can"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0040",
+      "placement_id": "sofa_31::sofa_31_surface_05",
+      "position": [
+        -3.3954038619995117,
+        0.5549066683650017,
+        2.2796080112457275
+      ],
+      "capture_eye": [
+        -2.488442897796631,
+        1.354906678199768,
+        2.53035306930542
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        -3.3954038619995117,
+        0.5042296648025513,
+        2.2796080112457275
+      ],
+      "target_surface_group": "rendered:185:7",
+      "visual_surface_validated": true,
+      "name": "dawn_brew_cup",
+      "template": "025_mug"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0159",
+      "placement_id": "sofa_32::sofa_32_surface_03",
+      "position": [
+        5.050509929656982,
+        0.4559020597860217,
+        2.3875579833984375
+      ],
+      "capture_eye": [
+        5.857093811035156,
+        1.2559020519256592,
+        2.0781302452087402
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        5.050509929656982,
+        0.4378410577774048,
+        2.3875579833984375
+      ],
+      "target_surface_group": "rendered:28:6",
+      "visual_surface_validated": true,
+      "name": "dining_rustler",
+      "template": "030_fork"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0090",
+      "placement_id": "desk_19::desk_19_surface_03",
+      "position": [
+        -2.286119222640991,
+        0.7762642784416676,
+        1.869933009147644
+      ],
+      "capture_eye": [
+        -1.486119270324707,
+        0.926264226436615,
+        1.869933009147644
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        -2.286119222640991,
+        0.7487412691116333,
+        1.869933009147644
+      ],
+      "target_surface_group": "rendered:179:9",
+      "visual_surface_validated": true,
+      "name": "tighten_tapper",
+      "template": "044_flat_screwdriver"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0021",
+      "placement_id": "table_35::table_35_surface_01",
+      "position": [
+        -4.664053440093994,
+        0.9360579627007246,
+        -4.603869915008545
+      ],
+      "capture_eye": [
+        -5.464053630828857,
+        1.0860580205917358,
+        -4.603869915008545
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -4.664053440093994,
+        0.8982749581336975,
+        -4.603869915008545
+      ],
+      "target_surface_group": "rendered:228:11",
+      "visual_surface_validated": true,
+      "name": "bounce_reclaim_ball",
+      "template": "057_racquetball"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0149",
+      "placement_id": "desk_20::desk_20_surface_03",
+      "position": [
+        2.826516628265381,
+        0.7860987728834152,
+        0.5329729318618774
+      ],
+      "capture_eye": [
+        3.626516580581665,
+        0.9360987544059753,
+        0.5329729318618774
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        2.826516628265381,
+        0.7453457713127136,
+        0.5329729318618774
+      ],
+      "target_surface_group": "rendered:36:9",
+      "visual_surface_validated": true,
+      "name": "stacked_tea_set",
+      "template": "065-a_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0161",
+      "placement_id": "sofa_32::sofa_32_surface_03",
+      "position": [
+        3.908773183822632,
+        0.47453495882451535,
+        2.5773370265960693
+      ],
+      "capture_eye": [
+        3.211557388305664,
+        0.6245349645614624,
+        2.5773370265960693
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        3.908773183822632,
+        0.4516269564628601,
+        2.5773370265960693
+      ],
+      "target_surface_group": "rendered:28:6",
+      "visual_surface_validated": true,
+      "name": "colorful_peg_puzzle",
+      "template": "070-b_colored_wood_blocks"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0151",
+      "placement_id": "desk_20::desk_20_surface_03",
+      "position": [
+        2.8386611938476562,
+        0.791510952860117,
+        0.8587354421615601
+      ],
+      "capture_eye": [
+        3.6386611461639404,
+        0.9415109157562256,
+        0.8587354421615601
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        2.8386611938476562,
+        0.7483334541320801,
+        0.8587354421615601
+      ],
+      "target_surface_group": "rendered:36:9",
+      "visual_surface_validated": true,
+      "name": "skyward_scout_plane",
+      "template": "072-d_toy_airplane"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0050",
+      "placement_id": "table_34::table_34_surface_01",
+      "position": [
+        -3.1146655082702637,
+        0.5933137817680836,
+        0.25899967551231384
+      ],
+      "capture_eye": [
+        -2.3146655559539795,
+        0.743313729763031,
+        0.25899967551231384
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -3.1146655082702637,
+        0.5715007781982422,
+        0.25899967551231384
+      ],
+      "target_surface_group": "rendered:187:7",
+      "visual_surface_validated": true,
+      "name": "brick_builder_mind",
+      "template": "073-c_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 10.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0036",
+      "placement_id": "sofa_31::sofa_31_surface_02",
+      "position": [
+        -2.719456911087036,
+        1.009013677239418,
+        2.897963285446167
+      ],
+      "capture_eye": [
+        -2.071578025817871,
+        1.1590136289596558,
+        2.496920585632324
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        -2.719456911087036,
+        0.8923031687736511,
+        2.897963285446167
+      ],
+      "target_surface_group": "rendered:185:11",
+      "visual_surface_validated": true,
+      "object": "salty_crisp_container"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0152",
+      "placement_id": "desk_20::desk_20_surface_03",
+      "position": [
+        2.7694942951202393,
+        0.7967992147803307,
+        0.2749878466129303
+      ],
+      "capture_eye": [
+        3.5694942474365234,
+        0.9467992186546326,
+        0.2749878466129303
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        2.7694942951202393,
+        0.7450292110443115,
+        0.2749878466129303
+      ],
+      "target_surface_group": "rendered:36:9",
+      "visual_surface_validated": true,
+      "object": "tinned_trust_can"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0072",
+      "placement_id": "table_33::table_33_surface_01",
+      "position": [
+        -0.9035046100616455,
+        0.8360046765208244,
+        1.6391783952713013
+      ],
+      "capture_eye": [
+        -1.7035045623779297,
+        0.986004650592804,
+        1.6391783952713013
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -0.9035046100616455,
+        0.785327672958374,
+        1.6391783952713013
+      ],
+      "target_surface_group": "rendered:175:10",
+      "visual_surface_validated": true,
+      "object": "dawn_brew_cup"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0040",
+      "placement_id": "sofa_31::sofa_31_surface_05",
+      "position": [
+        -3.3954038619995117,
+        0.5222906668111682,
+        2.2796080112457275
+      ],
+      "capture_eye": [
+        -2.488442897796631,
+        1.3222906589508057,
+        2.53035306930542
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        -3.3954038619995117,
+        0.5042296648025513,
+        2.2796080112457275
+      ],
+      "target_surface_group": "rendered:185:7",
+      "visual_surface_validated": true,
+      "object": "dining_rustler"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0159",
+      "placement_id": "sofa_32::sofa_32_surface_03",
+      "position": [
+        5.050509929656982,
+        0.46536406710743905,
+        2.3875579833984375
+      ],
+      "capture_eye": [
+        5.857093811035156,
+        1.2653640508651733,
+        2.0781302452087402
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        5.050509929656982,
+        0.4378410577774048,
+        2.3875579833984375
+      ],
+      "target_surface_group": "rendered:28:6",
+      "visual_surface_validated": true,
+      "object": "tighten_tapper"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0090",
+      "placement_id": "desk_19::desk_19_surface_03",
+      "position": [
+        -2.286119222640991,
+        0.7865242736786604,
+        1.869933009147644
+      ],
+      "capture_eye": [
+        -1.486119270324707,
+        0.9365242719650269,
+        1.869933009147644
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        -2.286119222640991,
+        0.7487412691116333,
+        1.869933009147644
+      ],
+      "target_surface_group": "rendered:179:9",
+      "visual_surface_validated": true,
+      "object": "bounce_reclaim_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0021",
+      "placement_id": "table_35::table_35_surface_01",
+      "position": [
+        -4.664053440093994,
+        0.9390279597043991,
+        -4.603869915008545
+      ],
+      "capture_eye": [
+        -5.464053630828857,
+        1.089028000831604,
+        -4.603869915008545
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -4.664053440093994,
+        0.8982749581336975,
+        -4.603869915008545
+      ],
+      "target_surface_group": "rendered:228:11",
+      "visual_surface_validated": true,
+      "object": "stacked_tea_set"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0149",
+      "placement_id": "desk_20::desk_20_surface_03",
+      "position": [
+        2.826516628265381,
+        0.7682537736743689,
+        0.5329729318618774
+      ],
+      "capture_eye": [
+        3.626516580581665,
+        0.9182537794113159,
+        0.5329729318618774
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        2.826516628265381,
+        0.7453457713127136,
+        0.5329729318618774
+      ],
+      "target_surface_group": "rendered:36:9",
+      "visual_surface_validated": true,
+      "object": "colorful_peg_puzzle"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0011",
+      "placement_id": "sofa_31::sofa_31_surface_04",
+      "position": [
+        -3.476386070251465,
+        0.523034287840128,
+        2.3497281074523926
+      ],
+      "capture_eye": [
+        -2.488442897796631,
+        1.3230342864990234,
+        2.53035306930542
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        -3.476386070251465,
+        0.47985678911209106,
+        2.3497281074523926
+      ],
+      "target_surface_group": "rendered:185:6",
+      "visual_surface_validated": true,
+      "object": "skyward_scout_plane"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0161",
+      "placement_id": "sofa_32::sofa_32_surface_03",
+      "position": [
+        3.908773183822632,
+        0.4734399600327015,
+        2.5773370265960693
+      ],
+      "capture_eye": [
+        3.211557388305664,
+        0.6234399676322937,
+        2.5773370265960693
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        3.908773183822632,
+        0.4516269564628601,
+        2.5773370265960693
+      ],
+      "target_surface_group": "rendered:28:6",
+      "visual_surface_validated": true,
+      "object": "brick_builder_mind"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Create 10 uniquely named objects with specified templates, wait 10 seconds, then move each to a new destination.",
+  "target_duration_seconds": 150.0,
+  "estimated_duration_seconds": 150.0,
+  "duration_model": {
+    "action_count": 20,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 10.0,
+    "settle_wait_count": 18,
+    "settle_seconds": 3.333,
+    "padding_wait_count": 0
+  },
+  "scene_id": "829",
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00829-QaLdnwvtxbs/QaLdnwvtxbs.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00829-QaLdnwvtxbs/QaLdnwvtxbs.basis.navmesh",
+  "scenario": "relocate_all",
+  "generation_prompt_title": "The Forgotten Drawer Reorganization",
+  "generation_prompt": "Create exactly 10 different objects: a '003_cracker_box' named 'salty_crisp_container', a '010_potted_meat_can' named 'tinned_trust_can', a '025_mug' named 'dawn_brew_cup', a '030_fork' named 'dining_rustler', a '044_flat_screwdriver' named 'tighten_tapper', a '057_racquetball' named 'bounce_reclaim_ball', a '065-a_cups' named 'stacked_tea_set', a '070-b_colored_wood_blocks' named 'colorful_peg_puzzle', a '072-d_toy_airplane' named 'skyward_scout_plane', and a '073-c_lego_duplo' named 'brick_builder_mind'. Wait exactly 10 seconds; then move every object exactly once to a new destination. Do not remove anything.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Vary the object selection and manipulation story.",
+  "compile_attempts": 1,
+  "excluded_templates": []
+}

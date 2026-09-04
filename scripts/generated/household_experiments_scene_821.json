@@ -1,0 +1,609 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0066",
+      "placement_id": "cabinet_16::cabinet_16_surface_01",
+      "position": [
+        -3.1147162914276123,
+        0.934962904304266,
+        9.360499382019043
+      ],
+      "capture_eye": [
+        -2.314716339111328,
+        1.0849629640579224,
+        9.706093788146973
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -3.1147162914276123,
+        0.9055598974227905,
+        9.360499382019043
+      ],
+      "target_surface_group": "rendered:142:11",
+      "visual_surface_validated": true,
+      "name": "midnight_mousse_pouch",
+      "template": "008_pudding_box"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0029",
+      "placement_id": "kitchen_cabinet_lower_55::kitchen_cabinet_lower_55_surface_01",
+      "position": [
+        2.715852975845337,
+        0.9653659744560719,
+        8.561470031738281
+      ],
+      "capture_eye": [
+        3.515852928161621,
+        1.115365982055664,
+        8.906092643737793
+      ],
+      "target_category": "kitchen cabinet lower",
+      "target_surface_point": [
+        2.715852975845337,
+        0.9288414716720581,
+        8.561470031738281
+      ],
+      "target_surface_group": "rendered:104:12",
+      "visual_surface_validated": true,
+      "name": "dusk_sweet_plum",
+      "template": "018_plum"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0216",
+      "placement_id": "sitting_bench_82::sitting_bench_82_surface_01",
+      "position": [
+        6.221683025360107,
+        0.5232827684283257,
+        4.659588813781738
+      ],
+      "capture_eye": [
+        6.8257293701171875,
+        0.6732827425003052,
+        4.6922478675842285
+      ],
+      "target_category": "sitting bench",
+      "target_surface_point": [
+        6.221683025360107,
+        0.47260576486587524,
+        4.659588813781738
+      ],
+      "target_surface_group": "rendered:308:6",
+      "visual_surface_validated": true,
+      "name": "starlight_cream_mug",
+      "template": "025_mug"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0013",
+      "placement_id": "cabinet_18::cabinet_18_surface_01",
+      "position": [
+        -1.3819658756256104,
+        0.9467896299809218,
+        -6.725472927093506
+      ],
+      "capture_eye": [
+        -0.5437254905700684,
+        1.0967895984649658,
+        -6.903927803039551
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -1.3819658756256104,
+        0.9262946248054504,
+        -6.725472927093506
+      ],
+      "target_surface_group": "rendered:546:12",
+      "visual_surface_validated": true,
+      "name": "constellation_stirring_spoon",
+      "template": "031_spoon"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0271",
+      "placement_id": "table_87::table_87_surface_01",
+      "position": [
+        3.838554859161377,
+        0.8272450847923756,
+        -0.6647840738296509
+      ],
+      "capture_eye": [
+        4.63855504989624,
+        0.977245032787323,
+        -0.6647840738296509
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.838554859161377,
+        0.7997220754623413,
+        -0.6647840738296509
+      ],
+      "target_surface_group": "rendered:348:10",
+      "visual_surface_validated": true,
+      "name": "cosmic_tuning_tool",
+      "template": "044_flat_screwdriver"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0051",
+      "placement_id": "sitting_bench_81::sitting_bench_81_surface_01",
+      "position": [
+        -2.1839497089385986,
+        0.5197307562828064,
+        2.5491433143615723
+      ],
+      "capture_eye": [
+        -1.3839497566223145,
+        0.6697307229042053,
+        2.5491433143615723
+      ],
+      "target_category": "sitting bench",
+      "target_surface_point": [
+        -2.1839497089385986,
+        0.47346025705337524,
+        2.5491433143615723
+      ],
+      "target_surface_group": "rendered:244:6",
+      "visual_surface_validated": true,
+      "name": "orbit_roll_ball",
+      "template": "055_baseball"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0222",
+      "placement_id": "side_table_78::side_table_78_surface_01",
+      "position": [
+        6.089149475097656,
+        0.5483718963712454,
+        6.461544036865234
+      ],
+      "capture_eye": [
+        6.089149475097656,
+        0.6983718872070312,
+        7.261544227600098
+      ],
+      "target_category": "side table",
+      "target_surface_point": [
+        6.089149475097656,
+        0.5211288928985596,
+        6.461544036865234
+      ],
+      "target_surface_group": "rendered:288:7",
+      "visual_surface_validated": true,
+      "name": "nebula_shard_marbles",
+      "template": "063-b_marbles"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0161",
+      "placement_id": "sofa_85::sofa_85_surface_03",
+      "position": [
+        2.8589675426483154,
+        0.5131187608838081,
+        18.448284149169922
+      ],
+      "capture_eye": [
+        3.5021088123321533,
+        0.6631187200546265,
+        18.462543487548828
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        2.8589675426483154,
+        0.4656117558479309,
+        18.448284149169922
+      ],
+      "target_surface_group": "rendered:56:6",
+      "visual_surface_validated": true,
+      "name": "gravity_funnel_cups",
+      "template": "065-h_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0081",
+      "placement_id": "bath_side_table_10::bath_side_table_10_surface_01",
+      "position": [
+        -3.6766066551208496,
+        0.6856123267114163,
+        -4.386818885803223
+      ],
+      "capture_eye": [
+        -2.8766067028045654,
+        0.8356122970581055,
+        -4.386818885803223
+      ],
+      "target_category": "bath side table",
+      "target_surface_point": [
+        -3.6766066551208496,
+        0.6422458291053772,
+        -4.386818885803223
+      ],
+      "target_surface_group": "rendered:427:8",
+      "visual_surface_validated": true,
+      "name": "stellar_venture_plane",
+      "template": "072-c_toy_airplane"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0104",
+      "placement_id": "sofa_83::sofa_83_surface_03",
+      "position": [
+        3.584622859954834,
+        0.5183441808819771,
+        6.133456707000732
+      ],
+      "capture_eye": [
+        4.369375228881836,
+        0.6683441400527954,
+        5.813251495361328
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        3.584622859954834,
+        0.4867696762084961,
+        6.133456707000732
+      ],
+      "target_surface_group": "rendered:290:6",
+      "visual_surface_validated": true,
+      "name": "galaxy_layer_bricks",
+      "template": "073-e_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 10.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0019",
+      "placement_id": "desk_48::desk_48_surface_01",
+      "position": [
+        -2.1391851902008057,
+        0.8106816171109676,
+        -8.025935173034668
+      ],
+      "capture_eye": [
+        -1.3310060501098633,
+        0.9606816172599792,
+        -7.764197826385498
+      ],
+      "target_category": "desk",
+      "target_surface_point": [
+        -2.1391851902008057,
+        0.7812786102294922,
+        -8.025935173034668
+      ],
+      "target_surface_group": "rendered:542:10",
+      "visual_surface_validated": true,
+      "object": "midnight_mousse_pouch"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0118",
+      "placement_id": "kitchen_cabinet_lower_58::kitchen_cabinet_lower_58_surface_01",
+      "position": [
+        3.863037109375,
+        0.9672562165558338,
+        10.410675048828125
+      ],
+      "capture_eye": [
+        3.063037157058716,
+        1.1172561645507812,
+        10.410675048828125
+      ],
+      "target_category": "kitchen cabinet lower",
+      "target_surface_point": [
+        3.863037109375,
+        0.9307317137718201,
+        10.410675048828125
+      ],
+      "target_surface_group": "rendered:97:12",
+      "visual_surface_validated": true,
+      "object": "dusk_sweet_plum"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0139",
+      "placement_id": "kitchen_cabinet_lower_57::kitchen_cabinet_lower_57_surface_01",
+      "position": [
+        3.875242233276367,
+        0.9796308895945549,
+        12.6442232131958
+      ],
+      "capture_eye": [
+        3.619703769683838,
+        1.1296309232711792,
+        13.444223403930664
+      ],
+      "target_category": "kitchen cabinet lower",
+      "target_surface_point": [
+        3.875242233276367,
+        0.9289538860321045,
+        12.6442232131958
+      ],
+      "target_surface_group": "rendered:96:12",
+      "visual_surface_validated": true,
+      "object": "starlight_cream_mug"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0321",
+      "placement_id": "sofa_83::sofa_83_surface_02",
+      "position": [
+        4.501183032989502,
+        0.8703675942867994,
+        6.960056304931641
+      ],
+      "capture_eye": [
+        5.29512357711792,
+        1.0203676223754883,
+        7.299404144287109
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        4.501183032989502,
+        0.8498725891113281,
+        6.960056304931641
+      ],
+      "target_surface_group": "rendered:290:11",
+      "visual_surface_validated": true,
+      "object": "constellation_stirring_spoon"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0033",
+      "placement_id": "shelf_77::shelf_77_surface_01",
+      "position": [
+        2.5891454219818115,
+        1.3218805475533009,
+        8.043874740600586
+      ],
+      "capture_eye": [
+        3.3941168785095215,
+        1.471880555152893,
+        7.765457630157471
+      ],
+      "target_category": "shelf",
+      "target_surface_point": [
+        2.5891454219818115,
+        1.2943575382232666,
+        8.043874740600586
+      ],
+      "target_surface_group": "rendered:112:16",
+      "visual_surface_validated": true,
+      "object": "cosmic_tuning_tool"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0124",
+      "placement_id": "sofa_84::sofa_84_surface_01",
+      "position": [
+        2.293041229248047,
+        0.523161301612854,
+        5.344246864318848
+      ],
+      "capture_eye": [
+        3.093041181564331,
+        0.6731612682342529,
+        5.344246864318848
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        2.293041229248047,
+        0.47689080238342285,
+        5.344246864318848
+      ],
+      "target_surface_group": "rendered:298:6",
+      "visual_surface_validated": true,
+      "object": "orbit_roll_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0049",
+      "placement_id": "sofa_83::sofa_83_surface_04",
+      "position": [
+        3.004014015197754,
+        0.6407056900113821,
+        6.282936096191406
+      ],
+      "capture_eye": [
+        2.2040140628814697,
+        0.790705680847168,
+        6.282936096191406
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        3.004014015197754,
+        0.6134626865386963,
+        6.282936096191406
+      ],
+      "target_surface_group": "rendered:290:8",
+      "visual_surface_validated": true,
+      "object": "nebula_shard_marbles"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0314",
+      "placement_id": "coffee_table_42::coffee_table_42_surface_01",
+      "position": [
+        6.0129714012146,
+        0.6172316840291023,
+        1.6874967813491821
+      ],
+      "capture_eye": [
+        6.812971591949463,
+        0.7672316431999207,
+        1.6874967813491821
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        6.0129714012146,
+        0.5697246789932251,
+        1.6874967813491821
+      ],
+      "target_surface_group": "rendered:223:7",
+      "visual_surface_validated": true,
+      "object": "gravity_funnel_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0193",
+      "placement_id": "sofa_83::sofa_83_surface_01",
+      "position": [
+        4.997797012329102,
+        0.874290114492178,
+        6.944157600402832
+      ],
+      "capture_eye": [
+        5.797797203063965,
+        1.0242900848388672,
+        6.944157600402832
+      ],
+      "target_category": "sofa",
+      "target_surface_point": [
+        4.997797012329102,
+        0.8309236168861389,
+        6.944157600402832
+      ],
+      "target_surface_group": "rendered:290:10",
+      "visual_surface_validated": true,
+      "object": "stellar_venture_plane"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0005",
+      "placement_id": "wash_cabinet_95::wash_cabinet_95_surface_01",
+      "position": [
+        -2.6611196994781494,
+        0.9107633998990059,
+        -5.661380290985107
+      ],
+      "capture_eye": [
+        -1.8611197471618652,
+        1.0607633590698242,
+        -5.343907356262207
+      ],
+      "target_category": "wash cabinet",
+      "target_surface_point": [
+        -2.6611196994781494,
+        0.8791888952255249,
+        -5.661380290985107
+      ],
+      "target_surface_group": "rendered:429:11",
+      "visual_surface_validated": true,
+      "object": "galaxy_layer_bricks"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Create 10 distinct objects with unique logical names, wait 10 seconds, then move each object to a new destination.",
+  "target_duration_seconds": 150.0,
+  "estimated_duration_seconds": 150.0,
+  "duration_model": {
+    "action_count": 20,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 10.0,
+    "settle_wait_count": 18,
+    "settle_seconds": 3.333,
+    "padding_wait_count": 0
+  },
+  "scene_id": "821",
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00821-eF36g7L6Z9M/eF36g7L6Z9M.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00821-eF36g7L6Z9M/eF36g7L6Z9M.basis.navmesh",
+  "scenario": "relocate_all",
+  "generation_prompt_title": "The Midnight Puzzle Reshuffle",
+  "generation_prompt": "Create exactly 10 different objects: a '008_pudding_box' named 'midnight_mousse_pouch', a '018_plum' named 'dusk_sweet_plum', a '025_mug' named 'starlight_cream_mug', a '031_spoon' named 'constellation_stirring_spoon', a '044_flat_screwdriver' named 'cosmic_tuning_tool', a '055_baseball' named 'orbit_roll_ball', a '063-b_marbles' named 'nebula_shard_marbles', a '065-h_cups' named 'gravity_funnel_cups', a '072-c_toy_airplane' named 'stellar_venture_plane', and a '073-e_lego_duplo' named 'galaxy_layer_bricks'. Then wait exactly 10 seconds; move every object exactly once to a new destination. Do not remove anything.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Vary the object selection and manipulation story.",
+  "compile_attempts": 1,
+  "excluded_templates": []
+}

@@ -1,0 +1,906 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0138",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        1.014572024345398,
+        0.9504295943677425,
+        4.1649580001831055
+      ],
+      "capture_eye": [
+        2.096129894256592,
+        1.100429654121399,
+        4.1368021965026855
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.014572024345398,
+        0.9239845871925354,
+        4.1649580001831055
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "drumstick",
+      "template": "033_spatula"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0130",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9403160214424133,
+        0.9509061260521412,
+        4.543651103973389
+      ],
+      "capture_eye": [
+        0.14031600952148438,
+        1.1009061336517334,
+        4.543651103973389
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9403160214424133,
+        0.9233831167221069,
+        4.543651103973389
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "tuning_fork",
+      "template": "044_flat_screwdriver"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0136",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.8008164763450623,
+        0.9673730677366257,
+        5.244472503662109
+      ],
+      "capture_eye": [
+        -0.003469705581665039,
+        1.1173731088638306,
+        5.0730299949646
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.8008164763450623,
+        0.9241510629653931,
+        5.244472503662109
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "cymbal",
+      "template": "056_tennis_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0134",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        -0.08422362059354782,
+        0.9505445419251919,
+        5.264386177062988
+      ],
+      "capture_eye": [
+        0.6830368041992188,
+        1.1005445718765259,
+        5.0558671951293945
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        -0.08422362059354782,
+        0.9193665385246277,
+        5.264386177062988
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "metronome",
+      "template": "058_golf_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0135",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9297105073928833,
+        1.0149268156290054,
+        3.769064426422119
+      ],
+      "capture_eye": [
+        1.9330368041992188,
+        1.1649267673492432,
+        3.5058670043945312
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9297105073928833,
+        0.9226047992706299,
+        3.769064426422119
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "violin_bow",
+      "template": "070-a_colored_wood_blocks"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0148",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.858335256576538,
+        0.8099277319759131,
+        3.2649154663085938
+      ],
+      "capture_eye": [
+        4.658335208892822,
+        1.609927773475647,
+        3.2649154663085938
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.858335256576538,
+        0.7870197296142578,
+        3.2649154663085938
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "music_sheet",
+      "template": "070-b_colored_wood_blocks"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0150",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.9639084339141846,
+        0.8437504826486111,
+        4.565380096435547
+      ],
+      "capture_eye": [
+        4.763908386230469,
+        0.9937504529953003,
+        4.565380096435547
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.9639084339141846,
+        0.800383985042572,
+        4.565380096435547
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "tambourine",
+      "template": "072-c_toy_airplane"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0110",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        5.498267650604248,
+        0.43825299687683583,
+        0.7505189776420593
+      ],
+      "capture_eye": [
+        6.298267841339111,
+        0.5882529616355896,
+        0.7505189776420593
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        5.498267650604248,
+        0.41628849506378174,
+        0.7505189776420593
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "name": "drum_head",
+      "template": "073-a_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0032",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.253735542297363,
+        0.8995066101104021,
+        4.422927379608154
+      ],
+      "capture_eye": [
+        -11.4537353515625,
+        1.049506664276123,
+        4.422927379608154
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.253735542297363,
+        0.8678556084632874,
+        4.422927379608154
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "name": "xylophone_bar",
+      "template": "073-b_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0029",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.251594543457031,
+        0.8991215175390244,
+        4.131131649017334
+      ],
+      "capture_eye": [
+        -11.451594352722168,
+        1.0491214990615845,
+        4.131131649017334
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.251594543457031,
+        0.8675835132598877,
+        4.131131649017334
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "name": "drum_stick_holder",
+      "template": "073-d_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0017",
+      "placement_id": "shelving_43::shelving_43_surface_01",
+      "position": [
+        -7.373917579650879,
+        3.890602367222309,
+        3.353572130203247
+      ],
+      "capture_eye": [
+        -8.173917770385742,
+        4.040602207183838,
+        3.353572130203247
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.373917579650879,
+        3.859027862548828,
+        3.353572130203247
+      ],
+      "target_surface_group": "rendered:131:48",
+      "visual_surface_validated": true,
+      "name": "maraca",
+      "template": "073-e_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0015",
+      "placement_id": "shelving_44::shelving_44_surface_01",
+      "position": [
+        -7.418719291687012,
+        3.89087872415781,
+        1.484033226966858
+      ],
+      "capture_eye": [
+        -8.218719482421875,
+        4.040878772735596,
+        1.484033226966858
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.418719291687012,
+        3.8591902256011963,
+        1.484033226966858
+      ],
+      "target_surface_group": "rendered:132:48",
+      "visual_surface_validated": true,
+      "name": "castanets",
+      "template": "073-f_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0155",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.2889678478240967,
+        0.8217489721626043,
+        3.2768285274505615
+      ],
+      "capture_eye": [
+        4.133037567138672,
+        0.971748948097229,
+        3.0558671951293945
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.2889678478240967,
+        0.7827714681625366,
+        3.2768285274505615
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "drum_pedal",
+      "template": "077_rubiks_cube"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0114",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        4.928483963012695,
+        0.46510490238666535,
+        0.6982536315917969
+      ],
+      "capture_eye": [
+        5.715199947357178,
+        0.6151049137115479,
+        1.0436426401138306
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        4.928483963012695,
+        0.41737139225006104,
+        0.6982536315917969
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "name": "music_stand",
+      "template": "065-j_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0140",
+      "placement_id": "whine_shelf_69::whine_shelf_69_surface_01",
+      "position": [
+        1.4329520463943481,
+        0.9488295654207468,
+        1.5395883321762085
+      ],
+      "capture_eye": [
+        2.232952117919922,
+        1.0988296270370483,
+        1.5395883321762085
+      ],
+      "target_category": "whine shelf",
+      "target_surface_point": [
+        1.4329520463943481,
+        0.9254405498504639,
+        1.5395883321762085
+      ],
+      "target_surface_group": "rendered:219:12",
+      "visual_surface_validated": true,
+      "name": "rhythm_clock",
+      "template": "029_plate"
+    },
+    {
+      "action": "wait",
+      "seconds": 5.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0009",
+      "placement_id": "chest_of_drawers_24::chest_of_drawers_24_surface_01",
+      "position": [
+        -8.738055229187012,
+        0.828785335868597,
+        1.5778892040252686
+      ],
+      "capture_eye": [
+        -8.738055229187012,
+        0.9787853360176086,
+        2.3778891563415527
+      ],
+      "target_category": "chest of drawers",
+      "target_surface_point": [
+        -8.738055229187012,
+        0.8023403286933899,
+        1.5778892040252686
+      ],
+      "target_surface_group": "rendered:438:10",
+      "visual_surface_validated": true,
+      "object": "drumstick"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0153",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.259680986404419,
+        0.8267098946869373,
+        4.569435119628906
+      ],
+      "capture_eye": [
+        4.183036804199219,
+        0.9767098426818848,
+        4.705866813659668
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.259680986404419,
+        0.7991868853569031,
+        4.569435119628906
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "tuning_fork"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0023",
+      "placement_id": "shelving_50::shelving_50_surface_01",
+      "position": [
+        -9.275323867797852,
+        3.9197407311201093,
+        3.0939135551452637
+      ],
+      "capture_eye": [
+        -8.475323677062988,
+        4.0697407722473145,
+        3.0939135551452637
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -9.275323867797852,
+        3.876518726348877,
+        3.0939135551452637
+      ],
+      "target_surface_group": "rendered:143:48",
+      "visual_surface_validated": true,
+      "object": "cymbal"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0142",
+      "placement_id": "whine_shelf_69::whine_shelf_69_surface_01",
+      "position": [
+        1.4046316146850586,
+        0.9567576108872891,
+        1.909685492515564
+      ],
+      "capture_eye": [
+        2.2046315670013428,
+        1.106757640838623,
+        1.909685492515564
+      ],
+      "target_category": "whine shelf",
+      "target_surface_point": [
+        1.4046316146850586,
+        0.9255796074867249,
+        1.909685492515564
+      ],
+      "target_surface_group": "rendered:219:12",
+      "visual_surface_validated": true,
+      "object": "metronome"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0019",
+      "placement_id": "shelving_47::shelving_47_surface_01",
+      "position": [
+        -9.797794342041016,
+        3.9399534708261488,
+        1.326464295387268
+      ],
+      "capture_eye": [
+        -10.363394737243652,
+        4.089953422546387,
+        1.8920643329620361
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -9.797794342041016,
+        3.8476314544677734,
+        1.326464295387268
+      ],
+      "target_surface_group": "rendered:140:48",
+      "visual_surface_validated": true,
+      "object": "violin_bow"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0130",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9403160214424133,
+        0.9462911190837622,
+        4.543651103973389
+      ],
+      "capture_eye": [
+        0.14031600952148438,
+        1.096291184425354,
+        4.543651103973389
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9403160214424133,
+        0.9233831167221069,
+        4.543651103973389
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "music_sheet"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0138",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        1.014572024345398,
+        0.9673510847985745,
+        4.1649580001831055
+      ],
+      "capture_eye": [
+        2.096129894256592,
+        1.1173510551452637,
+        4.1368021965026855
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.014572024345398,
+        0.9239845871925354,
+        4.1649580001831055
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "tambourine"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0136",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.8008164763450623,
+        0.9461155647784472,
+        5.244472503662109
+      ],
+      "capture_eye": [
+        -0.003469705581665039,
+        1.0961155891418457,
+        5.0730299949646
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.8008164763450623,
+        0.9241510629653931,
+        5.244472503662109
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "drum_head"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0134",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        -0.08422362059354782,
+        0.9510175401717424,
+        5.264386177062988
+      ],
+      "capture_eye": [
+        0.6830368041992188,
+        1.1010175943374634,
+        5.0558671951293945
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        -0.08422362059354782,
+        0.9193665385246277,
+        5.264386177062988
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "xylophone_bar"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0135",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9297105073928833,
+        0.9541428035497665,
+        3.769064426422119
+      ],
+      "capture_eye": [
+        1.9330368041992188,
+        1.1041427850723267,
+        3.5058670043945312
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9297105073928833,
+        0.9226047992706299,
+        3.769064426422119
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "drum_stick_holder"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0148",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.858335256576538,
+        0.8185942342877388,
+        3.2649154663085938
+      ],
+      "capture_eye": [
+        4.658335208892822,
+        1.6185941696166992,
+        3.2649154663085938
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.858335256576538,
+        0.7870197296142578,
+        3.2649154663085938
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "maraca"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0150",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.9639084339141846,
+        0.832072483599186,
+        4.565380096435547
+      ],
+      "capture_eye": [
+        4.763908386230469,
+        0.9820724725723267,
+        4.565380096435547
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.9639084339141846,
+        0.800383985042572,
+        4.565380096435547
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "castanets"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0032",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.253735542297363,
+        0.9068331124633551,
+        4.422927379608154
+      ],
+      "capture_eye": [
+        -11.4537353515625,
+        1.0568331480026245,
+        4.422927379608154
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.253735542297363,
+        0.8678556084632874,
+        4.422927379608154
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "object": "drum_pedal"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0029",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.251594543457031,
+        0.915317023396492,
+        4.131131649017334
+      ],
+      "capture_eye": [
+        -11.451594352722168,
+        1.0653170347213745,
+        4.131131649017334
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.251594543457031,
+        0.8675835132598877,
+        4.131131649017334
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "object": "music_stand"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.964,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0110",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        5.498267650604248,
+        0.4396775106340647,
+        0.7505189776420593
+      ],
+      "capture_eye": [
+        6.298267841339111,
+        0.5896775126457214,
+        0.7505189776420593
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        5.498267650604248,
+        0.41628849506378174,
+        0.7505189776420593
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "object": "rhythm_clock"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "A silent, rhythmic improvisation unfolds on a sunlit studio floor. Fifteen distinct objects are initially arranged in a loosely organized, rhythmically suggesti",
+  "target_duration_seconds": 180.0,
+  "estimated_duration_seconds": 180.0,
+  "duration_model": {
+    "action_count": 30,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 5.0,
+    "settle_wait_count": 28,
+    "settle_seconds": 1.964,
+    "padding_wait_count": 0
+  },
+  "scene_id": "808",
+  "script_index": 3,
+  "scripts_per_scene": 10,
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00808-y9hTuugGdiq/y9hTuugGdiq.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00808-y9hTuugGdiq/y9hTuugGdiq.basis.navmesh",
+  "scenario": "two_phase",
+  "generation_prompt_title": "The Forgotten Musician's Rehearsal Reset",
+  "generation_prompt": "Begin the scene with exactly 15 distinct objects placed in a loosely organized, rhythmically suggestive arrangement across a sunlit studio floor, as if mid-rehearsal for a solo percussion performance. Assign each object a unique logical name as follows: drumstick, tuning_fork, cymbal, metronome, violin_bow, music_sheet, tambourine, drum_head, xylophone_bar, drum_stick_holder, maraca, castanets, drum_pedal, music_stand, and rhythm_clock. Wait exactly 5 seconds; then move exactly 7 objects\u2014each to a new destination\u2014simulating a sudden shift in tempo: the musician has re-evaluated the beat and is repositioning key instruments to better match the intended rhythm. After the 5-second pause, move every remaining 8 objects exactly once to new destinations, ensuring no object returns to its original location. Each move must reflect a deliberate, musically informed reconfiguration\u2014like adjusting the spatial flow of a live performance. The story unfolds as a dynamic, silent improvisation where sound and space evolve in tandem. Ensure all 15 objects are moved exactly once. No object is removed. No new actions or waits are added. Use only the following object identifiers exactly as listed: 033_spatula, 044_flat_screwdriver, 056_tennis_ball, 058_golf_ball, 070-a_colored_wood_blocks, 070-b_colored_wood_blocks, 072-c_toy_airplane, 073-a_lego_duplo, 073-b_lego_duplo, 073-d_lego_duplo, 073-e_lego_duplo, 073-f_lego_duplo, 077_rubiks_cube, 065-j_cups, 029_plate. All 15 objects must be moved exactly once after the first 5-second wait. Exactly 7 objects are moved in the first phase, and the remaining 8 are moved in the second phase. No further actions or waits are allowed.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Vary the object selection and manipulation story.",
+  "compile_attempts": 1,
+  "excluded_templates": []
+}

@@ -1,0 +1,607 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0017",
+      "placement_id": "cabinet_08::cabinet_08_surface_01",
+      "position": [
+        -10.991961479187012,
+        3.7084540373086927,
+        -2.735980987548828
+      ],
+      "capture_eye": [
+        -11.791961669921875,
+        3.8584542274475098,
+        -2.735980987548828
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -10.991961479187012,
+        3.6656315326690674,
+        -2.735980987548828
+      ],
+      "target_surface_group": "rendered:58:46",
+      "visual_surface_validated": true,
+      "name": "polished_masterpiece_pear",
+      "template": "016_pear"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0023",
+      "placement_id": "cabinet_08::cabinet_08_surface_01",
+      "position": [
+        -11.008363723754883,
+        3.6893662551790474,
+        -3.354975461959839
+      ],
+      "capture_eye": [
+        -11.808363914489746,
+        3.8393664360046387,
+        -3.354975461959839
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -11.008363723754883,
+        3.6659772396087646,
+        -3.354975461959839
+      ],
+      "target_surface_group": "rendered:58:46",
+      "visual_surface_validated": true,
+      "name": "ceramic_puzzle_plate",
+      "template": "029_plate"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0020",
+      "placement_id": "cabinet_08::cabinet_08_surface_01",
+      "position": [
+        -11.009845733642578,
+        3.705233903825283,
+        -4.090604782104492
+      ],
+      "capture_eye": [
+        -11.809845924377441,
+        3.855233907699585,
+        -4.090604782104492
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -11.009845733642578,
+        3.6665453910827637,
+        -4.090604782104492
+      ],
+      "target_surface_group": "rendered:58:46",
+      "visual_surface_validated": true,
+      "name": "assembly_spinner",
+      "template": "035_power_drill"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0024",
+      "placement_id": "cabinet_08::cabinet_08_surface_01",
+      "position": [
+        -10.96462345123291,
+        3.6821990345977245,
+        -1.5412005186080933
+      ],
+      "capture_eye": [
+        -11.764623641967773,
+        3.8321990966796875,
+        -1.5412005186080933
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -10.96462345123291,
+        3.664870023727417,
+        -1.5412005186080933
+      ],
+      "target_surface_group": "rendered:58:46",
+      "visual_surface_validated": true,
+      "name": "twist_master_wrench",
+      "template": "042_adjustable_wrench"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0164",
+      "placement_id": "sofa_chair_31::sofa_chair_31_surface_03",
+      "position": [
+        2.3959178924560547,
+        0.5302112682163715,
+        2.823272466659546
+      ],
+      "capture_eye": [
+        3.195917844772339,
+        0.6802112460136414,
+        2.823272466659546
+      ],
+      "target_category": "sofa chair",
+      "target_surface_point": [
+        2.3959178924560547,
+        0.5023812651634216,
+        2.823272466659546
+      ],
+      "target_surface_group": "rendered:438:6",
+      "visual_surface_validated": true,
+      "name": "Precision_gripper",
+      "template": "043_phillips_screwdriver"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0069",
+      "placement_id": "table_40::table_40_surface_01",
+      "position": [
+        -13.357515335083008,
+        3.139752142354846,
+        -3.6932525634765625
+      ],
+      "capture_eye": [
+        -12.557515144348145,
+        3.289752244949341,
+        -3.6932525634765625
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -13.357515335083008,
+        3.116762638092041,
+        -3.6932525634765625
+      ],
+      "target_surface_group": "rendered:61:39",
+      "visual_surface_validated": true,
+      "name": "secure_fit_clamp",
+      "template": "050_medium_clamp"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0097",
+      "placement_id": "table_37::table_37_surface_01",
+      "position": [
+        -14.054974555969238,
+        3.220260674357414,
+        5.864753246307373
+      ],
+      "capture_eye": [
+        -13.089348793029785,
+        4.020260810852051,
+        5.877493858337402
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -14.054974555969238,
+        3.1770386695861816,
+        5.864753246307373
+      ],
+      "target_surface_group": "rendered:115:40",
+      "visual_surface_validated": true,
+      "name": "bounce_test_ball",
+      "template": "056_tennis_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0021",
+      "placement_id": "cabinet_08::cabinet_08_surface_01",
+      "position": [
+        -10.917328834533691,
+        3.7110021582245825,
+        -1.9950722455978394
+      ],
+      "capture_eye": [
+        -11.717329025268555,
+        3.861002206802368,
+        -1.9950722455978394
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -10.917328834533691,
+        3.6656341552734375,
+        -1.9950722455978394
+      ],
+      "target_surface_group": "rendered:58:46",
+      "visual_surface_validated": true,
+      "name": "sorted_puzzle_cups",
+      "template": "065-e_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0026",
+      "placement_id": "cabinet_08::cabinet_08_surface_01",
+      "position": [
+        -10.9009428024292,
+        3.7598988062143324,
+        -4.331602573394775
+      ],
+      "capture_eye": [
+        -11.700942993164062,
+        3.9098989963531494,
+        -4.331602573394775
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -10.9009428024292,
+        3.667576789855957,
+        -4.331602573394775
+      ],
+      "target_surface_group": "rendered:58:46",
+      "visual_surface_validated": true,
+      "name": "stack_your_fortune_blocks",
+      "template": "070-a_colored_wood_blocks"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0095",
+      "placement_id": "couch_19::couch_19_surface_01",
+      "position": [
+        -13.235910415649414,
+        3.2986606361716984,
+        5.219213962554932
+      ],
+      "capture_eye": [
+        -12.43591022491455,
+        3.648660659790039,
+        5.219213962554932
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        -13.235910415649414,
+        3.259683132171631,
+        5.219213962554932
+      ],
+      "target_surface_group": "rendered:114:41",
+      "visual_surface_validated": true,
+      "name": "twist_champion",
+      "template": "077_rubiks_cube"
+    },
+    {
+      "action": "wait",
+      "seconds": 10.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0093",
+      "placement_id": "couch_19::couch_19_surface_01",
+      "position": [
+        -14.323270797729492,
+        3.3007005697488783,
+        5.217009544372559
+      ],
+      "capture_eye": [
+        -15.123270988464355,
+        3.650700569152832,
+        5.217009544372559
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        -14.323270797729492,
+        3.257878065109253,
+        5.217009544372559
+      ],
+      "target_surface_group": "rendered:114:41",
+      "visual_surface_validated": true,
+      "object": "polished_masterpiece_pear"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0070",
+      "placement_id": "table_40::table_40_surface_01",
+      "position": [
+        -13.073688507080078,
+        3.1441229919344185,
+        -3.3172895908355713
+      ],
+      "capture_eye": [
+        -12.273688316345215,
+        3.2941231727600098,
+        -3.3172895908355713
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -13.073688507080078,
+        3.1207339763641357,
+        -3.3172895908355713
+      ],
+      "target_surface_group": "rendered:61:39",
+      "visual_surface_validated": true,
+      "object": "ceramic_puzzle_plate"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0202",
+      "placement_id": "couch_20::couch_20_surface_03",
+      "position": [
+        2.895092725753784,
+        0.5095219334959984,
+        6.610229969024658
+      ],
+      "capture_eye": [
+        3.708927631378174,
+        0.6595219373703003,
+        6.326611518859863
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        2.895092725753784,
+        0.470833420753479,
+        6.610229969024658
+      ],
+      "target_surface_group": "rendered:441:6",
+      "visual_surface_validated": true,
+      "object": "assembly_spinner"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0111",
+      "placement_id": "couch_19::couch_19_surface_02",
+      "position": [
+        -14.772958755493164,
+        3.428371939565986,
+        5.123892307281494
+      ],
+      "capture_eye": [
+        -15.572958946228027,
+        3.578372001647949,
+        5.123892307281494
+      ],
+      "target_category": "couch",
+      "target_surface_point": [
+        -14.772958755493164,
+        3.4110429286956787,
+        5.123892307281494
+      ],
+      "target_surface_group": "rendered:114:43",
+      "visual_surface_validated": true,
+      "object": "twist_master_wrench"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0017",
+      "placement_id": "cabinet_08::cabinet_08_surface_01",
+      "position": [
+        -10.991961479187012,
+        3.693461535722017,
+        -2.735980987548828
+      ],
+      "capture_eye": [
+        -11.791961669921875,
+        3.843461513519287,
+        -2.735980987548828
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -10.991961479187012,
+        3.6656315326690674,
+        -2.735980987548828
+      ],
+      "target_surface_group": "rendered:58:46",
+      "visual_surface_validated": true,
+      "object": "Precision_gripper"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0023",
+      "placement_id": "cabinet_08::cabinet_08_surface_01",
+      "position": [
+        -11.008363723754883,
+        3.6889667438715694,
+        -3.354975461959839
+      ],
+      "capture_eye": [
+        -11.808363914489746,
+        3.8389668464660645,
+        -3.354975461959839
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -11.008363723754883,
+        3.6659772396087646,
+        -3.354975461959839
+      ],
+      "target_surface_group": "rendered:58:46",
+      "visual_surface_validated": true,
+      "object": "secure_fit_clamp"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0020",
+      "placement_id": "cabinet_08::cabinet_08_surface_01",
+      "position": [
+        -11.009845733642578,
+        3.709767395853996,
+        -4.090604782104492
+      ],
+      "capture_eye": [
+        -11.809845924377441,
+        3.859767436981201,
+        -4.090604782104492
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -11.009845733642578,
+        3.6665453910827637,
+        -4.090604782104492
+      ],
+      "target_surface_group": "rendered:58:46",
+      "visual_surface_validated": true,
+      "object": "bounce_test_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0097",
+      "placement_id": "table_37::table_37_surface_01",
+      "position": [
+        -14.054974555969238,
+        3.2224066725373266,
+        5.864753246307373
+      ],
+      "capture_eye": [
+        -13.089348793029785,
+        4.022406578063965,
+        5.877493858337402
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -14.054974555969238,
+        3.1770386695861816,
+        5.864753246307373
+      ],
+      "target_surface_group": "rendered:115:40",
+      "visual_surface_validated": true,
+      "object": "sorted_puzzle_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0069",
+      "placement_id": "table_40::table_40_surface_01",
+      "position": [
+        -13.357515335083008,
+        3.2090846544504164,
+        -3.6932525634765625
+      ],
+      "capture_eye": [
+        -12.557515144348145,
+        3.3590848445892334,
+        -3.6932525634765625
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        -13.357515335083008,
+        3.116762638092041,
+        -3.6932525634765625
+      ],
+      "target_surface_group": "rendered:61:39",
+      "visual_surface_validated": true,
+      "object": "stack_your_fortune_blocks"
+    },
+    {
+      "action": "wait",
+      "seconds": 3.333,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0024",
+      "placement_id": "cabinet_08::cabinet_08_surface_01",
+      "position": [
+        -10.96462345123291,
+        3.7038475277274845,
+        -1.5412005186080933
+      ],
+      "capture_eye": [
+        -11.764623641967773,
+        3.8538477420806885,
+        -1.5412005186080933
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -10.96462345123291,
+        3.664870023727417,
+        -1.5412005186080933
+      ],
+      "target_surface_group": "rendered:58:46",
+      "visual_surface_validated": true,
+      "object": "twist_champion"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Create 10 objects and move them after 10 seconds",
+  "target_duration_seconds": 150.0,
+  "estimated_duration_seconds": 150.0,
+  "duration_model": {
+    "action_count": 20,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 10.0,
+    "settle_wait_count": 18,
+    "settle_seconds": 3.333,
+    "padding_wait_count": 0
+  },
+  "scene_id": "814",
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00814-p53SfW6mjZe/p53SfW6mjZe.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00814-p53SfW6mjZe/p53SfW6mjZe.basis.navmesh",
+  "scenario": "relocate_all",
+  "generation_prompt_title": "Puzzle Presto Assembly",
+  "generation_prompt": "Create exactly 10 different objects: a '016_pear' named 'polished_masterpiece_pear', a '029_plate' named 'ceramic_puzzle_plate', a '035_power_drill' named 'assembly_spinner', a '042_adjustable_wrench' named 'twist_master_wrench', a '043_phillips_screwdriver' named 'Precision_gripper', a '050_medium_clamp' named 'secure_fit_clamp', a '056_tennis_ball' named 'bounce_test_ball', a '065-e_cups' named 'sorted_puzzle_cups', a '070-a_colored_wood_blocks' named 'stack_your_fortune_blocks', and a '077_rubiks_cube' named 'twist_champion'. Then wait exactly 10 seconds before moving every object exactly once to a new destination. Do not remove anything.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Each object in the selection has to be different, and the manipulation story has to be different too."
+}

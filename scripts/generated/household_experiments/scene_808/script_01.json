@@ -1,0 +1,907 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0130",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9403160214424133,
+        1.0363366252183914,
+        4.543651103973389
+      ],
+      "capture_eye": [
+        0.14031600952148438,
+        1.186336636543274,
+        4.543651103973389
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9403160214424133,
+        0.9233831167221069,
+        4.543651103973389
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "finely_sanded_wooden_corner",
+      "template": "036_wood_block"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0138",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        1.014572024345398,
+        0.9595545886456966,
+        4.1649580001831055
+      ],
+      "capture_eye": [
+        2.096129894256592,
+        1.109554648399353,
+        4.1368021965026855
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.014572024345398,
+        0.9239845871925354,
+        4.1649580001831055
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "interlocking_edge_piece",
+      "template": "061_foam_brick"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0135",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9297105073928833,
+        1.0149268156290054,
+        3.769064426422119
+      ],
+      "capture_eye": [
+        1.9330368041992188,
+        1.1649267673492432,
+        3.5058670043945312
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9297105073928833,
+        0.9226047992706299,
+        3.769064426422119
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "twisted_mahogany_slab",
+      "template": "070-a_colored_wood_blocks"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0136",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.8008164763450623,
+        0.9470590653270483,
+        5.244472503662109
+      ],
+      "capture_eye": [
+        -0.003469705581665039,
+        1.0970591306686401,
+        5.0730299949646
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.8008164763450623,
+        0.9241510629653931,
+        5.244472503662109
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "harmony_inlay_cylinder",
+      "template": "070-b_colored_wood_blocks"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0134",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        -0.08422362059354782,
+        0.9413310403376818,
+        5.264386177062988
+      ],
+      "capture_eye": [
+        0.6830368041992188,
+        1.0913310050964355,
+        5.0558671951293945
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        -0.08422362059354782,
+        0.9193665385246277,
+        5.264386177062988
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "spiral_spiral_wooden_detent",
+      "template": "073-a_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0148",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.858335256576538,
+        0.8186707312613726,
+        3.2649154663085938
+      ],
+      "capture_eye": [
+        4.658335208892822,
+        1.6186707019805908,
+        3.2649154663085938
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.858335256576538,
+        0.7870197296142578,
+        3.2649154663085938
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "ancient_wooden_puzzle_magnet",
+      "template": "073-b_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0032",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.253735542297363,
+        0.8896686120331287,
+        4.422927379608154
+      ],
+      "capture_eye": [
+        -11.4537353515625,
+        1.0396685600280762,
+        4.422927379608154
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.253735542297363,
+        0.8678556084632874,
+        4.422927379608154
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "name": "symmetrical_sprocket_tile",
+      "template": "073-c_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0029",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.251594543457031,
+        0.8991215175390244,
+        4.131131649017334
+      ],
+      "capture_eye": [
+        -11.451594352722168,
+        1.0491214990615845,
+        4.131131649017334
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.251594543457031,
+        0.8675835132598877,
+        4.131131649017334
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "name": "jagged_fitting_line",
+      "template": "073-d_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0017",
+      "placement_id": "shelving_43::shelving_43_surface_01",
+      "position": [
+        -7.373917579650879,
+        3.890602367222309,
+        3.353572130203247
+      ],
+      "capture_eye": [
+        -8.173917770385742,
+        4.040602207183838,
+        3.353572130203247
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.373917579650879,
+        3.859027862548828,
+        3.353572130203247
+      ],
+      "target_surface_group": "rendered:131:48",
+      "visual_surface_validated": true,
+      "name": "ghost_ripple_wooden_latch",
+      "template": "073-e_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0150",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.9639084339141846,
+        0.832072483599186,
+        4.565380096435547
+      ],
+      "capture_eye": [
+        4.763908386230469,
+        0.9820724725723267,
+        4.565380096435547
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.9639084339141846,
+        0.800383985042572,
+        4.565380096435547
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "parallel_bent_wood_spline",
+      "template": "073-f_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0155",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.2889678478240967,
+        0.822619486823678,
+        3.2768285274505615
+      ],
+      "capture_eye": [
+        4.133037567138672,
+        0.9726194739341736,
+        3.0558671951293945
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.2889678478240967,
+        0.7827714681625366,
+        3.2768285274505615
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "twin_ridge_connector",
+      "template": "073-g_lego_duplo"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0110",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        5.498267650604248,
+        0.45526599906384946,
+        0.7505189776420593
+      ],
+      "capture_eye": [
+        6.298267841339111,
+        0.6052659749984741,
+        0.7505189776420593
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        5.498267650604248,
+        0.41628849506378174,
+        0.7505189776420593
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "name": "hidden_side_lock_bar",
+      "template": "077_rubiks_cube"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0015",
+      "placement_id": "shelving_44::shelving_44_surface_01",
+      "position": [
+        -7.418719291687012,
+        3.8999432271718977,
+        1.484033226966858
+      ],
+      "capture_eye": [
+        -8.218719482421875,
+        4.049942970275879,
+        1.484033226966858
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.418719291687012,
+        3.8591902256011963,
+        1.484033226966858
+      ],
+      "target_surface_group": "rendered:132:48",
+      "visual_surface_validated": true,
+      "name": "dual_gate_intersection",
+      "template": "065-a_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0023",
+      "placement_id": "shelving_50::shelving_50_surface_01",
+      "position": [
+        -9.275323867797852,
+        3.9184697291254995,
+        3.0939135551452637
+      ],
+      "capture_eye": [
+        -8.475323677062988,
+        4.068469524383545,
+        3.0939135551452637
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -9.275323867797852,
+        3.876518726348877,
+        3.0939135551452637
+      ],
+      "target_surface_group": "rendered:143:48",
+      "visual_surface_validated": true,
+      "name": "bent_safety_pin_adapter",
+      "template": "065-b_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0114",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        4.928483963012695,
+        0.4606453946232796,
+        0.6982536315917969
+      ],
+      "capture_eye": [
+        5.715199947357178,
+        0.6106454133987427,
+        1.0436426401138306
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        4.928483963012695,
+        0.41737139225006104,
+        0.6982536315917969
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "name": "seasoned_wooden_central_cap",
+      "template": "065-c_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 10.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0140",
+      "placement_id": "whine_shelf_69::whine_shelf_69_surface_01",
+      "position": [
+        1.4329520463943481,
+        1.0383940583467484,
+        1.5395883321762085
+      ],
+      "capture_eye": [
+        2.232952117919922,
+        1.1883940696716309,
+        1.5395883321762085
+      ],
+      "target_category": "whine shelf",
+      "target_surface_point": [
+        1.4329520463943481,
+        0.9254405498504639,
+        1.5395883321762085
+      ],
+      "target_surface_group": "rendered:219:12",
+      "visual_surface_validated": true,
+      "object": "finely_sanded_wooden_corner"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0153",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.259680986404419,
+        0.8347568868100643,
+        4.569435119628906
+      ],
+      "capture_eye": [
+        4.183036804199219,
+        0.9847568869590759,
+        4.705866813659668
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.259680986404419,
+        0.7991868853569031,
+        4.569435119628906
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "interlocking_edge_piece"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0142",
+      "placement_id": "whine_shelf_69::whine_shelf_69_surface_01",
+      "position": [
+        1.4046316146850586,
+        1.0179016238451004,
+        1.909685492515564
+      ],
+      "capture_eye": [
+        2.2046315670013428,
+        1.167901635169983,
+        1.909685492515564
+      ],
+      "target_category": "whine shelf",
+      "target_surface_point": [
+        1.4046316146850586,
+        0.9255796074867249,
+        1.909685492515564
+      ],
+      "target_surface_group": "rendered:219:12",
+      "visual_surface_validated": true,
+      "object": "twisted_mahogany_slab"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0009",
+      "placement_id": "chest_of_drawers_24::chest_of_drawers_24_surface_01",
+      "position": [
+        -8.738055229187012,
+        0.8252483310550451,
+        1.5778892040252686
+      ],
+      "capture_eye": [
+        -9.538055419921875,
+        0.9752483367919922,
+        1.5778892040252686
+      ],
+      "target_category": "chest of drawers",
+      "target_surface_point": [
+        -8.738055229187012,
+        0.8023403286933899,
+        1.5778892040252686
+      ],
+      "target_surface_group": "rendered:438:10",
+      "visual_surface_validated": true,
+      "object": "harmony_inlay_cylinder"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0051",
+      "placement_id": "shelving_47::shelving_47_surface_02",
+      "position": [
+        -9.361279487609863,
+        3.9075979704409836,
+        1.5467920303344727
+      ],
+      "capture_eye": [
+        -8.561279296875,
+        4.057598114013672,
+        1.5467920303344727
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -9.361279487609863,
+        3.8856334686279297,
+        1.5467920303344727
+      ],
+      "target_surface_group": "rendered:140:49",
+      "visual_surface_validated": true,
+      "object": "spiral_spiral_wooden_detent"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0130",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9403160214424133,
+        0.9550341183692217,
+        4.543651103973389
+      ],
+      "capture_eye": [
+        0.14031600952148438,
+        1.1050341129302979,
+        4.543651103973389
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9403160214424133,
+        0.9233831167221069,
+        4.543651103973389
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "ancient_wooden_puzzle_magnet"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0138",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        1.014572024345398,
+        0.9457975907623768,
+        4.1649580001831055
+      ],
+      "capture_eye": [
+        2.096129894256592,
+        1.0957975387573242,
+        4.1368021965026855
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.014572024345398,
+        0.9239845871925354,
+        4.1649580001831055
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "symmetrical_sprocket_tile"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0136",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.8008164763450623,
+        0.9556890672445297,
+        5.244472503662109
+      ],
+      "capture_eye": [
+        -0.003469705581665039,
+        1.1056890487670898,
+        5.0730299949646
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.8008164763450623,
+        0.9241510629653931,
+        5.244472503662109
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "jagged_fitting_line"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0135",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9297105073928833,
+        0.9541793039441109,
+        3.769064426422119
+      ],
+      "capture_eye": [
+        1.9330368041992188,
+        1.1041792631149292,
+        3.5058670043945312
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9297105073928833,
+        0.9226047992706299,
+        3.769064426422119
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "ghost_ripple_wooden_latch"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0134",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        -0.08422362059354782,
+        0.9510550370812416,
+        5.264386177062988
+      ],
+      "capture_eye": [
+        0.6830368041992188,
+        1.1010550260543823,
+        5.0558671951293945
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        -0.08422362059354782,
+        0.9193665385246277,
+        5.264386177062988
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "parallel_bent_wood_spline"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0032",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.253735542297363,
+        0.9077036271244288,
+        4.422927379608154
+      ],
+      "capture_eye": [
+        -11.4537353515625,
+        1.0577036142349243,
+        4.422927379608154
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.253735542297363,
+        0.8678556084632874,
+        4.422927379608154
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "object": "twin_ridge_connector"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0148",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.858335256576538,
+        0.8259972336143255,
+        3.2649154663085938
+      ],
+      "capture_eye": [
+        4.658335208892822,
+        1.175997257232666,
+        3.2649154663085938
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.858335256576538,
+        0.7870197296142578,
+        3.2649154663085938
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "hidden_side_lock_bar"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0029",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.251594543457031,
+        0.9083365148305893,
+        4.131131649017334
+      ],
+      "capture_eye": [
+        -11.451594352722168,
+        1.0583364963531494,
+        4.131131649017334
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.251594543457031,
+        0.8675835132598877,
+        4.131131649017334
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "object": "dual_gate_intersection"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0017",
+      "placement_id": "shelving_43::shelving_43_surface_01",
+      "position": [
+        -7.373917579650879,
+        3.9009788653254507,
+        3.353572130203247
+      ],
+      "capture_eye": [
+        -8.173917770385742,
+        4.050978660583496,
+        3.353572130203247
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.373917579650879,
+        3.859027862548828,
+        3.353572130203247
+      ],
+      "target_surface_group": "rendered:131:48",
+      "visual_surface_validated": true,
+      "object": "bent_safety_pin_adapter"
+    },
+    {
+      "action": "wait",
+      "seconds": 1.786,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0015",
+      "placement_id": "shelving_44::shelving_44_surface_01",
+      "position": [
+        -7.418719291687012,
+        3.9024642279744146,
+        1.484033226966858
+      ],
+      "capture_eye": [
+        -8.218719482421875,
+        4.052464008331299,
+        1.484033226966858
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.418719291687012,
+        3.8591902256011963,
+        1.484033226966858
+      ],
+      "target_surface_group": "rendered:132:48",
+      "visual_surface_validated": true,
+      "object": "seasoned_wooden_central_cap"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "A quiet evening ritual of assembling a hand-carved wooden puzzle box using fragments scattered across a study desk. The scene captures the precise, deliberate,",
+  "target_duration_seconds": 180.0,
+  "estimated_duration_seconds": 180.0,
+  "duration_model": {
+    "action_count": 30,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 10.0,
+    "settle_wait_count": 28,
+    "settle_seconds": 1.786,
+    "padding_wait_count": 0
+  },
+  "scene_id": "808",
+  "script_index": 1,
+  "scripts_per_scene": 10,
+  "requested_object_scale": null,
+  "scene": "/root/exchange/FOUND-Dataset/habitat/hm3d-val-habitat-v0.2/00808-y9hTuugGdiq/y9hTuugGdiq.basis.glb",
+  "navmesh": "/root/exchange/FOUND-Dataset/habitat/hm3d-val-habitat-v0.2/00808-y9hTuugGdiq/y9hTuugGdiq.basis.navmesh",
+  "scenario": "relocate_all",
+  "generation_prompt_title": "The Puzzle Box Assembly Ritual",
+  "generation_prompt": "Create exactly 15 different objects. Wait exactly 10 seconds; then move every object exactly once to a new destination. Do not remove anything. The scene depicts a quiet evening ritual of assembling a hand-carved wooden puzzle box using fragments scattered across a study desk. The objects are logically named as follows: 'finely_sanded_wooden_corner', 'interlocking_edge_piece', 'twisted_mahogany_slab', 'harmony_inlay_cylinder', 'spiral_spiral_wooden_detent', 'ancient_wooden_puzzle_magnet', 'symmetrical_sprocket_tile', 'jagged_fitting_line', 'ghost_ripple_wooden_latch', 'parallel_bent_wood_spline', 'twin_ridge_connector', 'hidden_side_lock_bar', 'dual_gate_intersection', 'bent_safety_pin_adapter', 'seasoned_wooden_central_cap'. Each is placed on the desk at random initial positions. After waiting exactly 10 seconds, every object is moved exactly once to a new location, precisely assigned to align with the hidden mechanism of the puzzle. No object is removed. The activity is grounded in authentic craftsmanship, entirely distinct from prior scenes. The following 15 distinct identifiers are used exactly once: 036_wood_block, 061_foam_brick, 070-a_colored_wood_blocks, 070-b_colored_wood_blocks, 073-a_lego_duplo, 073-b_lego_duplo, 073-c_lego_duplo, 073-d_lego_duplo, 073-e_lego_duplo, 073-f_lego_duplo, 073-g_lego_duplo, 077_rubiks_cube, 065-a_cups, 065-b_cups, 065-c_cups.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Vary the object selection and manipulation story.",
+  "compile_attempts": 1,
+  "excluded_templates": []
+}

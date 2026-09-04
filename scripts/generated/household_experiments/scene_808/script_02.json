@@ -1,0 +1,930 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0130",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9403160214424133,
+        0.9501471223682165,
+        4.543651103973389
+      ],
+      "capture_eye": [
+        0.14031600952148438,
+        1.1001471281051636,
+        4.543651103973389
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9403160214424133,
+        0.9233831167221069,
+        4.543651103973389
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "tuna_fish_can",
+      "template": "007_tuna_fish_can"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0138",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        1.014572024345398,
+        0.9699380865693092,
+        4.1649580001831055
+      ],
+      "capture_eye": [
+        2.096129894256592,
+        1.1199381351470947,
+        4.1368021965026855
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.014572024345398,
+        0.9239845871925354,
+        4.1649580001831055
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "apple",
+      "template": "013_apple"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0136",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.8008164763450623,
+        1.0371045714616776,
+        5.244472503662109
+      ],
+      "capture_eye": [
+        -0.003469705581665039,
+        1.18710458278656,
+        5.0730299949646
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.8008164763450623,
+        0.9241510629653931,
+        5.244472503662109
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "wooden_block",
+      "template": "036_wood_block"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0135",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9297105073928833,
+        0.9953112995624542,
+        3.769064426422119
+      ],
+      "capture_eye": [
+        1.9330368041992188,
+        1.1453113555908203,
+        3.5058670043945312
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9297105073928833,
+        0.9226047992706299,
+        3.769064426422119
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "soccer_ball",
+      "template": "053_mini_soccer_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0032",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.253735542297363,
+        0.8902606277167797,
+        4.422927379608154
+      ],
+      "capture_eye": [
+        -11.4537353515625,
+        1.040260672569275,
+        4.422927379608154
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.253735542297363,
+        0.8678556084632874,
+        4.422927379608154
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "name": "rubber_band",
+      "template": "059_chain"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0148",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.858335256576538,
+        0.8064867372065783,
+        3.2649154663085938
+      ],
+      "capture_eye": [
+        4.658335208892822,
+        1.6064866781234741,
+        3.2649154663085938
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.858335256576538,
+        0.7870197296142578,
+        3.2649154663085938
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "large_marker",
+      "template": "040_large_marker"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0110",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        5.498267650604248,
+        0.4427335022389889,
+        0.7505189776420593
+      ],
+      "capture_eye": [
+        6.298267841339111,
+        0.5927335023880005,
+        0.7505189776420593
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        5.498267650604248,
+        0.41628849506378174,
+        0.7505189776420593
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "name": "spatula",
+      "template": "033_spatula"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0029",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.251594543457031,
+        0.8905730175226927,
+        4.131131649017334
+      ],
+      "capture_eye": [
+        -11.451594352722168,
+        1.040573000907898,
+        4.131131649017334
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.251594543457031,
+        0.8675835132598877,
+        4.131131649017334
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "name": "medium_clamp",
+      "template": "050_medium_clamp"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0017",
+      "placement_id": "shelving_43::shelving_43_surface_01",
+      "position": [
+        -7.373917579650879,
+        3.90513236656785,
+        3.353572130203247
+      ],
+      "capture_eye": [
+        -8.173917770385742,
+        4.0551323890686035,
+        3.353572130203247
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.373917579650879,
+        3.859027862548828,
+        3.353572130203247
+      ],
+      "target_surface_group": "rendered:131:48",
+      "visual_surface_validated": true,
+      "name": "cake_icing_tube",
+      "template": "065-f_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0155",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.2889678478240967,
+        0.8001004790328443,
+        3.2768285274505615
+      ],
+      "capture_eye": [
+        4.133037567138672,
+        0.9501004815101624,
+        3.0558671951293945
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.2889678478240967,
+        0.7827714681625366,
+        3.2768285274505615
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "name": "pliers",
+      "template": "042_adjustable_wrench"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0134",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        -0.08422362059354782,
+        0.9558660408854485,
+        5.264386177062988
+      ],
+      "capture_eye": [
+        0.6830368041992188,
+        1.1058660745620728,
+        5.0558671951293945
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        -0.08422362059354782,
+        0.9193665385246277,
+        5.264386177062988
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "name": "lemon",
+      "template": "014_lemon"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0015",
+      "placement_id": "shelving_44::shelving_44_surface_01",
+      "position": [
+        -7.418719291687012,
+        3.9903342297673223,
+        1.484033226966858
+      ],
+      "capture_eye": [
+        -8.218719482421875,
+        4.140334129333496,
+        1.484033226966858
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.418719291687012,
+        3.8591902256011963,
+        1.484033226966858
+      ],
+      "target_surface_group": "rendered:132:48",
+      "visual_surface_validated": true,
+      "name": "pitcher_base",
+      "template": "019_pitcher_base"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0114",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        4.928483963012695,
+        0.4651169015467167,
+        0.6982536315917969
+      ],
+      "capture_eye": [
+        5.715199947357178,
+        0.6151168942451477,
+        1.0436426401138306
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        4.928483963012695,
+        0.41737139225006104,
+        0.6982536315917969
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "name": "mason_jar",
+      "template": "065-i_cups"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0140",
+      "placement_id": "whine_shelf_69::whine_shelf_69_surface_01",
+      "position": [
+        1.4329520463943481,
+        0.9432250617444515,
+        1.5395883321762085
+      ],
+      "capture_eye": [
+        2.232952117919922,
+        1.093225121498108,
+        1.5395883321762085
+      ],
+      "target_category": "whine shelf",
+      "target_surface_point": [
+        1.4329520463943481,
+        0.9254405498504639,
+        1.5395883321762085
+      ],
+      "target_surface_group": "rendered:219:12",
+      "visual_surface_validated": true,
+      "name": "white_eraser",
+      "template": "037_scissors"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0023",
+      "placement_id": "shelving_50::shelving_50_surface_01",
+      "position": [
+        -9.275323867797852,
+        3.922789225578308,
+        3.0939135551452637
+      ],
+      "capture_eye": [
+        -8.475323677062988,
+        4.072789192199707,
+        3.0939135551452637
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -9.275323867797852,
+        3.876518726348877,
+        3.0939135551452637
+      ],
+      "target_surface_group": "rendered:143:48",
+      "visual_surface_validated": true,
+      "name": "baseball",
+      "template": "055_baseball"
+    },
+    {
+      "action": "wait",
+      "seconds": 10.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0153",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.259680986404419,
+        0.8259508910030127,
+        4.569435119628906
+      ],
+      "capture_eye": [
+        4.183036804199219,
+        0.9759508967399597,
+        4.705866813659668
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.259680986404419,
+        0.7991868853569031,
+        4.569435119628906
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "tuna_fish_can"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0142",
+      "placement_id": "whine_shelf_69::whine_shelf_69_surface_01",
+      "position": [
+        1.4046316146850586,
+        0.9715331068634987,
+        1.909685492515564
+      ],
+      "capture_eye": [
+        2.2046315670013428,
+        1.1215331554412842,
+        1.909685492515564
+      ],
+      "target_category": "whine shelf",
+      "target_surface_point": [
+        1.4046316146850586,
+        0.9255796074867249,
+        1.909685492515564
+      ],
+      "target_surface_group": "rendered:219:12",
+      "visual_surface_validated": true,
+      "object": "apple"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0009",
+      "placement_id": "chest_of_drawers_24::chest_of_drawers_24_surface_01",
+      "position": [
+        -8.738055229187012,
+        0.9152938371896744,
+        1.5778892040252686
+      ],
+      "capture_eye": [
+        -9.538055419921875,
+        1.065293788909912,
+        1.5778892040252686
+      ],
+      "target_category": "chest of drawers",
+      "target_surface_point": [
+        -8.738055229187012,
+        0.8023403286933899,
+        1.5778892040252686
+      ],
+      "target_surface_group": "rendered:438:10",
+      "visual_surface_validated": true,
+      "object": "wooden_block"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0051",
+      "placement_id": "shelving_47::shelving_47_surface_02",
+      "position": [
+        -9.361279487609863,
+        3.958339968919754,
+        1.5467920303344727
+      ],
+      "capture_eye": [
+        -8.561279296875,
+        4.108339786529541,
+        1.5467920303344727
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -9.361279487609863,
+        3.8856334686279297,
+        1.5467920303344727
+      ],
+      "target_surface_group": "rendered:140:49",
+      "visual_surface_validated": true,
+      "object": "soccer_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0138",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        1.014572024345398,
+        0.9463896064460278,
+        4.1649580001831055
+      ],
+      "capture_eye": [
+        2.096129894256592,
+        1.096389651298523,
+        4.1368021965026855
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        1.014572024345398,
+        0.9239845871925354,
+        4.1649580001831055
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "rubber_band"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0130",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9403160214424133,
+        0.9428501243144274,
+        4.543651103973389
+      ],
+      "capture_eye": [
+        0.14031600952148438,
+        1.0928500890731812,
+        4.543651103973389
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9403160214424133,
+        0.9233831167221069,
+        4.543651103973389
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "large_marker"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0032",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.253735542297363,
+        0.8943006156384945,
+        4.422927379608154
+      ],
+      "capture_eye": [
+        -11.4537353515625,
+        1.0443006753921509,
+        4.422927379608154
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.253735542297363,
+        0.8678556084632874,
+        4.422927379608154
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "object": "spatula"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0136",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.8008164763450623,
+        0.9471405672281981,
+        5.244472503662109
+      ],
+      "capture_eye": [
+        -0.003469705581665039,
+        1.0971405506134033,
+        5.0730299949646
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.8008164763450623,
+        0.9241510629653931,
+        5.244472503662109
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "medium_clamp"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0135",
+      "placement_id": "kitchen_counter_34::kitchen_counter_34_surface_02",
+      "position": [
+        0.9297105073928833,
+        0.9687093032896519,
+        3.769064426422119
+      ],
+      "capture_eye": [
+        1.9330368041992188,
+        1.1187093257904053,
+        3.5058670043945312
+      ],
+      "target_category": "kitchen counter",
+      "target_surface_point": [
+        0.9297105073928833,
+        0.9226047992706299,
+        3.769064426422119
+      ],
+      "target_surface_group": "rendered:332:12",
+      "visual_surface_validated": true,
+      "object": "cake_icing_tube"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0029",
+      "placement_id": "bathroom_counter_08::bathroom_counter_08_surface_01",
+      "position": [
+        -12.251594543457031,
+        0.8849125241301954,
+        4.131131649017334
+      ],
+      "capture_eye": [
+        -11.451594352722168,
+        1.0349125862121582,
+        4.131131649017334
+      ],
+      "target_category": "bathroom counter",
+      "target_surface_point": [
+        -12.251594543457031,
+        0.8675835132598877,
+        4.131131649017334
+      ],
+      "target_surface_group": "rendered:423:11",
+      "visual_surface_validated": true,
+      "object": "pliers"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0148",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.858335256576538,
+        0.8235192319750786,
+        3.2649154663085938
+      ],
+      "capture_eye": [
+        4.658335208892822,
+        1.173519253730774,
+        3.2649154663085938
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.858335256576538,
+        0.7870197296142578,
+        3.2649154663085938
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "lemon"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0110",
+      "placement_id": "coffee_table_25::coffee_table_25_surface_01",
+      "position": [
+        5.498267650604248,
+        0.547432499229908,
+        0.7505189776420593
+      ],
+      "capture_eye": [
+        6.298267841339111,
+        0.6974324584007263,
+        0.7505189776420593
+      ],
+      "target_category": "coffee table",
+      "target_surface_point": [
+        5.498267650604248,
+        0.41628849506378174,
+        0.7505189776420593
+      ],
+      "target_surface_group": "rendered:229:5",
+      "visual_surface_validated": true,
+      "object": "pitcher_base"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0017",
+      "placement_id": "shelving_43::shelving_43_surface_01",
+      "position": [
+        -7.373917579650879,
+        3.9067733718454836,
+        3.353572130203247
+      ],
+      "capture_eye": [
+        -8.173917770385742,
+        4.0567731857299805,
+        3.353572130203247
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.373917579650879,
+        3.859027862548828,
+        3.353572130203247
+      ],
+      "target_surface_group": "rendered:131:48",
+      "visual_surface_validated": true,
+      "object": "mason_jar"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0155",
+      "placement_id": "table_64::table_64_surface_01",
+      "position": [
+        3.2889678478240967,
+        0.8005559800565243,
+        3.2768285274505615
+      ],
+      "capture_eye": [
+        4.133037567138672,
+        0.9505559802055359,
+        3.0558671951293945
+      ],
+      "target_category": "table",
+      "target_surface_point": [
+        3.2889678478240967,
+        0.7827714681625366,
+        3.2768285274505615
+      ],
+      "target_surface_group": "rendered:252:10",
+      "visual_surface_validated": true,
+      "object": "white_eraser"
+    },
+    {
+      "action": "wait",
+      "seconds": 0.893,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0015",
+      "placement_id": "shelving_44::shelving_44_surface_01",
+      "position": [
+        -7.418719291687012,
+        3.9054607248306272,
+        1.484033226966858
+      ],
+      "capture_eye": [
+        -8.218719482421875,
+        4.0554609298706055,
+        1.484033226966858
+      ],
+      "target_category": "shelving",
+      "target_surface_point": [
+        -7.418719291687012,
+        3.8591902256011963,
+        1.484033226966858
+      ],
+      "target_surface_group": "rendered:132:48",
+      "visual_surface_validated": true,
+      "object": "baseball"
+    },
+    {
+      "action": "wait",
+      "seconds": 5.0
+    },
+    {
+      "action": "remove",
+      "object": "baseball"
+    },
+    {
+      "action": "remove",
+      "object": "white_eraser"
+    },
+    {
+      "action": "remove",
+      "object": "wooden_block"
+    },
+    {
+      "action": "remove",
+      "object": "cake_icing_tube"
+    },
+    {
+      "action": "remove",
+      "object": "mason_jar"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Deterministic scene script for a kitchen island meal prep session with precise object placement, movement, and removal as per user request.",
+  "target_duration_seconds": 180.0,
+  "estimated_duration_seconds": 180.0,
+  "duration_model": {
+    "action_count": 35,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 15.0,
+    "settle_wait_count": 28,
+    "settle_seconds": 0.893,
+    "padding_wait_count": 0
+  },
+  "scene_id": "808",
+  "script_index": 2,
+  "scripts_per_scene": 10,
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00808-y9hTuugGdiq/y9hTuugGdiq.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00808-y9hTuugGdiq/y9hTuugGdiq.basis.navmesh",
+  "scenario": "relocate_remove",
+  "generation_prompt_title": "Scene 808/script-2: Last-Minute Delivery Prep",
+  "generation_prompt": "Begin the scene with exactly 15 distinct objects placed in a deliberate, functional layout across a kitchen island, simulating the final stages of a midday meal prep session. Assign each object a unique logical name as follows: tuna_fish_can, apple, wooden_block, soccer_ball, rubber_band, large_marker, spatula, medium_clamp, cake_icing_tube, pliers, lemon, pitcher_base, mason_jar, white_eraser, and baseball. Wait exactly 10 seconds; then move every object exactly once to a new destination\u2014no exceptions, no omissions. The movement must simulate a sudden change of plans: a cook has just remembered an urgent delivery and is swiftly relocating ingredients and tools from the island to a nearby counter, organizing them for quick transport. The repositioning must be purposeful, reflecting a shift from meal assembly to on-the-go packing. After all 15 objects have been moved once, wait exactly 5 seconds; then remove exactly 5 of the moved objects\u2014specifically: baseball, white_eraser, wooden_block, cake_icing_tube, and mason_jar. Ensure all 15 objects are moved exactly once after the 10-second wait. No further actions or waits are allowed. Use only the following object identifiers exactly as listed: 007_tuna_fish_can, 013_apple, 036_wood_block, 053_mini_soccer_ball, 059_chain, 040_large_marker, 033_spatula, 050_medium_clamp, 065-f_cups, 042_adjustable_wrench, 014_lemon, 019_pitcher_base, 065-i_cups, 037_scissors, 055_baseball. All 15 objects must be moved exactly once after the 10-second wait. Exactly 5 of the moved objects are to be removed after the 5-second pause. No new objects added. No extra actions or waits.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Vary the object selection and manipulation story.",
+  "compile_attempts": 1,
+  "excluded_templates": []
+}

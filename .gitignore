@@ -1,0 +1,23 @@
+# Local credentials. Never commit these files.
+openrouter.txt
+api.txt
+api_*.txt
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Runtime state and generated captures
+state/
+habitat_nav_output/
+
+# Build and ROS/colcon artifacts
+build/
+install/
+log/
+
+# Do not commit an archive duplicating the LFS-managed habitat/ directory.
+habitat.zip

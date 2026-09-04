@@ -1,0 +1,623 @@
+{
+  "steps": [
+    {
+      "action": "spawn",
+      "target_point": "surface_0097",
+      "placement_id": "bathroom_cabinet_03::bathroom_cabinet_03_surface_01",
+      "position": [
+        0.40429407358169556,
+        0.9911897575855255,
+        0.8723363876342773
+      ],
+      "capture_eye": [
+        1.2110586166381836,
+        1.1411898136138916,
+        0.7498927116394043
+      ],
+      "target_category": "bathroom cabinet",
+      "target_surface_point": [
+        0.40429407358169556,
+        0.9111597537994385,
+        0.8723363876342773
+      ],
+      "target_surface_group": "rendered:32:11",
+      "visual_surface_validated": true,
+      "name": "sunrise_omelette_mixer",
+      "template": "002_master_chef_can"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0044",
+      "placement_id": "cabinet_13::cabinet_13_surface_02",
+      "position": [
+        -7.838412284851074,
+        1.0195587223768234,
+        7.904572010040283
+      ],
+      "capture_eye": [
+        -7.038412094116211,
+        1.1695586442947388,
+        7.949892520904541
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -7.838412284851074,
+        0.9138637185096741,
+        7.904572010040283
+      ],
+      "target_surface_group": "rendered:266:11",
+      "visual_surface_validated": true,
+      "name": "toast_sauce_captain",
+      "template": "006_mustard_bottle"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0000",
+      "placement_id": "cabinet_16::cabinet_16_surface_01",
+      "position": [
+        -3.6514716148376465,
+        0.9769392891228199,
+        2.4613523483276367
+      ],
+      "capture_eye": [
+        -4.45147180557251,
+        1.126939296722412,
+        2.4613523483276367
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -3.6514716148376465,
+        0.948563277721405,
+        2.4613523483276367
+      ],
+      "target_surface_group": "rendered:83:12",
+      "visual_surface_validated": true,
+      "name": "golden_twitch_banana",
+      "template": "011_banana"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0158",
+      "placement_id": "cabinet_10::cabinet_10_surface_01",
+      "position": [
+        -1.223036766052246,
+        1.0083411580324173,
+        3.372818946838379
+      ],
+      "capture_eye": [
+        -0.18894195556640625,
+        1.1583411693572998,
+        3.372818946838379
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -1.223036766052246,
+        0.9626571536064148,
+        3.372818946838379
+      ],
+      "target_surface_group": "rendered:119:12",
+      "visual_surface_validated": true,
+      "name": "zesty_glow_orange",
+      "template": "017_orange"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0024",
+      "placement_id": "cabinet_13::cabinet_13_surface_03",
+      "position": [
+        -7.883712291717529,
+        1.052125716805458,
+        7.611364364624023
+      ],
+      "capture_eye": [
+        -7.2389421463012695,
+        1.2021256685256958,
+        7.799892902374268
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -7.883712291717529,
+        0.9168217182159424,
+        7.611364364624023
+      ],
+      "target_surface_group": "rendered:266:12",
+      "visual_surface_validated": true,
+      "name": "crisp_brush_potion",
+      "template": "021_bleach_cleanser"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0067",
+      "placement_id": "sink_cabinet_37::sink_cabinet_37_surface_01",
+      "position": [
+        -3.062354803085327,
+        0.872956814467907,
+        7.5878143310546875
+      ],
+      "capture_eye": [
+        -3.8623547554016113,
+        1.0229568481445312,
+        7.5878143310546875
+      ],
+      "target_category": "sink cabinet",
+      "target_surface_point": [
+        -3.062354803085327,
+        0.8222798109054565,
+        7.5878143310546875
+      ],
+      "target_surface_group": "rendered:223:10",
+      "visual_surface_validated": true,
+      "name": "steamy_sunrise_mug",
+      "template": "025_mug"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0130",
+      "placement_id": "dresser_24::dresser_24_surface_01",
+      "position": [
+        0.0899224579334259,
+        0.8755127417296171,
+        7.689958572387695
+      ],
+      "capture_eye": [
+        0.8899224996566772,
+        1.0255126953125,
+        7.999892711639404
+      ],
+      "target_category": "dresser",
+      "target_surface_point": [
+        0.0899224579334259,
+        0.8542067408561707,
+        7.689958572387695
+      ],
+      "target_surface_group": "rendered:201:11",
+      "visual_surface_validated": true,
+      "name": "breakfast_flayer",
+      "template": "032_knife"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0127",
+      "placement_id": "dresser_24::dresser_24_surface_01",
+      "position": [
+        -0.21591992676258087,
+        0.8845783530175686,
+        7.575587272644043
+      ],
+      "capture_eye": [
+        -1.0159199237823486,
+        1.2345783710479736,
+        7.575587272644043
+      ],
+      "target_category": "dresser",
+      "target_surface_point": [
+        -0.21591992676258087,
+        0.8534003496170044,
+        7.575587272644043
+      ],
+      "target_surface_group": "rendered:201:11",
+      "visual_surface_validated": true,
+      "name": "springy_roll_intruder",
+      "template": "058_golf_ball"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0153",
+      "placement_id": "cabinet_10::cabinet_10_surface_01",
+      "position": [
+        -1.1427791118621826,
+        0.9829699939489365,
+        3.1087398529052734
+      ],
+      "capture_eye": [
+        -0.18894195556640625,
+        1.1329699754714966,
+        3.1087398529052734
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -1.1427791118621826,
+        0.9641979932785034,
+        3.1087398529052734
+      ],
+      "target_surface_group": "rendered:119:12",
+      "visual_surface_validated": true,
+      "name": "scramble_probability",
+      "template": "062_dice"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "spawn",
+      "target_point": "surface_0159",
+      "placement_id": "cabinet_10::cabinet_10_surface_01",
+      "position": [
+        -1.1410939693450928,
+        0.9956368936598301,
+        2.846148729324341
+      ],
+      "capture_eye": [
+        -0.18894195556640625,
+        1.1456369161605835,
+        2.846148729324341
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -1.1410939693450928,
+        0.9653093814849854,
+        2.846148729324341
+      ],
+      "target_surface_group": "rendered:119:12",
+      "visual_surface_validated": true,
+      "name": "pastry_puzzle_starter",
+      "template": "071_nine_hole_peg_test"
+    },
+    {
+      "action": "wait",
+      "seconds": 10.0
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0156",
+      "placement_id": "cabinet_10::cabinet_10_surface_01",
+      "position": [
+        -1.1407281160354614,
+        1.045398691892624,
+        2.5834860801696777
+      ],
+      "capture_eye": [
+        -0.18894195556640625,
+        1.1953986883163452,
+        2.5834860801696777
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -1.1407281160354614,
+        0.9653686881065369,
+        2.5834860801696777
+      ],
+      "target_surface_group": "rendered:119:12",
+      "visual_surface_validated": true,
+      "object": "sunrise_omelette_mixer"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0097",
+      "placement_id": "bathroom_cabinet_03::bathroom_cabinet_03_surface_01",
+      "position": [
+        0.40429407358169556,
+        1.0168547576665878,
+        0.8723363876342773
+      ],
+      "capture_eye": [
+        1.2110586166381836,
+        1.166854739189148,
+        0.7498927116394043
+      ],
+      "target_category": "bathroom cabinet",
+      "target_surface_point": [
+        0.40429407358169556,
+        0.9111597537994385,
+        0.8723363876342773
+      ],
+      "target_surface_group": "rendered:32:11",
+      "visual_surface_validated": true,
+      "object": "toast_sauce_captain"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0044",
+      "placement_id": "cabinet_13::cabinet_13_surface_02",
+      "position": [
+        -7.838412284851074,
+        0.942239729911089,
+        7.904572010040283
+      ],
+      "capture_eye": [
+        -7.038412094116211,
+        1.0922397375106812,
+        7.949892520904541
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -7.838412284851074,
+        0.9138637185096741,
+        7.904572010040283
+      ],
+      "target_surface_group": "rendered:266:11",
+      "visual_surface_validated": true,
+      "object": "golden_twitch_banana"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0000",
+      "placement_id": "cabinet_16::cabinet_16_surface_01",
+      "position": [
+        -3.6514716148376465,
+        0.9942472821474075,
+        2.4613523483276367
+      ],
+      "capture_eye": [
+        -4.45147180557251,
+        1.14424729347229,
+        2.4613523483276367
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -3.6514716148376465,
+        0.948563277721405,
+        2.4613523483276367
+      ],
+      "target_surface_group": "rendered:83:12",
+      "visual_surface_validated": true,
+      "object": "zesty_glow_orange"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0158",
+      "placement_id": "cabinet_10::cabinet_10_surface_01",
+      "position": [
+        -1.223036766052246,
+        1.0979611521959305,
+        3.372818946838379
+      ],
+      "capture_eye": [
+        -0.18894195556640625,
+        1.247961163520813,
+        3.372818946838379
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -1.223036766052246,
+        0.9626571536064148,
+        3.372818946838379
+      ],
+      "target_surface_group": "rendered:119:12",
+      "visual_surface_validated": true,
+      "object": "crisp_brush_potion"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0024",
+      "placement_id": "cabinet_13::cabinet_13_surface_03",
+      "position": [
+        -7.883712291717529,
+        0.9674987217783928,
+        7.611364364624023
+      ],
+      "capture_eye": [
+        -7.2389421463012695,
+        1.117498755455017,
+        7.799892902374268
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -7.883712291717529,
+        0.9168217182159424,
+        7.611364364624023
+      ],
+      "target_surface_group": "rendered:266:12",
+      "visual_surface_validated": true,
+      "object": "steamy_sunrise_mug"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0067",
+      "placement_id": "sink_cabinet_37::sink_cabinet_37_surface_01",
+      "position": [
+        -3.062354803085327,
+        0.843585811778903,
+        7.5878143310546875
+      ],
+      "capture_eye": [
+        -3.8623547554016113,
+        0.9935857653617859,
+        7.5878143310546875
+      ],
+      "target_category": "sink cabinet",
+      "target_surface_point": [
+        -3.062354803085327,
+        0.8222798109054565,
+        7.5878143310546875
+      ],
+      "target_surface_group": "rendered:223:10",
+      "visual_surface_validated": true,
+      "object": "breakfast_flayer"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0014",
+      "placement_id": "cabinet_15::cabinet_15_surface_01",
+      "position": [
+        -7.12169885635376,
+        0.7965995727479458,
+        3.641347646713257
+      ],
+      "capture_eye": [
+        -6.3216986656188965,
+        0.946599543094635,
+        3.641347646713257
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -7.12169885635376,
+        0.7654215693473816,
+        3.641347646713257
+      ],
+      "target_surface_group": "rendered:69:10",
+      "visual_surface_validated": true,
+      "object": "springy_roll_intruder"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0127",
+      "placement_id": "dresser_24::dresser_24_surface_01",
+      "position": [
+        -0.21591992676258087,
+        0.8721723502874374,
+        7.575587272644043
+      ],
+      "capture_eye": [
+        -1.0159199237823486,
+        1.6721723079681396,
+        7.575587272644043
+      ],
+      "target_category": "dresser",
+      "target_surface_point": [
+        -0.21591992676258087,
+        0.8534003496170044,
+        7.575587272644043
+      ],
+      "target_surface_group": "rendered:201:11",
+      "visual_surface_validated": true,
+      "object": "scramble_probability"
+    },
+    {
+      "action": "wait",
+      "seconds": 2.389,
+      "reason": "settle"
+    },
+    {
+      "action": "move",
+      "target_point": "surface_0003",
+      "placement_id": "cabinet_16::cabinet_16_surface_01",
+      "position": [
+        -3.696713924407959,
+        0.9779312743246555,
+        2.069380044937134
+      ],
+      "capture_eye": [
+        -4.496714115142822,
+        1.1279312372207642,
+        2.069380044937134
+      ],
+      "target_category": "cabinet",
+      "target_surface_point": [
+        -3.696713924407959,
+        0.9476037621498108,
+        2.069380044937134
+      ],
+      "target_surface_group": "rendered:83:12",
+      "visual_surface_validated": true,
+      "object": "pastry_puzzle_starter"
+    },
+    {
+      "action": "wait",
+      "seconds": 5.0
+    },
+    {
+      "action": "remove",
+      "object": "sunrise_omelette_mixer"
+    },
+    {
+      "action": "remove",
+      "object": "toast_sauce_captain"
+    },
+    {
+      "action": "remove",
+      "object": "golden_twitch_banana"
+    }
+  ],
+  "object_scale": 1.0,
+  "description": "Create 10 objects, wait 10 seconds, move all, wait 5 seconds, then remove 3 objects.",
+  "target_duration_seconds": 150.0,
+  "estimated_duration_seconds": 150.0,
+  "duration_model": {
+    "action_count": 23,
+    "seconds_per_action": 4.0,
+    "explicit_wait_seconds": 15.0,
+    "settle_wait_count": 18,
+    "settle_seconds": 2.389,
+    "padding_wait_count": 0
+  },
+  "scene_id": "810",
+  "scene": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00810-CrMo8WxCyVb/CrMo8WxCyVb.basis.glb",
+  "navmesh": "/root/exchange/lost3dsg/habitat/hm3d-val-habitat-v0.2/00810-CrMo8WxCyVb/CrMo8WxCyVb.basis.navmesh",
+  "scenario": "relocate_remove",
+  "generation_prompt_title": "Morning Breakfast Prep",
+  "generation_prompt": "Create exactly 10 different objects: a '002_master_chef_can' named 'sunrise_omelette_mixer', a '006_mustard_bottle' named 'toast_sauce_captain', a '011_banana' named 'golden_twitch_banana', a '017_orange' named 'zesty_glow_orange', a '021_bleach_cleanser' named 'crisp_brush_potion', a '025_mug' named 'steamy_sunrise_mug', a '032_knife' named 'breakfast_flayer', a '058_golf_ball' named 'springy_roll_intruder', a '062_dice' named 'scramble_probability', and a '071_nine_hole_peg_test' named 'pastry_puzzle_starter'. Wait exactly 10 seconds; move every object exactly once to a new destination; wait exactly 5 seconds; then remove exactly 3 of the moved objects.",
+  "prompt_guidance": "Use a different realistic household activity for every scene. Each object in the selection has to be different, and the manipulation story has to be different too."
+}
