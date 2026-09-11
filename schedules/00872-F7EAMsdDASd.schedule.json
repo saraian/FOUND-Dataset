@@ -1,0 +1,866 @@
+{
+ "scene_id": "00872-F7EAMsdDASd",
+ "navmesh": "/DATA/GRAPH-API/lost3dsg/FOUND-Dataset/habitat/hm3d-val-habitat-v0.2/00872-F7EAMsdDASd/F7EAMsdDASd.basis.navmesh",
+ "settings": {
+  "mpp": 0.05,
+  "robot_radius": 0.25,
+  "spacing": 2.0,
+  "merge_radius": 0.75,
+  "simplify": 0.2,
+  "step": 0.15,
+  "laps": 3,
+  "seed": 7,
+  "min_area": 5.0,
+  "coverage_radius": 3.0
+ },
+ "settings_sha256_16": "0b918c2d2e9492a3",
+ "storeys_detected": [
+  {
+   "z": -1.49,
+   "share": 0.5496,
+   "samples": 10992,
+   "peak_z": -1.42
+  },
+  {
+   "z": 1.11,
+   "share": 0.4138,
+   "samples": 8275,
+   "peak_z": 1.13
+  }
+ ],
+ "levels_not_toured": [],
+ "stairs_share": 0.0367,
+ "schedule": [
+  {
+   "gt_rooms_without_a_stop": null,
+   "gt_room_stops_added": 0,
+   "ridge_bridges": 4,
+   "room_seeds": 0,
+   "room_seeds_joined": 0,
+   "coverage_share": 1.0,
+   "coverage_radius_m": 3.0,
+   "height": -1.49,
+   "navigable_m2": 17.3,
+   "waypoints": 13,
+   "waypoints_before_merge": 24,
+   "junctions": 11,
+   "junctions_without_a_stop": 0,
+   "stranded_junctions_recovered": 0,
+   "max_degree": 5,
+   "root_candidates": [
+    [
+     2.658,
+     -1.49,
+     -2.443
+    ]
+   ],
+   "root": [
+    2.658,
+    -1.49,
+    -2.443
+   ],
+   "unreached": [],
+   "budget": {
+    "drive_m": 129.18,
+    "drive_frames": 861,
+    "corner_turn_deg": 8025,
+    "corner_turn_frames": 804,
+    "scan_stops": 39,
+    "scan_frames": 1404,
+    "trajectory_points": 111,
+    "legs_kept_unsimplified": 0,
+    "total_frames": 3069,
+    "per_lap": {
+     "drive_m": 43.06,
+     "drive_frames": 287,
+     "corner_turn_deg": 2675,
+     "corner_turn_frames": 268,
+     "scan_stops": 13,
+     "scan_frames": 468,
+     "trajectory_points": 37,
+     "legs_kept_unsimplified": 0,
+     "total_frames": 1023
+    },
+    "laps": 3
+   },
+   "visit_order": [
+    [
+     2.658,
+     -1.49,
+     -2.443
+    ],
+    [
+     1.658,
+     -1.49,
+     -2.443
+    ],
+    [
+     0.008,
+     -1.49,
+     -1.893
+    ],
+    [
+     0.008,
+     -1.49,
+     0.057
+    ],
+    [
+     -0.042,
+     -1.49,
+     1.957
+    ],
+    [
+     0.158,
+     -1.49,
+     3.007
+    ],
+    [
+     -0.292,
+     -1.49,
+     3.757
+    ],
+    [
+     -0.342,
+     -1.49,
+     -4.143
+    ],
+    [
+     3.108,
+     -1.49,
+     -4.093
+    ],
+    [
+     3.658,
+     -1.49,
+     -2.093
+    ],
+    [
+     2.808,
+     -1.49,
+     0.107
+    ],
+    [
+     3.908,
+     -1.49,
+     -0.143
+    ],
+    [
+     1.758,
+     -1.49,
+     1.707
+    ]
+   ],
+   "trajectory": [
+    {
+     "xyz": [
+      2.658,
+      -1.49,
+      -2.443
+     ],
+     "scan_deg": 360.0,
+     "stop": 0,
+     "leg": null
+    },
+    {
+     "xyz": [
+      1.658,
+      -1.49,
+      -2.443
+     ],
+     "scan_deg": 360.0,
+     "stop": 1,
+     "leg": 0
+    },
+    {
+     "xyz": [
+      0.008,
+      -1.49,
+      -1.893
+     ],
+     "scan_deg": 360.0,
+     "stop": 2,
+     "leg": 1
+    },
+    {
+     "xyz": [
+      0.008,
+      -1.49,
+      0.057
+     ],
+     "scan_deg": 360.0,
+     "stop": 3,
+     "leg": 2
+    },
+    {
+     "xyz": [
+      -0.042,
+      -1.49,
+      1.957
+     ],
+     "scan_deg": 360.0,
+     "stop": 4,
+     "leg": 3
+    },
+    {
+     "xyz": [
+      0.158,
+      -1.49,
+      3.007
+     ],
+     "scan_deg": 360.0,
+     "stop": 5,
+     "leg": 4
+    },
+    {
+     "xyz": [
+      -0.292,
+      -1.49,
+      3.757
+     ],
+     "scan_deg": 360.0,
+     "stop": 6,
+     "leg": 5
+    },
+    {
+     "xyz": [
+      0.158,
+      -1.49,
+      3.007
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 6
+    },
+    {
+     "xyz": [
+      -0.042,
+      -1.49,
+      1.957
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 7
+    },
+    {
+     "xyz": [
+      0.008,
+      -1.49,
+      0.057
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 8
+    },
+    {
+     "xyz": [
+      0.008,
+      -1.49,
+      -1.893
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 9
+    },
+    {
+     "xyz": [
+      -0.492,
+      -1.49,
+      -2.343
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 10
+    },
+    {
+     "xyz": [
+      -0.342,
+      -1.49,
+      -4.143
+     ],
+     "scan_deg": 360.0,
+     "stop": 7,
+     "leg": 10
+    },
+    {
+     "xyz": [
+      -0.492,
+      -1.49,
+      -2.343
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 11
+    },
+    {
+     "xyz": [
+      0.008,
+      -1.49,
+      -1.893
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 11
+    },
+    {
+     "xyz": [
+      1.658,
+      -1.49,
+      -2.443
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 12
+    },
+    {
+     "xyz": [
+      2.558,
+      -1.49,
+      -2.593
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 13
+    },
+    {
+     "xyz": [
+      2.558,
+      -1.49,
+      -3.893
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 13
+    },
+    {
+     "xyz": [
+      3.108,
+      -1.49,
+      -4.093
+     ],
+     "scan_deg": 360.0,
+     "stop": 8,
+     "leg": 13
+    },
+    {
+     "xyz": [
+      2.558,
+      -1.49,
+      -3.893
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 14
+    },
+    {
+     "xyz": [
+      2.558,
+      -1.49,
+      -2.593
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 14
+    },
+    {
+     "xyz": [
+      1.658,
+      -1.49,
+      -2.443
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 14
+    },
+    {
+     "xyz": [
+      2.658,
+      -1.49,
+      -2.443
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 15
+    },
+    {
+     "xyz": [
+      3.658,
+      -1.49,
+      -2.093
+     ],
+     "scan_deg": 360.0,
+     "stop": 9,
+     "leg": 16
+    },
+    {
+     "xyz": [
+      2.658,
+      -1.49,
+      -2.443
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 17
+    },
+    {
+     "xyz": [
+      2.508,
+      -1.49,
+      -1.093
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 18
+    },
+    {
+     "xyz": [
+      2.808,
+      -1.49,
+      0.107
+     ],
+     "scan_deg": 360.0,
+     "stop": 10,
+     "leg": 18
+    },
+    {
+     "xyz": [
+      2.858,
+      -1.49,
+      -0.293
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 19
+    },
+    {
+     "xyz": [
+      3.908,
+      -1.49,
+      -0.143
+     ],
+     "scan_deg": 360.0,
+     "stop": 11,
+     "leg": 19
+    },
+    {
+     "xyz": [
+      2.858,
+      -1.49,
+      -0.293
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 20
+    },
+    {
+     "xyz": [
+      2.808,
+      -1.49,
+      0.107
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 20
+    },
+    {
+     "xyz": [
+      2.808,
+      -1.49,
+      1.657
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 21
+    },
+    {
+     "xyz": [
+      1.758,
+      -1.49,
+      1.707
+     ],
+     "scan_deg": 360.0,
+     "stop": 12,
+     "leg": 21
+    },
+    {
+     "xyz": [
+      2.808,
+      -1.49,
+      1.657
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 22
+    },
+    {
+     "xyz": [
+      2.808,
+      -1.49,
+      0.107
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 22
+    },
+    {
+     "xyz": [
+      2.508,
+      -1.49,
+      -1.093
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 23
+    },
+    {
+     "xyz": [
+      2.658,
+      -1.49,
+      -2.443
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 23
+    }
+   ],
+   "share": 0.5496
+  },
+  {
+   "gt_rooms_without_a_stop": null,
+   "gt_room_stops_added": 0,
+   "ridge_bridges": 7,
+   "room_seeds": 0,
+   "room_seeds_joined": 0,
+   "coverage_share": 0.871,
+   "coverage_radius_m": 3.0,
+   "height": 1.11,
+   "navigable_m2": 15.4,
+   "waypoints": 6,
+   "waypoints_before_merge": 9,
+   "junctions": 4,
+   "junctions_without_a_stop": 0,
+   "stranded_junctions_recovered": 0,
+   "max_degree": 3,
+   "root_candidates": [
+    [
+     3.058,
+     1.11,
+     -0.643
+    ]
+   ],
+   "root": [
+    3.058,
+    1.11,
+    -0.643
+   ],
+   "unreached": [],
+   "budget": {
+    "drive_m": 57.15,
+    "drive_frames": 381,
+    "corner_turn_deg": 4497,
+    "corner_turn_frames": 450,
+    "scan_stops": 18,
+    "scan_frames": 648,
+    "trajectory_points": 75,
+    "legs_kept_unsimplified": 0,
+    "total_frames": 1479,
+    "per_lap": {
+     "drive_m": 19.05,
+     "drive_frames": 127,
+     "corner_turn_deg": 1499,
+     "corner_turn_frames": 150,
+     "scan_stops": 6,
+     "scan_frames": 216,
+     "trajectory_points": 25,
+     "legs_kept_unsimplified": 0,
+     "total_frames": 493
+    },
+    "laps": 3
+   },
+   "visit_order": [
+    [
+     3.058,
+     1.11,
+     -0.643
+    ],
+    [
+     2.058,
+     1.11,
+     0.507
+    ],
+    [
+     1.558,
+     1.11,
+     -1.093
+    ],
+    [
+     -0.092,
+     1.11,
+     -1.093
+    ],
+    [
+     2.658,
+     1.11,
+     -2.243
+    ],
+    [
+     4.358,
+     1.11,
+     0.057
+    ]
+   ],
+   "trajectory": [
+    {
+     "xyz": [
+      3.058,
+      1.11,
+      -0.643
+     ],
+     "scan_deg": 360.0,
+     "stop": 0,
+     "leg": null
+    },
+    {
+     "xyz": [
+      2.758,
+      1.11,
+      0.307
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 0
+    },
+    {
+     "xyz": [
+      2.058,
+      1.11,
+      0.507
+     ],
+     "scan_deg": 360.0,
+     "stop": 1,
+     "leg": 0
+    },
+    {
+     "xyz": [
+      1.758,
+      1.11,
+      0.457
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 1
+    },
+    {
+     "xyz": [
+      1.558,
+      1.11,
+      -1.093
+     ],
+     "scan_deg": 360.0,
+     "stop": 2,
+     "leg": 1
+    },
+    {
+     "xyz": [
+      1.258,
+      1.11,
+      -1.643
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 2
+    },
+    {
+     "xyz": [
+      0.708,
+      1.11,
+      -1.693
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 2
+    },
+    {
+     "xyz": [
+      0.058,
+      1.11,
+      -1.593
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 2
+    },
+    {
+     "xyz": [
+      -0.092,
+      1.11,
+      -1.093
+     ],
+     "scan_deg": 360.0,
+     "stop": 3,
+     "leg": 2
+    },
+    {
+     "xyz": [
+      0.058,
+      1.11,
+      -1.593
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 3
+    },
+    {
+     "xyz": [
+      0.408,
+      1.11,
+      -1.693
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 3
+    },
+    {
+     "xyz": [
+      1.258,
+      1.11,
+      -1.643
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 3
+    },
+    {
+     "xyz": [
+      1.558,
+      1.11,
+      -1.093
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 3
+    },
+    {
+     "xyz": [
+      1.758,
+      1.11,
+      0.457
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 4
+    },
+    {
+     "xyz": [
+      2.058,
+      1.11,
+      0.507
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 4
+    },
+    {
+     "xyz": [
+      2.758,
+      1.11,
+      0.307
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 5
+    },
+    {
+     "xyz": [
+      3.058,
+      1.11,
+      -0.643
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 5
+    },
+    {
+     "xyz": [
+      2.708,
+      1.11,
+      -1.043
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 6
+    },
+    {
+     "xyz": [
+      2.658,
+      1.11,
+      -2.243
+     ],
+     "scan_deg": 360.0,
+     "stop": 4,
+     "leg": 6
+    },
+    {
+     "xyz": [
+      2.708,
+      1.11,
+      -1.043
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 7
+    },
+    {
+     "xyz": [
+      3.058,
+      1.11,
+      -0.643
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 7
+    },
+    {
+     "xyz": [
+      4.108,
+      1.11,
+      -0.693
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 8
+    },
+    {
+     "xyz": [
+      4.358,
+      1.11,
+      0.057
+     ],
+     "scan_deg": 360.0,
+     "stop": 5,
+     "leg": 8
+    },
+    {
+     "xyz": [
+      4.108,
+      1.11,
+      -0.693
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 9
+    },
+    {
+     "xyz": [
+      3.058,
+      1.11,
+      -0.643
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 9
+    }
+   ],
+   "share": 0.4138
+  }
+ ]
+}

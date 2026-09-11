@@ -1,0 +1,412 @@
+{
+ "scene_id": "00855-c5eTyR3Rxyh",
+ "navmesh": "/DATA/GRAPH-API/lost3dsg/FOUND-Dataset/habitat/hm3d-val-habitat-v0.2/00855-c5eTyR3Rxyh/c5eTyR3Rxyh.basis.navmesh",
+ "settings": {
+  "mpp": 0.05,
+  "robot_radius": 0.25,
+  "spacing": 2.0,
+  "merge_radius": 0.75,
+  "simplify": 0.2,
+  "step": 0.15,
+  "laps": 3,
+  "seed": 7,
+  "min_area": 5.0,
+  "coverage_radius": 3.0
+ },
+ "settings_sha256_16": "0b918c2d2e9492a3",
+ "storeys_detected": [
+  {
+   "z": 0.15,
+   "share": 1.0,
+   "samples": 20000,
+   "peak_z": 0.12
+  }
+ ],
+ "levels_not_toured": [],
+ "stairs_share": 0.0,
+ "schedule": [
+  {
+   "gt_rooms_without_a_stop": null,
+   "gt_room_stops_added": 0,
+   "ridge_bridges": 0,
+   "room_seeds": 0,
+   "room_seeds_joined": 0,
+   "coverage_share": 0.621,
+   "coverage_radius_m": 3.0,
+   "height": 0.15,
+   "navigable_m2": 41.3,
+   "waypoints": 10,
+   "waypoints_before_merge": 14,
+   "junctions": 2,
+   "junctions_without_a_stop": 0,
+   "stranded_junctions_recovered": 0,
+   "max_degree": 3,
+   "root_candidates": [
+    [
+     6.422,
+     0.15,
+     -3.951
+    ],
+    [
+     8.272,
+     0.15,
+     -3.551
+    ]
+   ],
+   "root": [
+    8.272,
+    0.15,
+    -3.551
+   ],
+   "unreached": [],
+   "budget": {
+    "drive_m": 92.97,
+    "drive_frames": 621,
+    "corner_turn_deg": 4662,
+    "corner_turn_frames": 465,
+    "scan_stops": 30,
+    "scan_frames": 1080,
+    "trajectory_points": 81,
+    "legs_kept_unsimplified": 0,
+    "total_frames": 2166,
+    "per_lap": {
+     "drive_m": 30.99,
+     "drive_frames": 207,
+     "corner_turn_deg": 1554,
+     "corner_turn_frames": 155,
+     "scan_stops": 10,
+     "scan_frames": 360,
+     "trajectory_points": 27,
+     "legs_kept_unsimplified": 0,
+     "total_frames": 722
+    },
+    "laps": 3
+   },
+   "visit_order": [
+    [
+     8.272,
+     0.15,
+     -3.551
+    ],
+    [
+     8.572,
+     0.15,
+     -1.851
+    ],
+    [
+     9.972,
+     0.15,
+     -4.151
+    ],
+    [
+     11.722,
+     0.15,
+     -4.101
+    ],
+    [
+     13.072,
+     0.15,
+     -3.501
+    ],
+    [
+     14.922,
+     0.15,
+     -3.401
+    ],
+    [
+     15.722,
+     0.15,
+     -4.601
+    ],
+    [
+     6.422,
+     0.15,
+     -3.951
+    ],
+    [
+     7.022,
+     0.15,
+     -4.801
+    ],
+    [
+     6.222,
+     0.15,
+     -2.201
+    ]
+   ],
+   "trajectory": [
+    {
+     "xyz": [
+      8.272,
+      0.15,
+      -3.551
+     ],
+     "scan_deg": 360.0,
+     "stop": 0,
+     "leg": null
+    },
+    {
+     "xyz": [
+      8.572,
+      0.15,
+      -1.851
+     ],
+     "scan_deg": 360.0,
+     "stop": 1,
+     "leg": 0
+    },
+    {
+     "xyz": [
+      8.272,
+      0.15,
+      -3.551
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 1
+    },
+    {
+     "xyz": [
+      8.722,
+      0.15,
+      -4.001
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 2
+    },
+    {
+     "xyz": [
+      9.972,
+      0.15,
+      -4.151
+     ],
+     "scan_deg": 360.0,
+     "stop": 2,
+     "leg": 2
+    },
+    {
+     "xyz": [
+      11.722,
+      0.15,
+      -4.101
+     ],
+     "scan_deg": 360.0,
+     "stop": 3,
+     "leg": 3
+    },
+    {
+     "xyz": [
+      12.522,
+      0.15,
+      -4.051
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 4
+    },
+    {
+     "xyz": [
+      13.072,
+      0.15,
+      -3.501
+     ],
+     "scan_deg": 360.0,
+     "stop": 4,
+     "leg": 4
+    },
+    {
+     "xyz": [
+      14.922,
+      0.15,
+      -3.401
+     ],
+     "scan_deg": 360.0,
+     "stop": 5,
+     "leg": 5
+    },
+    {
+     "xyz": [
+      15.772,
+      0.15,
+      -3.551
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 6
+    },
+    {
+     "xyz": [
+      15.722,
+      0.15,
+      -4.601
+     ],
+     "scan_deg": 360.0,
+     "stop": 6,
+     "leg": 6
+    },
+    {
+     "xyz": [
+      15.772,
+      0.15,
+      -3.551
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 7
+    },
+    {
+     "xyz": [
+      14.922,
+      0.15,
+      -3.401
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 7
+    },
+    {
+     "xyz": [
+      13.072,
+      0.15,
+      -3.501
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 8
+    },
+    {
+     "xyz": [
+      12.522,
+      0.15,
+      -4.051
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 9
+    },
+    {
+     "xyz": [
+      11.722,
+      0.15,
+      -4.101
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 9
+    },
+    {
+     "xyz": [
+      9.972,
+      0.15,
+      -4.151
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 10
+    },
+    {
+     "xyz": [
+      8.722,
+      0.15,
+      -4.001
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 11
+    },
+    {
+     "xyz": [
+      8.272,
+      0.15,
+      -3.551
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 11
+    },
+    {
+     "xyz": [
+      6.422,
+      0.15,
+      -3.951
+     ],
+     "scan_deg": 360.0,
+     "stop": 7,
+     "leg": 12
+    },
+    {
+     "xyz": [
+      7.022,
+      0.15,
+      -4.801
+     ],
+     "scan_deg": 360.0,
+     "stop": 8,
+     "leg": 13
+    },
+    {
+     "xyz": [
+      6.422,
+      0.15,
+      -3.951
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 14
+    },
+    {
+     "xyz": [
+      6.072,
+      0.15,
+      -3.251
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 15
+    },
+    {
+     "xyz": [
+      6.222,
+      0.15,
+      -2.201
+     ],
+     "scan_deg": 360.0,
+     "stop": 9,
+     "leg": 15
+    },
+    {
+     "xyz": [
+      6.072,
+      0.15,
+      -3.251
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 16
+    },
+    {
+     "xyz": [
+      6.422,
+      0.15,
+      -3.951
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 16
+    },
+    {
+     "xyz": [
+      8.272,
+      0.15,
+      -3.551
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 17
+    }
+   ],
+   "share": 1.0
+  }
+ ]
+}

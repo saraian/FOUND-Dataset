@@ -1,0 +1,447 @@
+{
+ "scene_id": "00826-BFRyYbPCCPE",
+ "navmesh": "/DATA/GRAPH-API/lost3dsg/FOUND-Dataset/habitat/hm3d-val-habitat-v0.2/00826-BFRyYbPCCPE/BFRyYbPCCPE.basis.navmesh",
+ "settings": {
+  "mpp": 0.05,
+  "robot_radius": 0.25,
+  "spacing": 2.0,
+  "merge_radius": 0.75,
+  "simplify": 0.2,
+  "step": 0.15,
+  "laps": 3,
+  "seed": 7,
+  "min_area": 5.0,
+  "coverage_radius": 3.0
+ },
+ "settings_sha256_16": "0b918c2d2e9492a3",
+ "storeys_detected": [
+  {
+   "z": 0.18,
+   "share": 1.0,
+   "samples": 20000,
+   "peak_z": 0.15
+  }
+ ],
+ "levels_not_toured": [],
+ "stairs_share": 0.0,
+ "schedule": [
+  {
+   "gt_rooms_without_a_stop": null,
+   "gt_room_stops_added": 0,
+   "ridge_bridges": 2,
+   "room_seeds": 0,
+   "room_seeds_joined": 0,
+   "coverage_share": 1.0,
+   "coverage_radius_m": 3.0,
+   "height": 0.18,
+   "navigable_m2": 15.8,
+   "waypoints": 10,
+   "waypoints_before_merge": 17,
+   "junctions": 6,
+   "junctions_without_a_stop": 0,
+   "stranded_junctions_recovered": 1,
+   "max_degree": 5,
+   "root_candidates": [
+    [
+     -2.745,
+     0.18,
+     0.148
+    ]
+   ],
+   "root": [
+    -2.745,
+    0.18,
+    0.148
+   ],
+   "unreached": [],
+   "budget": {
+    "drive_m": 86.82,
+    "drive_frames": 579,
+    "corner_turn_deg": 7701,
+    "corner_turn_frames": 771,
+    "scan_stops": 30,
+    "scan_frames": 1080,
+    "trajectory_points": 93,
+    "legs_kept_unsimplified": 0,
+    "total_frames": 2430,
+    "per_lap": {
+     "drive_m": 28.94,
+     "drive_frames": 193,
+     "corner_turn_deg": 2567,
+     "corner_turn_frames": 257,
+     "scan_stops": 10,
+     "scan_frames": 360,
+     "trajectory_points": 31,
+     "legs_kept_unsimplified": 0,
+     "total_frames": 810
+    },
+    "laps": 3
+   },
+   "visit_order": [
+    [
+     -2.745,
+     0.18,
+     0.148
+    ],
+    [
+     -3.445,
+     0.18,
+     1.548
+    ],
+    [
+     -3.345,
+     0.18,
+     2.298
+    ],
+    [
+     -3.945,
+     0.18,
+     3.148
+    ],
+    [
+     -2.395,
+     0.18,
+     3.348
+    ],
+    [
+     -5.045,
+     0.18,
+     1.848
+    ],
+    [
+     -1.495,
+     0.18,
+     0.798
+    ],
+    [
+     -1.995,
+     0.18,
+     -1.052
+    ],
+    [
+     -4.195,
+     0.18,
+     -0.852
+    ],
+    [
+     -4.245,
+     0.18,
+     -2.402
+    ]
+   ],
+   "trajectory": [
+    {
+     "xyz": [
+      -2.745,
+      0.18,
+      0.148
+     ],
+     "scan_deg": 360.0,
+     "stop": 0,
+     "leg": null
+    },
+    {
+     "xyz": [
+      -3.445,
+      0.18,
+      1.548
+     ],
+     "scan_deg": 360.0,
+     "stop": 1,
+     "leg": 0
+    },
+    {
+     "xyz": [
+      -3.345,
+      0.18,
+      2.298
+     ],
+     "scan_deg": 360.0,
+     "stop": 2,
+     "leg": 1
+    },
+    {
+     "xyz": [
+      -3.945,
+      0.18,
+      3.148
+     ],
+     "scan_deg": 360.0,
+     "stop": 3,
+     "leg": 2
+    },
+    {
+     "xyz": [
+      -3.345,
+      0.18,
+      2.298
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 3
+    },
+    {
+     "xyz": [
+      -2.295,
+      0.18,
+      2.948
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 4
+    },
+    {
+     "xyz": [
+      -2.395,
+      0.18,
+      3.348
+     ],
+     "scan_deg": 360.0,
+     "stop": 4,
+     "leg": 4
+    },
+    {
+     "xyz": [
+      -2.295,
+      0.18,
+      2.948
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 5
+    },
+    {
+     "xyz": [
+      -3.345,
+      0.18,
+      2.298
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 5
+    },
+    {
+     "xyz": [
+      -3.445,
+      0.18,
+      1.548
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 6
+    },
+    {
+     "xyz": [
+      -4.695,
+      0.18,
+      1.248
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 7
+    },
+    {
+     "xyz": [
+      -5.045,
+      0.18,
+      1.848
+     ],
+     "scan_deg": 360.0,
+     "stop": 5,
+     "leg": 7
+    },
+    {
+     "xyz": [
+      -4.695,
+      0.18,
+      1.248
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 8
+    },
+    {
+     "xyz": [
+      -3.445,
+      0.18,
+      1.548
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 8
+    },
+    {
+     "xyz": [
+      -2.745,
+      0.18,
+      0.148
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 9
+    },
+    {
+     "xyz": [
+      -2.195,
+      0.18,
+      -0.002
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 10
+    },
+    {
+     "xyz": [
+      -1.495,
+      0.18,
+      0.798
+     ],
+     "scan_deg": 360.0,
+     "stop": 6,
+     "leg": 10
+    },
+    {
+     "xyz": [
+      -2.195,
+      0.18,
+      0.048
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 11
+    },
+    {
+     "xyz": [
+      -1.745,
+      0.18,
+      -0.852
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 11
+    },
+    {
+     "xyz": [
+      -1.995,
+      0.18,
+      -1.052
+     ],
+     "scan_deg": 360.0,
+     "stop": 7,
+     "leg": 11
+    },
+    {
+     "xyz": [
+      -1.745,
+      0.18,
+      -0.852
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 12
+    },
+    {
+     "xyz": [
+      -2.195,
+      0.18,
+      0.048
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 12
+    },
+    {
+     "xyz": [
+      -1.495,
+      0.18,
+      0.798
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 12
+    },
+    {
+     "xyz": [
+      -2.195,
+      0.18,
+      -0.002
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 13
+    },
+    {
+     "xyz": [
+      -2.745,
+      0.18,
+      0.148
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 13
+    },
+    {
+     "xyz": [
+      -4.195,
+      0.18,
+      -0.852
+     ],
+     "scan_deg": 360.0,
+     "stop": 8,
+     "leg": 14
+    },
+    {
+     "xyz": [
+      -4.545,
+      0.18,
+      -1.202
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 15
+    },
+    {
+     "xyz": [
+      -4.245,
+      0.18,
+      -2.402
+     ],
+     "scan_deg": 360.0,
+     "stop": 9,
+     "leg": 15
+    },
+    {
+     "xyz": [
+      -4.545,
+      0.18,
+      -1.202
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 16
+    },
+    {
+     "xyz": [
+      -4.195,
+      0.18,
+      -0.852
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 16
+    },
+    {
+     "xyz": [
+      -2.745,
+      0.18,
+      0.148
+     ],
+     "scan_deg": 0,
+     "stop": null,
+     "leg": 17
+    }
+   ],
+   "share": 1.0
+  }
+ ]
+}

@@ -1,0 +1,805 @@
+{
+ "scene_root": "/DATA/GRAPH-API/lost3dsg/FOUND-Dataset/habitat/hm3d-val-habitat-v0.2",
+ "scenes": [
+  {
+   "scene_id": "00800-TEEsavR23oF",
+   "file": "00800-TEEsavR23oF.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 45,
+   "frames": 10839
+  },
+  {
+   "scene_id": "00801-HaxA7YrQdEC",
+   "file": "00801-HaxA7YrQdEC.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 45,
+   "frames": 10140
+  },
+  {
+   "scene_id": "00802-wcojb4TFT35",
+   "file": "00802-wcojb4TFT35.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 68,
+   "frames": 15912
+  },
+  {
+   "scene_id": "00803-k1cupFYWXJ6",
+   "file": "00803-k1cupFYWXJ6.schedule.json",
+   "storeys": 4,
+   "storeys_with_a_schedule": 4,
+   "stops": 79,
+   "frames": 18237
+  },
+  {
+   "scene_id": "00804-BHXhpBwSMLh",
+   "file": "00804-BHXhpBwSMLh.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 53,
+   "frames": 13050
+  },
+  {
+   "scene_id": "00805-SUHsP6z2gcJ",
+   "file": "00805-SUHsP6z2gcJ.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 64,
+   "frames": 14730
+  },
+  {
+   "scene_id": "00806-tQ5s4ShP627",
+   "file": "00806-tQ5s4ShP627.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 53,
+   "frames": 12009
+  },
+  {
+   "scene_id": "00807-rsggHU7g7dh",
+   "file": "00807-rsggHU7g7dh.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 115,
+   "frames": 28926
+  },
+  {
+   "scene_id": "00808-y9hTuugGdiq",
+   "file": "00808-y9hTuugGdiq.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 89,
+   "frames": 21090
+  },
+  {
+   "scene_id": "00809-Qpor2mEya8F",
+   "file": "00809-Qpor2mEya8F.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 106,
+   "frames": 27003
+  },
+  {
+   "scene_id": "00810-CrMo8WxCyVb",
+   "file": "00810-CrMo8WxCyVb.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 56,
+   "frames": 13464
+  },
+  {
+   "scene_id": "00811-7UrtFsADwob",
+   "file": "00811-7UrtFsADwob.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 30,
+   "frames": 6897
+  },
+  {
+   "scene_id": "00812-mma8eWq3nNQ",
+   "file": "00812-mma8eWq3nNQ.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 37,
+   "frames": 8586
+  },
+  {
+   "scene_id": "00813-svBbv1Pavdk",
+   "file": "00813-svBbv1Pavdk.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 42,
+   "frames": 10134
+  },
+  {
+   "scene_id": "00814-p53SfW6mjZe",
+   "file": "00814-p53SfW6mjZe.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 104,
+   "frames": 23547
+  },
+  {
+   "scene_id": "00815-h1zeeAwLh9Z",
+   "file": "00815-h1zeeAwLh9Z.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 62,
+   "frames": 14856
+  },
+  {
+   "scene_id": "00816-q3hn1WQ12rz",
+   "file": "00816-q3hn1WQ12rz.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 38,
+   "frames": 8142
+  },
+  {
+   "scene_id": "00817-X4qjx5vquwH",
+   "file": "00817-X4qjx5vquwH.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 163,
+   "frames": 39327
+  },
+  {
+   "scene_id": "00818-rJhMRvNn4DS",
+   "file": "00818-rJhMRvNn4DS.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 39,
+   "frames": 9051
+  },
+  {
+   "scene_id": "00819-6D36GQHuP8H",
+   "file": "00819-6D36GQHuP8H.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 60,
+   "frames": 13719
+  },
+  {
+   "scene_id": "00820-mL8ThkuaVTM",
+   "file": "00820-mL8ThkuaVTM.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 27,
+   "frames": 6216
+  },
+  {
+   "scene_id": "00821-eF36g7L6Z9M",
+   "file": "00821-eF36g7L6Z9M.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 135,
+   "frames": 31956
+  },
+  {
+   "scene_id": "00822-nrA1tAA17Yp",
+   "file": "00822-nrA1tAA17Yp.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 29,
+   "frames": 6420
+  },
+  {
+   "scene_id": "00823-7MXmsvcQjpJ",
+   "file": "00823-7MXmsvcQjpJ.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 52,
+   "frames": 14148
+  },
+  {
+   "scene_id": "00824-Dd4bFSTQ8gi",
+   "file": "00824-Dd4bFSTQ8gi.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 48,
+   "frames": 11121
+  },
+  {
+   "scene_id": "00825-jgPBycuV1Jq",
+   "file": "00825-jgPBycuV1Jq.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 56,
+   "frames": 13335
+  },
+  {
+   "scene_id": "00826-BFRyYbPCCPE",
+   "file": "00826-BFRyYbPCCPE.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 10,
+   "frames": 2430
+  },
+  {
+   "scene_id": "00827-BAbdmeyTvMZ",
+   "file": "00827-BAbdmeyTvMZ.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 22,
+   "frames": 5754
+  },
+  {
+   "scene_id": "00828-X7gTkoDHViv",
+   "file": "00828-X7gTkoDHViv.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 31,
+   "frames": 6225
+  },
+  {
+   "scene_id": "00829-QaLdnwvtxbs",
+   "file": "00829-QaLdnwvtxbs.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 30,
+   "frames": 7176
+  },
+  {
+   "scene_id": "00830-5jp3fCRSRjc",
+   "file": "00830-5jp3fCRSRjc.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 124,
+   "frames": 31095
+  },
+  {
+   "scene_id": "00831-yr17PDCnDDW",
+   "file": "00831-yr17PDCnDDW.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 128,
+   "frames": 30141
+  },
+  {
+   "scene_id": "00832-qyAac8rV8Zk",
+   "file": "00832-qyAac8rV8Zk.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 45,
+   "frames": 11718
+  },
+  {
+   "scene_id": "00833-dHwjuKfkRUR",
+   "file": "00833-dHwjuKfkRUR.schedule.json",
+   "storeys": 4,
+   "storeys_with_a_schedule": 4,
+   "stops": 82,
+   "frames": 20505
+  },
+  {
+   "scene_id": "00834-AWUFxHEyV3T",
+   "file": "00834-AWUFxHEyV3T.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 57,
+   "frames": 13671
+  },
+  {
+   "scene_id": "00835-q3zU7Yy5E5s",
+   "file": "00835-q3zU7Yy5E5s.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 23,
+   "frames": 5094
+  },
+  {
+   "scene_id": "00836-7GAhQPFzMot",
+   "file": "00836-7GAhQPFzMot.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 43,
+   "frames": 10530
+  },
+  {
+   "scene_id": "00837-vBMLrTe4uLA",
+   "file": "00837-vBMLrTe4uLA.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 49,
+   "frames": 11418
+  },
+  {
+   "scene_id": "00838-kJJyRFXVpx2",
+   "file": "00838-kJJyRFXVpx2.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 62,
+   "frames": 14964
+  },
+  {
+   "scene_id": "00839-zt1RVoi7PcG",
+   "file": "00839-zt1RVoi7PcG.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 71,
+   "frames": 17028
+  },
+  {
+   "scene_id": "00840-z9YwN9M8FpG",
+   "file": "00840-z9YwN9M8FpG.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 48,
+   "frames": 11568
+  },
+  {
+   "scene_id": "00841-SByzJLxpRGn",
+   "file": "00841-SByzJLxpRGn.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 80,
+   "frames": 18933
+  },
+  {
+   "scene_id": "00842-hkr2MGpHD6B",
+   "file": "00842-hkr2MGpHD6B.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 86,
+   "frames": 21021
+  },
+  {
+   "scene_id": "00843-DYehNKdT76V",
+   "file": "00843-DYehNKdT76V.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 44,
+   "frames": 9543
+  },
+  {
+   "scene_id": "00844-q5QZSEeHe5g",
+   "file": "00844-q5QZSEeHe5g.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 72,
+   "frames": 15834
+  },
+  {
+   "scene_id": "00845-c3WKCnkEdha",
+   "file": "00845-c3WKCnkEdha.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 25,
+   "frames": 6648
+  },
+  {
+   "scene_id": "00846-LNg5mXe1BDj",
+   "file": "00846-LNg5mXe1BDj.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 75,
+   "frames": 19017
+  },
+  {
+   "scene_id": "00847-bCPU9suPUw9",
+   "file": "00847-bCPU9suPUw9.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 35,
+   "frames": 8184
+  },
+  {
+   "scene_id": "00848-ziup5kvtCCR",
+   "file": "00848-ziup5kvtCCR.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 43,
+   "frames": 10749
+  },
+  {
+   "scene_id": "00849-a8BtkwhxdRV",
+   "file": "00849-a8BtkwhxdRV.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 35,
+   "frames": 8505
+  },
+  {
+   "scene_id": "00850-W7k2QWzBrFY",
+   "file": "00850-W7k2QWzBrFY.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 37,
+   "frames": 8454
+  },
+  {
+   "scene_id": "00851-YRUkbU5xsYj",
+   "file": "00851-YRUkbU5xsYj.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 106,
+   "frames": 25896
+  },
+  {
+   "scene_id": "00852-T6nG3E2Uui9",
+   "file": "00852-T6nG3E2Uui9.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 32,
+   "frames": 7473
+  },
+  {
+   "scene_id": "00853-5cdEh9F2hJL",
+   "file": "00853-5cdEh9F2hJL.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 53,
+   "frames": 12354
+  },
+  {
+   "scene_id": "00854-SiKqEZx7Ejt",
+   "file": "00854-SiKqEZx7Ejt.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 43,
+   "frames": 10017
+  },
+  {
+   "scene_id": "00855-c5eTyR3Rxyh",
+   "file": "00855-c5eTyR3Rxyh.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 10,
+   "frames": 2166
+  },
+  {
+   "scene_id": "00856-FnSn2KSrALj",
+   "file": "00856-FnSn2KSrALj.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 39,
+   "frames": 8466
+  },
+  {
+   "scene_id": "00857-L53DsRRk4Ch",
+   "file": "00857-L53DsRRk4Ch.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 35,
+   "frames": 8850
+  },
+  {
+   "scene_id": "00858-cYkrGrCg2kB",
+   "file": "00858-cYkrGrCg2kB.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 52,
+   "frames": 12942
+  },
+  {
+   "scene_id": "00859-3t8DB4Uzvkt",
+   "file": "00859-3t8DB4Uzvkt.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 68,
+   "frames": 16137
+  },
+  {
+   "scene_id": "00860-RJaJt8UjXav",
+   "file": "00860-RJaJt8UjXav.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 28,
+   "frames": 6372
+  },
+  {
+   "scene_id": "00861-GLAQ4DNUx5U",
+   "file": "00861-GLAQ4DNUx5U.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 69,
+   "frames": 16272
+  },
+  {
+   "scene_id": "00862-LT9Jq6dN3Ea",
+   "file": "00862-LT9Jq6dN3Ea.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 149,
+   "frames": 36015
+  },
+  {
+   "scene_id": "00863-b28CWbpQvor",
+   "file": "00863-b28CWbpQvor.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 61,
+   "frames": 13908
+  },
+  {
+   "scene_id": "00864-QHhQZWdMpGJ",
+   "file": "00864-QHhQZWdMpGJ.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 49,
+   "frames": 12939
+  },
+  {
+   "scene_id": "00865-fsQtJ8t3nTf",
+   "file": "00865-fsQtJ8t3nTf.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 22,
+   "frames": 4881
+  },
+  {
+   "scene_id": "00866-XNeHsjL6nBB",
+   "file": "00866-XNeHsjL6nBB.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 49,
+   "frames": 12492
+  },
+  {
+   "scene_id": "00867-uLz9jNga3kC",
+   "file": "00867-uLz9jNga3kC.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 40,
+   "frames": 10818
+  },
+  {
+   "scene_id": "00868-vd3HHTEpmyA",
+   "file": "00868-vd3HHTEpmyA.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 91,
+   "frames": 20952
+  },
+  {
+   "scene_id": "00869-MHPLjHsuG27",
+   "file": "00869-MHPLjHsuG27.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 25,
+   "frames": 6624
+  },
+  {
+   "scene_id": "00870-AYpsNQsWncn",
+   "file": "00870-AYpsNQsWncn.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 40,
+   "frames": 9210
+  },
+  {
+   "scene_id": "00871-VBzV5z6i1WS",
+   "file": "00871-VBzV5z6i1WS.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 37,
+   "frames": 8760
+  },
+  {
+   "scene_id": "00872-F7EAMsdDASd",
+   "file": "00872-F7EAMsdDASd.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 19,
+   "frames": 4548
+  },
+  {
+   "scene_id": "00873-bxsVRursffK",
+   "file": "00873-bxsVRursffK.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 38,
+   "frames": 9093
+  },
+  {
+   "scene_id": "00874-uSKXQ5fFg6u",
+   "file": "00874-uSKXQ5fFg6u.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 32,
+   "frames": 7452
+  },
+  {
+   "scene_id": "00875-66seV3BWPoX",
+   "file": "00875-66seV3BWPoX.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 32,
+   "frames": 7650
+  },
+  {
+   "scene_id": "00876-mv2HUxq3B53",
+   "file": "00876-mv2HUxq3B53.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 76,
+   "frames": 17316
+  },
+  {
+   "scene_id": "00877-4ok3usBNeis",
+   "file": "00877-4ok3usBNeis.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 48,
+   "frames": 12072
+  },
+  {
+   "scene_id": "00878-XB4GS9ShBRE",
+   "file": "00878-XB4GS9ShBRE.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 33,
+   "frames": 8049
+  },
+  {
+   "scene_id": "00879-7Ukhou1GxYi",
+   "file": "00879-7Ukhou1GxYi.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 67,
+   "frames": 15963
+  },
+  {
+   "scene_id": "00880-Nfvxx8J5NCo",
+   "file": "00880-Nfvxx8J5NCo.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 43,
+   "frames": 10848
+  },
+  {
+   "scene_id": "00881-u1bkiGRVyu9",
+   "file": "00881-u1bkiGRVyu9.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 49,
+   "frames": 10761
+  },
+  {
+   "scene_id": "00882-rXXL6twQiWc",
+   "file": "00882-rXXL6twQiWc.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 51,
+   "frames": 12222
+  },
+  {
+   "scene_id": "00883-u8ug2rtNARf",
+   "file": "00883-u8ug2rtNARf.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 24,
+   "frames": 5487
+  },
+  {
+   "scene_id": "00884-XMHNu9rRQ1y",
+   "file": "00884-XMHNu9rRQ1y.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 110,
+   "frames": 26085
+  },
+  {
+   "scene_id": "00885-dVW2D7TDctW",
+   "file": "00885-dVW2D7TDctW.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 80,
+   "frames": 18762
+  },
+  {
+   "scene_id": "00886-TPhiubUHKcP",
+   "file": "00886-TPhiubUHKcP.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 34,
+   "frames": 7611
+  },
+  {
+   "scene_id": "00887-hyFzGGJCSYs",
+   "file": "00887-hyFzGGJCSYs.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 28,
+   "frames": 6870
+  },
+  {
+   "scene_id": "00888-hDBqLgydy1n",
+   "file": "00888-hDBqLgydy1n.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 39,
+   "frames": 8547
+  },
+  {
+   "scene_id": "00889-HMkoS756sz6",
+   "file": "00889-HMkoS756sz6.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 38,
+   "frames": 9078
+  },
+  {
+   "scene_id": "00890-6s7QHgap2fW",
+   "file": "00890-6s7QHgap2fW.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 54,
+   "frames": 12714
+  },
+  {
+   "scene_id": "00891-cvZr5TUy5C5",
+   "file": "00891-cvZr5TUy5C5.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 113,
+   "frames": 26223
+  },
+  {
+   "scene_id": "00892-bzCsHPLDztK",
+   "file": "00892-bzCsHPLDztK.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 38,
+   "frames": 8667
+  },
+  {
+   "scene_id": "00893-yZME6UR9dUN",
+   "file": "00893-yZME6UR9dUN.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 98,
+   "frames": 24252
+  },
+  {
+   "scene_id": "00894-HY1NcmCgn3n",
+   "file": "00894-HY1NcmCgn3n.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 77,
+   "frames": 17943
+  },
+  {
+   "scene_id": "00895-auFeVz9Go4m",
+   "file": "00895-auFeVz9Go4m.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 80,
+   "frames": 19860
+  },
+  {
+   "scene_id": "00896-5hGmubEE6ZF",
+   "file": "00896-5hGmubEE6ZF.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 37,
+   "frames": 9315
+  },
+  {
+   "scene_id": "00897-LEFTm3JecaC",
+   "file": "00897-LEFTm3JecaC.schedule.json",
+   "storeys": 2,
+   "storeys_with_a_schedule": 2,
+   "stops": 68,
+   "frames": 17475
+  },
+  {
+   "scene_id": "00898-8CRYizAb6yd",
+   "file": "00898-8CRYizAb6yd.schedule.json",
+   "storeys": 1,
+   "storeys_with_a_schedule": 1,
+   "stops": 37,
+   "frames": 9342
+  },
+  {
+   "scene_id": "00899-58NLZxWBSpk",
+   "file": "00899-58NLZxWBSpk.schedule.json",
+   "storeys": 3,
+   "storeys_with_a_schedule": 3,
+   "stops": 50,
+   "frames": 11589
+  }
+ ]
+}
