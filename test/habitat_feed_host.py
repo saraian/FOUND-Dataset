@@ -1296,7 +1296,7 @@ def main():
     # cleanly and its dwell is in NONE of the four places it could be — no feed block in
     # run_metadata.json, no feed_stats.json, and config.yaml records the intent rather than the
     # effect (bundle 20260831_033330 has config.yaml mapping_seconds 0.0 against a feed_stats.json
-    # and a log that both say 150). live_run.sh now stamps these into the bundle, but live_run.sh
+    # and a log that both say 150). run_sim.sh now stamps these into the bundle, but run_sim.sh
     # is not the only way this file is started, and a run started any other way was exactly how
     # run 19 became unrecoverable. This line costs nothing and fails closed.
     print(f"[feed] resolved: walk={walk_frames} dwell={dwell_frames} fps={FPS} "

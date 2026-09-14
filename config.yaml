@@ -62,9 +62,6 @@ habitat:
   # storeys and HM3D navmeshes join them through the stairs (goal filter on height)
   single_floor: true
   floor_tolerance_m: 0.5
-  mapping_seconds: 150.0   # initial continuous mapping coverage duration (seconds)
-  walk_frames: 6          # frames moving per burst
-  dwell_frames: 60        # frames stationary / dwelling for 3D perception
   fps: 3.0                # simulator framerate
 
 hooks:
