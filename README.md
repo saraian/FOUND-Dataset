@@ -1,6 +1,6 @@
 # FOUND-Dataset
 
-The repository contains the Habitat dataset in `habitat/`, together with the objects that will move in the scene, declarative scripts
+You must download the Habitat dataset in the directory `habitat/`, along with the additional objects that will move the scene (https://huggingface.co/datasets/ai-habitat/ycb). In this repo you can find the declarative scripts
 in `scripts/`, a prompt-driven generator, and a ROS 2 runner.
 
 ## One-time setup
